@@ -14,7 +14,7 @@ async def list_exam_bundles():
     """Get available exam bundles"""
     try:
         # Load the generated exam bundle
-        with open('/app/complete_lgs_exam_bundle_v2.json', 'r', encoding='utf-8') as f:
+        with open('complete_lgs_exam_bundle_v2.json', 'r', encoding='utf-8') as f:
             bundle_data = json.load(f)
         
         bundle_info = bundle_data.get('bundle_info', {})
@@ -60,7 +60,7 @@ async def get_bundle_questions(bundle_id: str, shuffle: bool = True):
         raise HTTPException(status_code=404, detail="Bundle not found")
     
     try:
-        with open('/app/complete_lgs_exam_bundle_v2.json', 'r', encoding='utf-8') as f:
+        with open('complete_lgs_exam_bundle_v2.json', 'r', encoding='utf-8') as f:
             bundle_data = json.load(f)
         
         questions = bundle_data.get('questions', [])
@@ -451,10 +451,10 @@ async def generate_new_bundle(
     try:
         # Run the bundle generator
         result = subprocess.run(
-            ['python', '/app/generate_complete_lgs_bundle_v2.py'],
+            ['python', 'generate_complete_lgs_bundle_v2.py'],
             capture_output=True,
             text=True,
-            cwd='/app'
+            cwd='.'
         )
         
         if result.returncode != 0:
