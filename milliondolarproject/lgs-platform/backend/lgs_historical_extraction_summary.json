@@ -1,0 +1,14 @@
+{
+  "total_pdfs_found": 13,
+  "successfully_processed": 3,
+  "total_questions_extracted": 12,
+  "by_year": {
+    "unknown": 12
+  },
+  "by_subject": {
+    "unknown": 12
+  },
+  "by_type": {
+    "unknown": 12
+  }
+}

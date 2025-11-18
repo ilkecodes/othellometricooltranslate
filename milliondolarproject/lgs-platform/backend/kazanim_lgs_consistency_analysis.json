@@ -1,0 +1,1273 @@
+{
+  "total_kazanimlar": 254,
+  "subjects_analysis": {
+    "Matematik": {
+      "kazanim_count": 33,
+      "lgs_mapped": true,
+      "lgs_subject": "Matematik",
+      "topic_coverage": {
+        "Çarpanlar ve Katlar": {
+          "name": "Çarpanlar ve Katlar",
+          "avg_percentage": 9.3,
+          "total_questions": 13,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Üslü Sayılar": {
+          "name": "Üslü Sayılar",
+          "avg_percentage": 13.6,
+          "total_questions": 19,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Köklü Sayılar": {
+          "name": "Köklü Sayılar",
+          "avg_percentage": 15.7,
+          "total_questions": 22,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Veri Analizi": {
+          "name": "Veri Analizi",
+          "avg_percentage": 7.1,
+          "total_questions": 10,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Olasılık": {
+          "name": "Olasılık",
+          "avg_percentage": 7.1,
+          "total_questions": 10,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Cebirsel İfadeler ve Eşitsizlikler": {
+          "name": "Cebirsel İfadeler ve Eşitsizlikler",
+          "avg_percentage": 14.3,
+          "total_questions": 20,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Doğrusal Denklemler": {
+          "name": "Doğrusal Denklemler",
+          "avg_percentage": 12.9,
+          "total_questions": 18,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Eşitsizlikler": {
+          "name": "Eşitsizlikler",
+          "avg_percentage": 5.0,
+          "total_questions": 7,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Üçgenler": {
+          "name": "Üçgenler",
+          "avg_percentage": 6.4,
+          "total_questions": 9,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Eşlik ve Benzerlik": {
+          "name": "Eşlik ve Benzerlik",
+          "avg_percentage": 3.6,
+          "total_questions": 5,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Geometrik Cisimler": {
+          "name": "Geometrik Cisimler",
+          "avg_percentage": 4.3,
+          "total_questions": 6,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Dönüşüm Geometrisi": {
+          "name": "Dönüşüm Geometrisi",
+          "avg_percentage": 2.9,
+          "total_questions": 4,
+          "years_covered": 7,
+          "kazanim_codes": []
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "Köklü Sayılar",
+            "avg_percentage": 15.7,
+            "total_questions": 22,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Çarpanlar ve Katlar",
+            "avg_percentage": 9.3,
+            "total_questions": 13,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Üslü Sayılar",
+            "avg_percentage": 13.6,
+            "total_questions": 19,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Veri Analizi",
+            "avg_percentage": 7.1,
+            "total_questions": 10,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Olasılık",
+            "avg_percentage": 7.1,
+            "total_questions": 10,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Cebirsel İfadeler ve Eşitsizlikler",
+            "avg_percentage": 14.3,
+            "total_questions": 20,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Doğrusal Denklemler",
+            "avg_percentage": 12.9,
+            "total_questions": 18,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Eşitsizlikler",
+            "avg_percentage": 5.0,
+            "total_questions": 7,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Üçgenler",
+            "avg_percentage": 6.4,
+            "total_questions": 9,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "low_frequency": [
+          {
+            "name": "Eşlik ve Benzerlik",
+            "avg_percentage": 3.6,
+            "total_questions": 5,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Geometrik Cisimler",
+            "avg_percentage": 4.3,
+            "total_questions": 6,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Dönüşüm Geometrisi",
+            "avg_percentage": 2.9,
+            "total_questions": 4,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "unmapped": []
+      }
+    },
+    "Türkçe": {
+      "kazanim_count": 16,
+      "lgs_mapped": true,
+      "lgs_subject": "Türkçe",
+      "topic_coverage": {
+        "Sözcükte Anlam": {
+          "name": "Sözcükte Anlam",
+          "avg_percentage": 7.9,
+          "total_questions": 11,
+          "years_covered": 7,
+          "kazanim_codes": null
+        },
+        "Deyimler ve Atasözleri": {
+          "name": "Deyimler ve Atasözleri",
+          "avg_percentage": 6.7,
+          "total_questions": 4,
+          "years_covered": 3,
+          "kazanim_codes": null
+        },
+        "Cümlede Anlam": {
+          "name": "Cümlede Anlam",
+          "avg_percentage": 10.7,
+          "total_questions": 15,
+          "years_covered": 7,
+          "kazanim_codes": null
+        },
+        "Sözel Mantık / Görsel Okuma": {
+          "name": "Sözel Mantık / Görsel Okuma",
+          "avg_percentage": 22.1,
+          "total_questions": 31,
+          "years_covered": 7,
+          "kazanim_codes": null
+        },
+        "Parçada Anlam": {
+          "name": "Parçada Anlam",
+          "avg_percentage": 29.3,
+          "total_questions": 41,
+          "years_covered": 7,
+          "kazanim_codes": null
+        },
+        "Söz Sanatları": {
+          "name": "Söz Sanatları",
+          "avg_percentage": 5.0,
+          "total_questions": 1,
+          "years_covered": 1,
+          "kazanim_codes": null
+        },
+        "Metin Türleri": {
+          "name": "Metin Türleri",
+          "avg_percentage": 5.8,
+          "total_questions": 7,
+          "years_covered": 6,
+          "kazanim_codes": null
+        },
+        "Noktalama İşaretleri": {
+          "name": "Noktalama İşaretleri",
+          "avg_percentage": 5.0,
+          "total_questions": 6,
+          "years_covered": 6,
+          "kazanim_codes": null
+        },
+        "Yazım Kuralları": {
+          "name": "Yazım Kuralları",
+          "avg_percentage": 5.0,
+          "total_questions": 6,
+          "years_covered": 6,
+          "kazanim_codes": null
+        },
+        "Fiilimsiler": {
+          "name": "Fiilimsiler",
+          "avg_percentage": 5.0,
+          "total_questions": 5,
+          "years_covered": 5,
+          "kazanim_codes": null
+        },
+        "Cümlenin Öğeleri": {
+          "name": "Cümlenin Öğeleri",
+          "avg_percentage": 5.0,
+          "total_questions": 3,
+          "years_covered": 3,
+          "kazanim_codes": null
+        },
+        "Cümle Türleri": {
+          "name": "Cümle Türleri",
+          "avg_percentage": 5.0,
+          "total_questions": 5,
+          "years_covered": 5,
+          "kazanim_codes": null
+        },
+        "Anlatım Bozukluğu": {
+          "name": "Anlatım Bozukluğu",
+          "avg_percentage": 6.2,
+          "total_questions": 5,
+          "years_covered": 4,
+          "kazanim_codes": null
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "Sözel Mantık / Görsel Okuma",
+            "avg_percentage": 22.1,
+            "total_questions": 31,
+            "years_covered": 7,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Parçada Anlam",
+            "avg_percentage": 29.3,
+            "total_questions": 41,
+            "years_covered": 7,
+            "kazanim_codes": null
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Sözcükte Anlam",
+            "avg_percentage": 7.9,
+            "total_questions": 11,
+            "years_covered": 7,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Deyimler ve Atasözleri",
+            "avg_percentage": 6.7,
+            "total_questions": 4,
+            "years_covered": 3,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Cümlede Anlam",
+            "avg_percentage": 10.7,
+            "total_questions": 15,
+            "years_covered": 7,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Söz Sanatları",
+            "avg_percentage": 5.0,
+            "total_questions": 1,
+            "years_covered": 1,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Metin Türleri",
+            "avg_percentage": 5.8,
+            "total_questions": 7,
+            "years_covered": 6,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Noktalama İşaretleri",
+            "avg_percentage": 5.0,
+            "total_questions": 6,
+            "years_covered": 6,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Yazım Kuralları",
+            "avg_percentage": 5.0,
+            "total_questions": 6,
+            "years_covered": 6,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Fiilimsiler",
+            "avg_percentage": 5.0,
+            "total_questions": 5,
+            "years_covered": 5,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Cümlenin Öğeleri",
+            "avg_percentage": 5.0,
+            "total_questions": 3,
+            "years_covered": 3,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Cümle Türleri",
+            "avg_percentage": 5.0,
+            "total_questions": 5,
+            "years_covered": 5,
+            "kazanim_codes": null
+          },
+          {
+            "name": "Anlatım Bozukluğu",
+            "avg_percentage": 6.2,
+            "total_questions": 5,
+            "years_covered": 4,
+            "kazanim_codes": null
+          }
+        ],
+        "low_frequency": [],
+        "unmapped": []
+      }
+    },
+    "Din Kültürü ve Ahlak Bilgisi": {
+      "kazanim_count": 24,
+      "lgs_mapped": true,
+      "lgs_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic_coverage": {
+        "Kader İnancı": {
+          "name": "Kader İnancı",
+          "avg_percentage": 24.3,
+          "total_questions": 17,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Zekat ve Sadaka": {
+          "name": "Zekat ve Sadaka",
+          "avg_percentage": 27.1,
+          "total_questions": 19,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Din ve Hayat": {
+          "name": "Din ve Hayat",
+          "avg_percentage": 25.7,
+          "total_questions": 18,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Hz. Muhammed'in Örnekliği": {
+          "name": "Hz. Muhammed'in Örnekliği",
+          "avg_percentage": 15.7,
+          "total_questions": 11,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Kur'an-ı Kerim ve Özellikleri": {
+          "name": "Kur'an-ı Kerim ve Özellikleri",
+          "avg_percentage": 7.1,
+          "total_questions": 5,
+          "years_covered": 7,
+          "kazanim_codes": []
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "Kader İnancı",
+            "avg_percentage": 24.3,
+            "total_questions": 17,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Zekat ve Sadaka",
+            "avg_percentage": 27.1,
+            "total_questions": 19,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Din ve Hayat",
+            "avg_percentage": 25.7,
+            "total_questions": 18,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Hz. Muhammed'in Örnekliği",
+            "avg_percentage": 15.7,
+            "total_questions": 11,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Kur'an-ı Kerim ve Özellikleri",
+            "avg_percentage": 7.1,
+            "total_questions": 5,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "low_frequency": [],
+        "unmapped": []
+      }
+    },
+    "Fen Bilimleri": {
+      "kazanim_count": 31,
+      "lgs_mapped": true,
+      "lgs_subject": "Fen Bilimleri",
+      "topic_coverage": {
+        "Mevsimler ve İklim": {
+          "name": "Mevsimler ve İklim",
+          "avg_percentage": 8.6,
+          "total_questions": 12,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "DNA ve Genetik Kod": {
+          "name": "DNA ve Genetik Kod",
+          "avg_percentage": 22.1,
+          "total_questions": 31,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Basınç": {
+          "name": "Basınç",
+          "avg_percentage": 14.3,
+          "total_questions": 20,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Madde ve Endüstri": {
+          "name": "Madde ve Endüstri",
+          "avg_percentage": 22.1,
+          "total_questions": 31,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Basit Makineler": {
+          "name": "Basit Makineler",
+          "avg_percentage": 7.1,
+          "total_questions": 10,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Enerji Dönüşümleri ve Çevre Bilimi": {
+          "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+          "avg_percentage": 15.7,
+          "total_questions": 22,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Elektrik Yükleri ve Elektrik Enerjisi": {
+          "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+          "avg_percentage": 7.9,
+          "total_questions": 11,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Hücre Bölünmesi ve Kalıtım": {
+          "name": "Hücre Bölünmesi ve Kalıtım",
+          "avg_percentage": 0.7,
+          "total_questions": 1,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Işığın Kırılması": {
+          "name": "Işığın Kırılması",
+          "avg_percentage": 0.7,
+          "total_questions": 1,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Ses": {
+          "name": "Ses",
+          "avg_percentage": 0.7,
+          "total_questions": 1,
+          "years_covered": 7,
+          "kazanim_codes": []
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "DNA ve Genetik Kod",
+            "avg_percentage": 22.1,
+            "total_questions": 31,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Madde ve Endüstri",
+            "avg_percentage": 22.1,
+            "total_questions": 31,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+            "avg_percentage": 15.7,
+            "total_questions": 22,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Mevsimler ve İklim",
+            "avg_percentage": 8.6,
+            "total_questions": 12,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Basınç",
+            "avg_percentage": 14.3,
+            "total_questions": 20,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Basit Makineler",
+            "avg_percentage": 7.1,
+            "total_questions": 10,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+            "avg_percentage": 7.9,
+            "total_questions": 11,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "low_frequency": [
+          {
+            "name": "Hücre Bölünmesi ve Kalıtım",
+            "avg_percentage": 0.7,
+            "total_questions": 1,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Işığın Kırılması",
+            "avg_percentage": 0.7,
+            "total_questions": 1,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Ses",
+            "avg_percentage": 0.7,
+            "total_questions": 1,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "unmapped": []
+      }
+    },
+    "İnkılap Tarihi ve Atatürkçülük": {
+      "kazanim_count": 6,
+      "lgs_mapped": true,
+      "lgs_subject": "İnkılap Tarihi",
+      "topic_coverage": {
+        "Bir Kahraman Doğuyor": {
+          "name": "Bir Kahraman Doğuyor",
+          "avg_percentage": 18.6,
+          "total_questions": 13,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar": {
+          "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+          "avg_percentage": 22.9,
+          "total_questions": 16,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Milli Bir Destan: Ya İstiklal, Ya Ölüm": {
+          "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+          "avg_percentage": 20.0,
+          "total_questions": 14,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Atatürkçülük ve Çağdaşlaşan Türkiye": {
+          "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+          "avg_percentage": 27.1,
+          "total_questions": 19,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Demokratikleşme Çabaları": {
+          "name": "Demokratikleşme Çabaları",
+          "avg_percentage": 4.3,
+          "total_questions": 3,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Atatürk Dönemi Dış Politika": {
+          "name": "Atatürk Dönemi Dış Politika",
+          "avg_percentage": 5.7,
+          "total_questions": 4,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Atatürk'ün Ölümü ve Sonrası": {
+          "name": "Atatürk'ün Ölümü ve Sonrası",
+          "avg_percentage": 1.4,
+          "total_questions": 1,
+          "years_covered": 7,
+          "kazanim_codes": []
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "Bir Kahraman Doğuyor",
+            "avg_percentage": 18.6,
+            "total_questions": 13,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+            "avg_percentage": 22.9,
+            "total_questions": 16,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+            "avg_percentage": 20.0,
+            "total_questions": 14,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "avg_percentage": 27.1,
+            "total_questions": 19,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Atatürk Dönemi Dış Politika",
+            "avg_percentage": 5.7,
+            "total_questions": 4,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "low_frequency": [
+          {
+            "name": "Demokratikleşme Çabaları",
+            "avg_percentage": 4.3,
+            "total_questions": 3,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Atatürk'ün Ölümü ve Sonrası",
+            "avg_percentage": 1.4,
+            "total_questions": 1,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "unmapped": []
+      }
+    },
+    "Tarih": {
+      "kazanim_count": 7,
+      "lgs_mapped": true,
+      "lgs_subject": "İnkılap Tarihi",
+      "topic_coverage": {
+        "Bir Kahraman Doğuyor": {
+          "name": "Bir Kahraman Doğuyor",
+          "avg_percentage": 18.6,
+          "total_questions": 13,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar": {
+          "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+          "avg_percentage": 22.9,
+          "total_questions": 16,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Milli Bir Destan: Ya İstiklal, Ya Ölüm": {
+          "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+          "avg_percentage": 20.0,
+          "total_questions": 14,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Atatürkçülük ve Çağdaşlaşan Türkiye": {
+          "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+          "avg_percentage": 27.1,
+          "total_questions": 19,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Demokratikleşme Çabaları": {
+          "name": "Demokratikleşme Çabaları",
+          "avg_percentage": 4.3,
+          "total_questions": 3,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Atatürk Dönemi Dış Politika": {
+          "name": "Atatürk Dönemi Dış Politika",
+          "avg_percentage": 5.7,
+          "total_questions": 4,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Atatürk'ün Ölümü ve Sonrası": {
+          "name": "Atatürk'ün Ölümü ve Sonrası",
+          "avg_percentage": 1.4,
+          "total_questions": 1,
+          "years_covered": 7,
+          "kazanim_codes": []
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "Bir Kahraman Doğuyor",
+            "avg_percentage": 18.6,
+            "total_questions": 13,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+            "avg_percentage": 22.9,
+            "total_questions": 16,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+            "avg_percentage": 20.0,
+            "total_questions": 14,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+            "avg_percentage": 27.1,
+            "total_questions": 19,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Atatürk Dönemi Dış Politika",
+            "avg_percentage": 5.7,
+            "total_questions": 4,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "low_frequency": [
+          {
+            "name": "Demokratikleşme Çabaları",
+            "avg_percentage": 4.3,
+            "total_questions": 3,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Atatürk'ün Ölümü ve Sonrası",
+            "avg_percentage": 1.4,
+            "total_questions": 1,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "unmapped": []
+      }
+    },
+    "English": {
+      "kazanim_count": 137,
+      "lgs_mapped": true,
+      "lgs_subject": "İngilizce",
+      "topic_coverage": {
+        "Friendship": {
+          "name": "Friendship",
+          "avg_percentage": 18.6,
+          "total_questions": 13,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Teen Life": {
+          "name": "Teen Life",
+          "avg_percentage": 14.3,
+          "total_questions": 10,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "In The Kitchen": {
+          "name": "In The Kitchen",
+          "avg_percentage": 14.3,
+          "total_questions": 10,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "On The Phone": {
+          "name": "On The Phone",
+          "avg_percentage": 11.4,
+          "total_questions": 8,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "The Internet": {
+          "name": "The Internet",
+          "avg_percentage": 12.9,
+          "total_questions": 9,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Adventures": {
+          "name": "Adventures",
+          "avg_percentage": 7.1,
+          "total_questions": 5,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Tourism": {
+          "name": "Tourism",
+          "avg_percentage": 8.6,
+          "total_questions": 6,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Chores": {
+          "name": "Chores",
+          "avg_percentage": 7.1,
+          "total_questions": 5,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Science": {
+          "name": "Science",
+          "avg_percentage": 5.7,
+          "total_questions": 4,
+          "years_covered": 7,
+          "kazanim_codes": []
+        },
+        "Natural Forces": {
+          "name": "Natural Forces",
+          "avg_percentage": 0.0,
+          "total_questions": 0,
+          "years_covered": 7,
+          "kazanim_codes": []
+        }
+      },
+      "frequency_analysis": {
+        "high_frequency": [
+          {
+            "name": "Friendship",
+            "avg_percentage": 18.6,
+            "total_questions": 13,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "medium_frequency": [
+          {
+            "name": "Teen Life",
+            "avg_percentage": 14.3,
+            "total_questions": 10,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "In The Kitchen",
+            "avg_percentage": 14.3,
+            "total_questions": 10,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "On The Phone",
+            "avg_percentage": 11.4,
+            "total_questions": 8,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "The Internet",
+            "avg_percentage": 12.9,
+            "total_questions": 9,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Adventures",
+            "avg_percentage": 7.1,
+            "total_questions": 5,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Tourism",
+            "avg_percentage": 8.6,
+            "total_questions": 6,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Chores",
+            "avg_percentage": 7.1,
+            "total_questions": 5,
+            "years_covered": 7,
+            "kazanim_codes": []
+          },
+          {
+            "name": "Science",
+            "avg_percentage": 5.7,
+            "total_questions": 4,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "low_frequency": [
+          {
+            "name": "Natural Forces",
+            "avg_percentage": 0.0,
+            "total_questions": 0,
+            "years_covered": 7,
+            "kazanim_codes": []
+          }
+        ],
+        "unmapped": []
+      }
+    }
+  },
+  "coverage_summary": {
+    "covered_kazanimlar": 254,
+    "uncovered_kazanimlar": 0,
+    "high_frequency_topics": [
+      {
+        "subject": "Matematik",
+        "name": "Köklü Sayılar",
+        "avg_percentage": 15.7,
+        "total_questions": 22,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Türkçe",
+        "name": "Sözel Mantık / Görsel Okuma",
+        "avg_percentage": 22.1,
+        "total_questions": 31,
+        "years_covered": 7,
+        "kazanim_codes": null
+      },
+      {
+        "subject": "Türkçe",
+        "name": "Parçada Anlam",
+        "avg_percentage": 29.3,
+        "total_questions": 41,
+        "years_covered": 7,
+        "kazanim_codes": null
+      },
+      {
+        "subject": "Din Kültürü ve Ahlak Bilgisi",
+        "name": "Kader İnancı",
+        "avg_percentage": 24.3,
+        "total_questions": 17,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Din Kültürü ve Ahlak Bilgisi",
+        "name": "Zekat ve Sadaka",
+        "avg_percentage": 27.1,
+        "total_questions": 19,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Din Kültürü ve Ahlak Bilgisi",
+        "name": "Din ve Hayat",
+        "avg_percentage": 25.7,
+        "total_questions": 18,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Din Kültürü ve Ahlak Bilgisi",
+        "name": "Hz. Muhammed'in Örnekliği",
+        "avg_percentage": 15.7,
+        "total_questions": 11,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Fen Bilimleri",
+        "name": "DNA ve Genetik Kod",
+        "avg_percentage": 22.1,
+        "total_questions": 31,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Fen Bilimleri",
+        "name": "Madde ve Endüstri",
+        "avg_percentage": 22.1,
+        "total_questions": 31,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Fen Bilimleri",
+        "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+        "avg_percentage": 15.7,
+        "total_questions": 22,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Bir Kahraman Doğuyor",
+        "avg_percentage": 18.6,
+        "total_questions": 13,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+        "avg_percentage": 22.9,
+        "total_questions": 16,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+        "avg_percentage": 20.0,
+        "total_questions": 14,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+        "avg_percentage": 27.1,
+        "total_questions": 19,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Bir Kahraman Doğuyor",
+        "avg_percentage": 18.6,
+        "total_questions": 13,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+        "avg_percentage": 22.9,
+        "total_questions": 16,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+        "avg_percentage": 20.0,
+        "total_questions": 14,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+        "avg_percentage": 27.1,
+        "total_questions": 19,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İngilizce",
+        "name": "Friendship",
+        "avg_percentage": 18.6,
+        "total_questions": 13,
+        "years_covered": 7,
+        "kazanim_codes": []
+      }
+    ],
+    "low_frequency_topics": [
+      {
+        "subject": "Matematik",
+        "name": "Eşlik ve Benzerlik",
+        "avg_percentage": 3.6,
+        "total_questions": 5,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Matematik",
+        "name": "Geometrik Cisimler",
+        "avg_percentage": 4.3,
+        "total_questions": 6,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Matematik",
+        "name": "Dönüşüm Geometrisi",
+        "avg_percentage": 2.9,
+        "total_questions": 4,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Fen Bilimleri",
+        "name": "Hücre Bölünmesi ve Kalıtım",
+        "avg_percentage": 0.7,
+        "total_questions": 1,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Fen Bilimleri",
+        "name": "Işığın Kırılması",
+        "avg_percentage": 0.7,
+        "total_questions": 1,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "Fen Bilimleri",
+        "name": "Ses",
+        "avg_percentage": 0.7,
+        "total_questions": 1,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Demokratikleşme Çabaları",
+        "avg_percentage": 4.3,
+        "total_questions": 3,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Atatürk'ün Ölümü ve Sonrası",
+        "avg_percentage": 1.4,
+        "total_questions": 1,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Demokratikleşme Çabaları",
+        "avg_percentage": 4.3,
+        "total_questions": 3,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İnkılap Tarihi",
+        "name": "Atatürk'ün Ölümü ve Sonrası",
+        "avg_percentage": 1.4,
+        "total_questions": 1,
+        "years_covered": 7,
+        "kazanim_codes": []
+      },
+      {
+        "subject": "İngilizce",
+        "name": "Natural Forces",
+        "avg_percentage": 0.0,
+        "total_questions": 0,
+        "years_covered": 7,
+        "kazanim_codes": []
+      }
+    ],
+    "missing_topics": [],
+    "coverage_percentage": 100.0
+  },
+  "recommendations": [
+    "🎯 Focus on high-frequency topics: 19 topics appear ≥15% on exams.",
+    "   • Türkçe: Parçada Anlam (29.3% avg)",
+    "   • Din Kültürü ve Ahlak Bilgisi: Zekat ve Sadaka (27.1% avg)",
+    "   • İnkılap Tarihi: Atatürkçülük ve Çağdaşlaşan Türkiye (27.1% avg)",
+    "📉 11 topics have low exam frequency (<5%). Review curriculum emphasis."
+  ],
+  "metadata": {
+    "kazanim_file": "/app/extracted_kazanimlar_8_fixed.jsonl",
+    "lgs_file": "/app/lgs_distribution_analysis.json",
+    "analysis_date": "2024-11-14"
+  }
+}

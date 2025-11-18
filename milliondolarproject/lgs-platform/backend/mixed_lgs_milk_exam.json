@@ -1,0 +1,1625 @@
+{
+  "exam_info": {
+    "title": "LGS Karma Deneme Sınavı",
+    "description": "Original LGS questions mixed with MILK-generated questions",
+    "question_count": 50,
+    "mix_ratio": 0.6,
+    "creation_date": "2024-11-14"
+  },
+  "questions": [
+    {
+      "number": 6,
+      "stem": "Which of the following headings does NOT match with any of the three texts given above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hobbies"
+        },
+        {
+          "label": "B",
+          "text": "Education"
+        },
+        {
+          "label": "C",
+          "text": "Personal Life"
+        },
+        {
+          "label": "D",
+          "text": "Achievements"
+        }
+      ],
+      "subject": "English",
+      "topic": "Reading Comprehension",
+      "kazanim_code": "ENG.8.1.R1",
+      "confidence": 0.9,
+      "page": 28,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 1
+    },
+    {
+      "number": 1,
+      "stem": "Zekât ile ilgili, aşağıdaki ayetlerin hangisinde Hz. Muhammed'in (sav) \"üsveihasene\" oluşu vurgulanmaktadır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toprak ürünlerinin zekâtı verilirken malın üzerinden bir yıl geçme şartı aranmaz."
+        },
+        {
+          "label": "B",
+          "text": "Bir malın zekâtının verilebilmesi için o malın gelir getiren cinsten olması gerekir."
+        },
+        {
+          "label": "C",
+          "text": "Temel ihtiyaç olarak kabul edilen malın zekâtının verilmesi gerekir."
+        },
+        {
+          "label": "D",
+          "text": "Zekât verilirken bakmakla yükümlü olunan kişilere öncelik verilmelidir."
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Zekât",
+      "kazanim_code": "8.1.1",
+      "confidence": 0.9,
+      "page": 22,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 2
+    },
+    {
+      "number": 1,
+      "stem": "Hiç tanımadığımız ancak görür görmez içimizin ısındığı, şöyle bir kucaklayıp da sarmak istediğimiz insanlar vardır. Onların bayraklarını dalgalandırmalıdır.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bağımsızlık mücadelesine şiirleriyle katılmak"
+        },
+        {
+          "label": "B",
+          "text": "Özgürlüğe giden yolda şiirlerine önem vermek"
+        },
+        {
+          "label": "C",
+          "text": "Vatan sevgisini şiirlerinde ana tema yapmak"
+        },
+        {
+          "label": "D",
+          "text": "Şiirlerinde millî değerlere öncelik vermek"
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Millî Mücadele Dönemi",
+      "kazanim_code": "İTA.8.3.2",
+      "confidence": 0.9,
+      "page": 3,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 3
+    },
+    {
+      "number": 6,
+      "stem": "Which of the following is NOT one of the ways students can share their written work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posting on the school bulletin board"
+        },
+        {
+          "label": "B",
+          "text": "Publishing in a newspaper"
+        },
+        {
+          "label": "C",
+          "text": "Sharing in the classroom"
+        },
+        {
+          "label": "D",
+          "text": "Keeping the writing to themselves"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Türkçe",
+      "topic": "Yazma Süreci",
+      "kazanim_code": "T.8.4.17",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 4
+    },
+    {
+      "stem": "Millî Mücadele Dönemi'nde Batı Cephesi'nde meydana gelen önemli bir gelişme aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyük Taarruz'un başlatılması"
+        },
+        {
+          "key": "B",
+          "text": "Sakarya Meydan Muharebesi'nin yapılması"
+        },
+        {
+          "key": "C",
+          "text": "İzmir'in işgalinin gerçekleşmesi"
+        },
+        {
+          "key": "D",
+          "text": "Kuvâ-yı Milliye'nin örgütlenmesi"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Millî Mücadele Dönemi'nde Batı Cephesi'nde meydana gelen en önemli gelişme, Atatürk'ün 26 Ağustos 1922'de başlattığı Büyük Taarruz'dur. Bu taarruz sonucunda 30 Ağustos 1922'de Başkomutanlık Meydan Muharebesi kazanılarak Yunan ordusu püskürtülmüş ve İzmir'in kurtuluşu sağlanmıştır.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.2",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 5
+    },
+    {
+      "stem": "Güç santrallerinde elektrik enerjisi üretiminde kullanılan kaynaklardan hangisi rüzgâr ve jeotermal enerjiye dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Termik santral"
+        },
+        {
+          "key": "B",
+          "text": "Hidroelektrik santral"
+        },
+        {
+          "key": "C",
+          "text": "Nükleer santral"
+        },
+        {
+          "key": "D",
+          "text": "Yenilenebilir enerji santralleri"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Termik santraller kömür, doğalgaz gibi fosil yakıtlara; hidroelektrik santraller su enerjisine; nükleer santraller nükleer enerjiye dayalı olarak elektrik üretirler. Yenilenebilir enerji santralleri ise rüzgâr ve jeotermal enerjiden yararlanırlar.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 6
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi öğrencilerin yazılarını paylaşmalarını teşvik etmez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınıf panosu"
+        },
+        {
+          "key": "B",
+          "text": "Okul panosu"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal medya ortamları"
+        },
+        {
+          "key": "D",
+          "text": "Şiir ve kompozisyon yarışmaları"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Kazanım bilgisine göre, öğrenciler yazılarını sınıf ve okul panosu ile sosyal medya ortamlarında paylaşmaya ve şiir-kompozisyon yarışmalarına katılmaya teşvik edilir. Dolayısıyla sosyal medya ortamları öğrencilerin yazılarını paylaşmalarını teşvik eden bir unsurdur.",
+      "confidence": 85,
+      "kazanim_code": "T.8.4.17",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 7
+    },
+    {
+      "number": 1,
+      "stem": "Which of the following does NOT fill in the blank above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Don't talk to each other during the lessons"
+        },
+        {
+          "label": "B",
+          "text": "Don't be noisy in the school library"
+        },
+        {
+          "label": "C",
+          "text": "Come to school on time"
+        },
+        {
+          "label": "D",
+          "text": "Help your parents with the chores"
+        }
+      ],
+      "subject": "English",
+      "topic": "School Life and Education",
+      "kazanim_code": "ENG.8.1.L2",
+      "confidence": 0.9,
+      "page": 26,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 8
+    },
+    {
+      "number": 2,
+      "stem": "Kader ve kaza ile ilgili, aşağıdaki ifadelerden hangileri doğrudur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yalnız I"
+        },
+        {
+          "label": "B",
+          "text": "Yalnız III"
+        },
+        {
+          "label": "C",
+          "text": "I ve II"
+        },
+        {
+          "label": "D",
+          "text": "II ve III"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.1, 8.1.2, 8.1.3",
+      "confidence": 0.95,
+      "page": 20,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 9
+    },
+    {
+      "stem": "Which of the following words is NOT related to playing games?",
+      "options": [
+        {
+          "key": "A",
+          "text": "dice"
+        },
+        {
+          "key": "B",
+          "text": "chess"
+        },
+        {
+          "key": "C",
+          "text": "book"
+        },
+        {
+          "key": "D",
+          "text": "puzzle"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The word 'book' is not related to playing games, unlike the other options which are all associated with various games and activities.",
+      "confidence": 85,
+      "kazanim_code": "V4.4",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 10
+    },
+    {
+      "number": 1,
+      "stem": "Bir yardımsevere sordular: \"Muhtaçlara verdiğin, yoksullara dağıttığın şeylerden dolayı kendinde bir minnet beklentisi ve kibir hissi oluşuyor mu?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hayır yolunda yarışılmalıdır."
+        },
+        {
+          "label": "B",
+          "text": "Yardım edilenlerin onuru korunmalıdır."
+        },
+        {
+          "label": "C",
+          "text": "İyilik, her şeyin sahibinin Allah olduğu bilinciyle yapılmalıdır."
+        },
+        {
+          "label": "D",
+          "text": "Kazancın bir kısmı ihtiyaç sahiplerine verilmelidir."
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Yardımseverlik ve Kibir",
+      "kazanim_code": "8.1.2",
+      "confidence": 0.95,
+      "page": 20,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 11
+    },
+    {
+      "number": 1,
+      "stem": "Which of the following statements about the National Struggle is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The National Struggle was a period of great difficulty for the Turkish nation."
+        },
+        {
+          "label": "B",
+          "text": "During the National Struggle, the Maarif Congress was held, where Atatürk emphasized the importance of national and contemporary education."
+        },
+        {
+          "label": "C",
+          "text": "The National Obligation Orders were an example of the national unity, solidarity and cooperation of the Turkish nation."
+        },
+        {
+          "label": "D",
+          "text": "The developments that took place on the Western Front during the National Struggle were not important."
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Millî Mücadele Dönemi",
+      "kazanim_code": "İTA.8.3.2",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 12
+    },
+    {
+      "number": 1,
+      "stem": "Bu metinde, Atatürk ilke ve inkılaplarını oluşturan esaslardan hangisine vurgu yapılmıştır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bağımsızlık ve özgürlüğe"
+        },
+        {
+          "label": "B",
+          "text": "Millî tarih bilincine"
+        },
+        {
+          "label": "C",
+          "text": "Çağdaşlaşma idealine"
+        },
+        {
+          "label": "D",
+          "text": "Millî kültürün geliştirilmesine"
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Atatürk İlke ve İnkılapları",
+      "kazanim_code": "İTA.8.3.2",
+      "confidence": 0.95,
+      "page": 17,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 13
+    },
+    {
+      "number": 1,
+      "stem": "Bu metindeki numaralanmış cümlelerin hangisi yüklemin yerine göre diğerlerinden farklıdır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I"
+        },
+        {
+          "label": "B",
+          "text": "II"
+        },
+        {
+          "label": "C",
+          "text": "III"
+        },
+        {
+          "label": "D",
+          "text": "IV"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Dil bilgisi",
+      "kazanim_code": "T.8.4.18",
+      "confidence": 0.95,
+      "page": 14,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 14
+    },
+    {
+      "stem": "Aşağıdaki eşitsizliklerden hangisi sayı doğrusunda gösterildiğinde doğru bir gösterim olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "x ≥ 5"
+        },
+        {
+          "key": "B",
+          "text": "-2 < t ≤ 3"
+        },
+        {
+          "key": "C",
+          "text": "a < 0"
+        },
+        {
+          "key": "D",
+          "text": "p > 2"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Birinci dereceden bir bilinmeyenli eşitsizlikleri sayı doğrusunda gösterirken, eşitsizliğin işareti ve yönü sayı doğrusu üzerinde doğru şekilde gösterilmelidir. Buna göre, -2 < t ≤ 3 eşitsizliği sayı doğrusu üzerinde doğru bir şekilde gösterilmiştir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.2.3.2",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 15
+    },
+    {
+      "number": 2,
+      "stem": "According to the information above, which two words should change places to be in the correct group?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bake - Boil"
+        },
+        {
+          "label": "B",
+          "text": "Bowl - Boil"
+        },
+        {
+          "label": "C",
+          "text": "Fry - Pan"
+        },
+        {
+          "label": "D",
+          "text": "Fry - Teaspoon"
+        }
+      ],
+      "subject": "English",
+      "topic": "School Life and Education",
+      "kazanim_code": "ENG.8.1.R1",
+      "confidence": 0.9,
+      "page": 26,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 16
+    },
+    {
+      "number": 14,
+      "stem": "Bir ülkede beyaz eşya satışlarının iç pazar hacminin, ihracat hacminin ve toplam hacminin 2018-2023 yılları arasındaki değişimi aşağıdaki grafikte gösterilmiştir. Satış sayısı (Milyon) 35 34,5 34,1 32,5 29,2 29,8 30 29 26 25,8 25 22,1 23 21,9 22 20 15 10 7,1 7,1 7,8 8,5 8,3 9,5 5 Yıllar 2018 2019 2020 2021 2022 2023 İç pazar hacmi İhracat hacmi Toplam hacim NOT: Toplam hacim, iç pazar hacmi ile ihracat hacminin toplamına eşittir. Bu bilgilere göre, cümlelerinde boş bırakılan yerlerin herhangi birine aşağıdakilerden hangisi getirilemez?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2019"
+        },
+        {
+          "label": "B",
+          "text": "2020"
+        },
+        {
+          "label": "C",
+          "text": "2022"
+        },
+        {
+          "label": "D",
+          "text": "2023"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Türkçe",
+      "topic": "Metin Analizi",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.95,
+      "page": 10,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 17
+    },
+    {
+      "number": 2,
+      "stem": "Numaralanmış olaylardan hangileri Hz. Muhammed'in (sav) istişareye verdiği öneme örnektir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I ve II"
+        },
+        {
+          "label": "B",
+          "text": "I ve III"
+        },
+        {
+          "label": "C",
+          "text": "II ve IV"
+        },
+        {
+          "label": "D",
+          "text": "III ve IV"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "İstişare",
+      "kazanim_code": "8.1.2",
+      "confidence": 0.8,
+      "page": 23,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 18
+    },
+    {
+      "number": 1,
+      "stem": "Bu parça aşağıdakilerin hangisiyle devam ettirildiğinde hikâyenin tüm unsurlarına yer verilmiş olmaz?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baharın gelişini müjdeleyen erguvanlar selamlanmadan geçilir miydi hiç? Fahri Bey, dalın birini torununa doğru eğdi. Kokusu büyüleyiciydi gerçekten."
+        },
+        {
+          "label": "B",
+          "text": "Yolculuğum uzun sürmüş oldukça Gece demir köprülerden geçmiştir tren"
+        },
+        {
+          "label": "C",
+          "text": "Daha mı iyi olur daha mı kötü bilmiyordu Bir umut vardı gönülde"
+        },
+        {
+          "label": "D",
+          "text": "Dört nala gelip Uzak Asya'dan Akdeniz'e bir kısrak başı gibi uzanan bu memleket bizim."
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Okuma",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.8,
+      "page": 6,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 19
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following is NOT a concept related to fate and divine decree?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wisdom"
+        },
+        {
+          "label": "B",
+          "text": "Success"
+        },
+        {
+          "label": "C",
+          "text": "Rizq (sustenance)"
+        },
+        {
+          "label": "D",
+          "text": "Predestination"
+        }
+      ],
+      "correct_answer": "A",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.3",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 20
+    },
+    {
+      "stem": "Bir güneş paneli, güneş ışığını elektrik enerjisine dönüştürmektedir. Güneş panelini kullanarak çeşitli uygulamalar yapmak mümkündür. Buna göre, aşağıdakilerden hangisi güneş panelinin elektrik enerjisini başka bir enerjiye dönüştürmesine örnek oluşturmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş paneli ile çalıştırılan bir elektrikli motor, elektrik enerjisini hareket enerjisine dönüştürür."
+        },
+        {
+          "key": "B",
+          "text": "Güneş paneli ile şarj edilen bir pil, elektrik enerjisini kimyasal enerjiye dönüştürür."
+        },
+        {
+          "key": "C",
+          "text": "Güneş paneli ile çalıştırılan bir ampul, elektrik enerjisini ışık enerjisine dönüştürür."
+        },
+        {
+          "key": "D",
+          "text": "Güneş paneli ile ısınan bir su ısıtıcısı, elektrik enerjisini ısı enerjisine dönüştürür."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Güneş panelleri, güneş ışığını elektrik enerjisine dönüştürmektedir. Elektrik enerjisinin ışık, ısı veya hareket enerjisine dönüşümüne örnekler verilmiştir. Ancık seçenekteki su ısıtıcısı, elektrik enerjisini ısı enerjisine dönüştürmez. Su ısıtıcısı, güneş ışığının ısı enerjisine dönüştürülmesine örnek oluşturur.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.2",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 21
+    },
+    {
+      "number": 2,
+      "stem": "Bu metne göre \"selamlaşma\" ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cömertliğe teşvik ettiği"
+        },
+        {
+          "label": "B",
+          "text": "Dinî bir değer olduğu"
+        },
+        {
+          "label": "C",
+          "text": "İnsanlar arası iletişimi güçlendirdiği"
+        },
+        {
+          "label": "D",
+          "text": "Birlik ve beraberliğe katkı sağladığı"
+        }
+      ],
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Selamlaşma",
+      "kazanim_code": null,
+      "confidence": 0.8,
+      "page": 24,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 22
+    },
+    {
+      "number": 1,
+      "stem": "Read the opinions of four people about their friends. She knows that Robert loves reading about architecture. Lisa reads magazines Alex about water sports. Mary usually buys books on health and Jack is interested in cooking. Tim doesn't forget to organize parties for my birthdays. According to the information above, which of the following books is Clara NOT going to buy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BEST MODERN BUILDINGS"
+        },
+        {
+          "label": "B",
+          "text": "RAFTING PLACES IN THE WORLD"
+        },
+        {
+          "label": "C",
+          "text": "SECRET DISEASES FROM PAST TO THE FUTURE"
+        },
+        {
+          "label": "D",
+          "text": "HISTORY OF THE TELEPHONE"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "English",
+      "topic": "Reading comprehension",
+      "kazanim_code": "ENG.8.1.R1",
+      "confidence": 0.9,
+      "page": 25,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 23
+    },
+    {
+      "number": 8,
+      "stem": "Who does NOT think Mike's book is useful?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Joe"
+        },
+        {
+          "label": "B",
+          "text": "Kelly"
+        },
+        {
+          "label": "C",
+          "text": "Mary"
+        },
+        {
+          "label": "D",
+          "text": "Nancy"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "English",
+      "topic": "School life and education",
+      "kazanim_code": "ENG.8.1.L2",
+      "confidence": 0.9,
+      "page": 29,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 24
+    },
+    {
+      "number": 1,
+      "stem": "Bu ayetlerde asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evrendeki düzen Allah'ın koyduğu ilkelerle gerçekleşir."
+        },
+        {
+          "label": "B",
+          "text": "Evrensel yasaları anlamak, Allah'a olan inancı kuvvetlendirir."
+        },
+        {
+          "label": "C",
+          "text": "Ezelî ve ebedî olan tek varlık Allah'tır."
+        },
+        {
+          "label": "D",
+          "text": "Allah, insanın evrensel yasalara uygun hareket etmesini ister."
+        }
+      ],
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.1",
+      "confidence": 0.95,
+      "page": 24,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 25
+    },
+    {
+      "number": 4,
+      "stem": "Sınav evraklarını teslim etmeyen öğrencilerin sınavı ne olacaktır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geçersiz sayılacaktır"
+        },
+        {
+          "label": "B",
+          "text": "Değerlendirmeye alınacaktır"
+        },
+        {
+          "label": "C",
+          "text": "Bir eksik sayılacaktır"
+        },
+        {
+          "label": "D",
+          "text": "Tekrar yapılacaktır"
+        }
+      ],
+      "correct_answer": "A",
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Sınav kuralları",
+      "kazanim_code": null,
+      "confidence": 0.95,
+      "page": 32,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 26
+    },
+    {
+      "number": 5,
+      "stem": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan anlatım bozukluğu yoktur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eskimiş düşünceler, paslanmış çivilere benzer; söküp atmalıyız."
+        },
+        {
+          "label": "B",
+          "text": "Hayatın dallarına her zaman sıkı sıkı sarılmalı, hiçbir zaman bırakmamalısın."
+        },
+        {
+          "label": "C",
+          "text": "Dilimizi doğru bir şekilde konuşmalı, gerekli özeni göstermeliyiz."
+        },
+        {
+          "label": "D",
+          "text": "Ay, tepelerin üstünde yavaş yavaş yükseldi; saatlerce balkondan seyrettik."
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Anlatım Bozuklukları",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.9,
+      "page": 5,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 27
+    },
+    {
+      "stem": "Lozan Antlaşması'nın Türkiye Cumhuriyeti'ne sağladığı en önemli kazanım aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Boğazların uluslararası kontrole tabi olması"
+        },
+        {
+          "key": "B",
+          "text": "Millî sınırların belirlenmesi ve Misak-ı Millî hedeflerinin gerçekleşmesi"
+        },
+        {
+          "key": "C",
+          "text": "Kapitülasyonların kaldırılması ve ülke egemenliğinin sağlanması"
+        },
+        {
+          "key": "D",
+          "text": "Anadolu'daki azınlık hakları ve yabancı okulların denetim altına alınması"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Lozan Antlaşması'yla Türkiye Cumhuriyeti, ülke egemenliğini sağlamış, kapitülasyonlar kaldırılmış ve Türk devletinin bağımsızlığı güvence altına alınmıştır. Bu da Türkiye'nin en önemli kazanımlarından biridir.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.6",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 28
+    },
+    {
+      "number": 1,
+      "stem": "Sınava girmeden önce öğrencilerin salon görevlilerinin tüm uyarılarına uyması ne zaman zorunludur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sınav başlangıcından önce"
+        },
+        {
+          "label": "B",
+          "text": "Sınav başladıktan sonra"
+        },
+        {
+          "label": "C",
+          "text": "Her zaman"
+        },
+        {
+          "label": "D",
+          "text": "Sınav bitiminde"
+        }
+      ],
+      "correct_answer": "A",
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Sınav kuralları",
+      "kazanim_code": null,
+      "confidence": 0.95,
+      "page": 32,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 29
+    },
+    {
+      "number": 2,
+      "stem": "Bu metindeki numaralanmış cümlelerin hangisinde yazım yanlışı yoktur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I"
+        },
+        {
+          "label": "B",
+          "text": "II"
+        },
+        {
+          "label": "C",
+          "text": "III"
+        },
+        {
+          "label": "D",
+          "text": "IV"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Yazım Kuralları",
+      "kazanim_code": "T.8.4.18",
+      "confidence": 0.8,
+      "page": 13,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 30
+    },
+    {
+      "number": 1,
+      "stem": "According to the map above, which of the following is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You have to ride your bike for more than 50 km to finish the whole tour."
+        },
+        {
+          "label": "B",
+          "text": "You spend less than three nights at the camping areas during the tour."
+        },
+        {
+          "label": "C",
+          "text": "The tour takes less than a week to complete."
+        },
+        {
+          "label": "D",
+          "text": "The particular starting time of the tour is given on the map."
+        }
+      ],
+      "correct_answer": "B",
+      "subject": "English",
+      "topic": "School life and education",
+      "kazanim_code": "ENG.8.1.L2",
+      "confidence": 0.95,
+      "page": 30,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 31
+    },
+    {
+      "number": 4,
+      "stem": "Millî futbolcu Arda Güler, attığı gollerden sonra bir elini kalbinin üzerine koyup diğer elinin işaret parmağını göğe doğru kaldırarak sevincini kutluyor. Bunun ne anlama geldiği kendisine sorulduğunda \"Bu tevekkül inancı- mın göstergesidir. Çünkü hayatta insanın ba- şına iyi şeyler gibi kötü şeyler de gelebiliyor: başarıların yanında başarısızlıklar, sağlıklı olmanın yanında hastalıklar... Ben elimden geleni yapıyorum, çalışıp çabalıyorum; sonu- cunu Allah'a bırakıyorum.\" dedi.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zorlukların aşılmasında etkilidir."
+        },
+        {
+          "label": "B",
+          "text": "Gayret göstermekle birlikte Allah'a güven- mektir."
+        },
+        {
+          "label": "C",
+          "text": "Kişinin huzurlu olmasına katkı sağlar."
+        },
+        {
+          "label": "D",
+          "text": "Tercihlerinin sorumluluğunu üstlenmektir."
+        }
+      ],
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.2",
+      "confidence": 1.0,
+      "page": 21,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 32
+    },
+    {
+      "number": 7,
+      "stem": "According to the information above, who did NOT invite Susan to an event?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carol"
+        },
+        {
+          "label": "B",
+          "text": "Jason"
+        },
+        {
+          "label": "C",
+          "text": "Liz"
+        },
+        {
+          "label": "D",
+          "text": "Mandy"
+        }
+      ],
+      "subject": "English",
+      "topic": "Reading Comprehension",
+      "kazanim_code": "ENG.8.1.R2",
+      "confidence": 0.95,
+      "page": 28,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 33
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) hakkı gözetmedeki hassasiyetine en iyi örnek aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Veda Hutbesi'nde bütün insanların eşitliğini vurgulaması"
+        },
+        {
+          "key": "B",
+          "text": "Medine Anayasası'nda tüm vatandaşların haklarını koruması"
+        },
+        {
+          "key": "C",
+          "text": "Mekke'nin fethinde savaşmayan insanlara zarar vermemesi"
+        },
+        {
+          "key": "D",
+          "text": "Ganimet dağıtımında adil davranması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed (s.a.v.), savaş sonrası ganimet dağıtımında son derece adil ve hassas davranmıştır. Hiçbir grubu ayrıcalıklı tutmamış, tüm insanların haklarını gözetmiştir.",
+      "confidence": 85,
+      "kazanim_code": "8.4.5",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 34
+    },
+    {
+      "stem": "Aşağıdaki şekillerden hangisi, ötelenmiş şeklin görüntüsünü doğru olarak gösteriyor?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A)"
+        },
+        {
+          "key": "B",
+          "text": "B)"
+        },
+        {
+          "key": "C",
+          "text": "C)"
+        },
+        {
+          "key": "D",
+          "text": "D)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ötelemede, şekil üzerindeki her bir nokta aynı yönde hareket eder ve şekil ile görüntüsü eş olur. Şıklardaki şekillerden yalnızca C şıkkı bu durumu doğru olarak göstermektedir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.2.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 35
+    },
+    {
+      "number": 1,
+      "stem": "According to the conversations above, who is DEFINITELY NOT available at the moment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mr Brown"
+        },
+        {
+          "label": "B",
+          "text": "Mr Jordan"
+        },
+        {
+          "label": "C",
+          "text": "Mr Logan"
+        },
+        {
+          "label": "D",
+          "text": "Mr Miller"
+        }
+      ],
+      "subject": "English",
+      "topic": "School life and education",
+      "kazanim_code": "ENG.8.1.L2",
+      "confidence": 0.9,
+      "page": 27,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 36
+    },
+    {
+      "stem": "Mutasyon ve modifikasyon arasındaki en temel fark nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mutasyon kalıtsal, modifikasyon kalıtsal değildir."
+        },
+        {
+          "key": "B",
+          "text": "Mutasyon hücredeki DNA'yı etkiler, modifikasyon hücredeki proteinleri etkiler."
+        },
+        {
+          "key": "C",
+          "text": "Mutasyon sonucu kalıtsal özellikler değişir, modifikasyon sonucu kalıtsal özellikler değişmez."
+        },
+        {
+          "key": "D",
+          "text": "Mutasyon sonucu organizmanın dış görünüşü değişir, modifikasyon sonucu organizmanın dış görünüşü değişmez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mutasyon sonucu organizmanın kalıtsal özellikleri değişir ve bu değişiklik sonraki nesillere aktarılır. Modifikasyon ise organizmanın dış görünüşünü etkiler ancak kalıtsal özellikleri değiştirmez.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.3.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 37
+    },
+    {
+      "number": 1,
+      "stem": "Buna göre Çanakkale Cephesi ile ilgili, I. Rusya'da rejim değişikliğinin yaşanmasında etkili olmuştur. II. İngilizlerin Birinci Dünya Savaşı'ndan çekilmesi sürecini hızlandırmıştır. III. Taraflar arasında deniz ve kara savaşları yaşanmıştır. yargılarından hangilerine ulaşılabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I ve II"
+        },
+        {
+          "label": "B",
+          "text": "I ve III"
+        },
+        {
+          "label": "C",
+          "text": "II ve III"
+        },
+        {
+          "label": "D",
+          "text": "I, II ve III"
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Çanakkale Savaşı",
+      "kazanim_code": "İTA.8.3.2",
+      "confidence": 0.95,
+      "page": 16,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 38
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following is NOT a responsibility of a person in relation to fate and divine decree?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Having knowledge and will"
+        },
+        {
+          "label": "B",
+          "text": "Believing in predestination"
+        },
+        {
+          "label": "C",
+          "text": "Showing gratitude to God"
+        },
+        {
+          "label": "D",
+          "text": "Rejecting one's responsibility"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.2",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 39
+    },
+    {
+      "number": 1,
+      "stem": "A T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK 9. DEMOKRATİKLEŞME YOLUNDA ATILAN ADIMLAR Terakkiperver Cumhuriyet Fırkası Serbest Cumhuriyet Fırkası 17 Kasım 1924 12 Ağustos 1930 Mustafa Kemal ile görüş ayrılığına düşen Mustafa Kemal, bir muhalefet partisi kurul- bazı milletvekilleri tarafından Terakkiperver masını sağlamak için Fethi Okyar ile görüş- Cumhuriyet Fırkası kuruldu. tü. Daha sonra Serbest Cumhuriyet Fırkası kuruldu. 3 Haziran 1925 Ülkemizin doğusunda çıkan bir ayaklanmanın 17 Kasım 1930 ardından Bakanlar Kurulu kararıyla Takrir-i Cumhuriyet karşıtlarının başlattığı olaylar ne- Sükûn Kanunu'na dayanılarak parti kapatıldı. deniyle Fethi Okyar, kurucusu olduğu partiyi feshetti. Bu tabloya göre, aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kurulan her iki parti de mecliste çoğunluğu sağlamıştır."
+        },
+        {
+          "label": "B",
+          "text": "Ülkemizde çok partili yaşam için uygun ortam olmadığı görülmüştür."
+        },
+        {
+          "label": "C",
+          "text": "İç politikada yaşanan sorunlar nedeniyle inkılaplardan vazgeçilmiştir."
+        },
+        {
+          "label": "D",
+          "text": "Meclis hükûmeti sisteminin devam etmesine karar verilmiştir."
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Demokratikleşme yolunda atılan adımlar",
+      "kazanim_code": "İTA.8.3.2, İTA.8.3.3, İTA.8.3.4",
+      "confidence": 0.9,
+      "page": 19,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 40
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following is a step in revising written work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sharing one's writing"
+        },
+        {
+          "label": "B",
+          "text": "Determining the purpose of the writing"
+        },
+        {
+          "label": "C",
+          "text": "Proofreading for language mistakes"
+        },
+        {
+          "label": "D",
+          "text": "Brainstorming ideas"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Türkçe",
+      "topic": "Yazma Süreci",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 41
+    },
+    {
+      "number": 2,
+      "stem": "Musul, Misak-ı Millî sınırları içerisinde yer alıyordu. Lozan Konferansı'nda ve sonrasında İngiltere ile yapılan görüşmelerde Musul ile ilgili bir karara varılamadı. Konu Milletler Cemiyetine taşındı ve Milletler Cemiyeti de Musul'u, İngiliz mandasındaki Irak'a bıraktı. Türkiye de 1926 yılında imzaladığı Ankara Antlaşması'yla bu kararı kabul etti. Bu bilgilere göre, aşağıdakilerden hangisine ulaşılabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Türkiye'nin güney sınırı bugünkü şeklini almıştır."
+        },
+        {
+          "label": "B",
+          "text": "Milletler Cemiyeti tarafsız bir politika izlemiştir."
+        },
+        {
+          "label": "C",
+          "text": "Irak'ın bağımsız bir devlet olduğu kabul edilmiştir."
+        },
+        {
+          "label": "D",
+          "text": "Musul Sorunu diplomasi yoluyla çözümlenmiştir."
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Musul Sorunu",
+      "kazanim_code": "İTA.8.3.4",
+      "confidence": 0.9,
+      "page": 19,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 42
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) toplumsal hayattaki örnek davranışlarına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Adil ve eşitlikçi bir toplum oluşturma çabası göstermiştir."
+        },
+        {
+          "key": "B",
+          "text": "Kişisel çıkarlarından ziyade toplumun yararını gözetmiştir."
+        },
+        {
+          "key": "C",
+          "text": "İslam dinini öğrenmek ve yaşamak için çaba sarf etmiştir."
+        },
+        {
+          "key": "D",
+          "text": "Toplumda meydana gelen sorunları kendi çıkarları için kullanmıştır."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed (s.a.v.), toplumun yararını kendi çıkarlarından üstün tutmuş, adil ve eşitlikçi bir toplum oluşturmaya çalışmıştır. İslam dininin öğrenilmesi ve yaşanması için çaba göstermiştir. Dolayısıyla toplumda meydana gelen sorunları kendi çıkarları için kullanmamıştır.",
+      "confidence": 85,
+      "kazanim_code": "8.4.7",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 43
+    },
+    {
+      "number": 1,
+      "stem": "İyi bir arka kapak yazısı kitabın içeriğine olduğu kadar yazarın üslubuna ve okurların kitabı okuduktan sonra hissedeceklerine dair övgülerle karşılaşırız. Oysa yazar, son bilgiler de verir. Bunlar, okurların kitap seçi- minde önemli etkenlerdir. Bir okur da bunları dikkate alarak kitap seçimini yapmıştır. Bu okurun kitap seçiminde etkili olan arka kapak yazısı aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bu romanı bugün de tekrar tekrar okuya- bilirsiniz."
+        },
+        {
+          "label": "B",
+          "text": "Bir aşk destanı olan Ağrıdağı Efsanesi, geleneklerini Mahmut Han'a karşı savu- nan Ahmet ile Gülbahar arasındaki aşkı konu alır. Efsanelere ve halk söylence- lerine yürekten bağlı yazarın bu romanı, insan psikolojisinin derinliklerini de içerir."
+        },
+        {
+          "label": "C",
+          "text": "Bu kitaptan sonra Yunus'un yanık sev- dalı sesini duyacak, Mevlana'nın yaktığı insanlık ateşiyle aydınlanacaksınız. İnsan olma sevdasını şiirsel anlatan kitap sizi bütün zaman, kültür ve coğrafyalarda yeni bir kimlikle yolculuk yapmaya çağırıyor."
+        },
+        {
+          "label": "D",
+          "text": "Yazar, bu eserinde sözcükleri büyüteç gibi kullanıyor. Haritada İstanbul'un karşı- sına dizilmiş adalardan birine dikkatle bakmaya başlıyor. Başlangıçta soruyor yazar: Büyükada'yı tanıyan, bilen var mı? Büyükada'yı tanımayan, bilmeyen yok."
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Kitap arka kapak yazıları",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.8,
+      "page": 7,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 44
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) aşağıdaki davranışlarından hangisi onun merhametli ve affedici oluşunu en iyi şekilde yansıtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İblis'e lânet etmesi"
+        },
+        {
+          "key": "B",
+          "text": "Uhud Savaşı'nda yaralanması"
+        },
+        {
+          "key": "C",
+          "text": "Medine'de Müslüman olmayanlarla iyi ilişkiler kurması"
+        },
+        {
+          "key": "D",
+          "text": "Bedir Savaşı'nda esir alınan düşmanlarını serbest bırakması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed, Bedir Savaşı'nda esir aldığı düşmanlarını serbest bırakarak onlara merhamet ve affedicilik göstermiştir. Bu davranış, onun merhametli ve affedici oluşunu en iyi şekilde yansıtmaktadır.",
+      "confidence": 85,
+      "kazanim_code": "8.4.2",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "question_number": 45
+    },
+    {
+      "number": 8,
+      "stem": "Which of the following is NOT a characteristic of the seasons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Precipitation"
+        },
+        {
+          "label": "B",
+          "text": "Temperature"
+        },
+        {
+          "label": "C",
+          "text": "Wind direction"
+        },
+        {
+          "label": "D",
+          "text": "Eye color"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Fen Bilimleri",
+      "topic": "Mevsimler ve İklim",
+      "kazanim_code": "F.8.1.1.1, F.8.1.2.1, F.8.1.2.2",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 46
+    },
+    {
+      "number": 6,
+      "stem": "Bu metinde; • karşılaştırma, • örneklendirme, • benzetme, • tanımlama düşünceyi geliştirme yollarının tamamının kullanıldığını söyleyebilmek için boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yıllara hitap edecek bir denemede her sözcük tarihî eser gibi geleceğe ulaşmak zorundadır"
+        },
+        {
+          "label": "B",
+          "text": "Bir yazıyı deneme yapan özellik denince aklıma ilk gelenler yenilik, düşünce ve sözcük kullanımı oluyor"
+        },
+        {
+          "label": "C",
+          "text": "İsteyerek seçtiği bir konu üzerinde sadece deneme yazarı fikirlerini serbestçe anlatır"
+        },
+        {
+          "label": "D",
+          "text": "Deneme, şiirden sonra daha doğrusu şiirle birlikte az sözle çok söz söyleme sanatıdır"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Düşünceyi Geliştirme Yolları",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.8,
+      "page": 5,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 47
+    },
+    {
+      "number": 16,
+      "stem": "Aşağıdaki görsellerde silindirli kilit sistemi ve anahtar verilmiştir. Bu bilgilere göre, anahtar çevrildiğinde açılabilir durumda olan kilit görseli aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A"
+        },
+        {
+          "label": "B",
+          "text": "B"
+        },
+        {
+          "label": "C",
+          "text": "C"
+        },
+        {
+          "label": "D",
+          "text": "D"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Okuma",
+      "kazanim_code": "T.8.4.18",
+      "confidence": 0.9,
+      "page": 12,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 48
+    },
+    {
+      "number": 13,
+      "stem": "Günümüzdeki otomobillerde hemen hemen her şeyi dokunmatik ekranlar üzerinden yapabiliyorsu- nuz. Bu nedenle ekran ne kadar büyürse arabanın albenisi de o kadar artıyor. Maliyetleri düşürmek, üretim ve tasarım sürelerini kısaltmak ve etkileyici iç tasarımlar sunmak için fiziksel tuşlardan vazgeçilip dokunmatik ekranlara geçilse de yapılan kullanılabilirlik testleri çok farklı bir hikâye anlatıyor. Sürüş esnasında gerek duyulan birçok işlevde, fiziksel tuşların kullanılması dokunmatik ekrana göre çok daha güvenli. Öyle ki hareket hâlindeki bir araçta birtakım görevleri yerine getirmek için fiziksel tuşlar çok daha hızlı. Durum böyleyken otomobil sektörünün yanı sıra beyaz eşyadan endüstriyel ürünlere kadar birçok elektronik cihazda da dokunmatik ekran kullanılmaktadır. Bu metinden, I. Otomobil üreticileri, tüketicilerin görüşlerini ve isteklerini dikkate almaktadır. II. Otomobil sektörüyle başlayan dokunmatik ekran üretimi diğer sektörlere de yayılmaya başla- mıştır. III. Fiziksel tuşlar, dokunmatik ekrana göre kullanıcılara daha güvenli bir sürüş imkânı sağlamak- tadır. IV. Dokunmatik ekran üretimi, fiziksel tuş üretimine göre daha avantajlıdır. yargılarının hangilerine ulaşılabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I ve II"
+        },
+        {
+          "label": "B",
+          "text": "I ve IV"
+        },
+        {
+          "label": "C",
+          "text": "II ve III"
+        },
+        {
+          "label": "D",
+          "text": "III ve IV"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Türkçe",
+      "topic": "Yazma Metin İnceleme",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.9,
+      "page": 9,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Kolay",
+      "question_number": 49
+    },
+    {
+      "number": 3,
+      "stem": "Sınav sırasında her türlü plastik, metal ve cam eşya yanınızda bulundurulamaz.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Doğru"
+        },
+        {
+          "label": "B",
+          "text": "Yanlış"
+        },
+        {
+          "label": "C",
+          "text": "Kısmen doğru"
+        },
+        {
+          "label": "D",
+          "text": "Kısmen yanlış"
+        }
+      ],
+      "correct_answer": "A",
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Sınav kuralları",
+      "kazanim_code": null,
+      "confidence": 0.95,
+      "page": 32,
+      "stamp": "LGS",
+      "source": "Original LGS Exam",
+      "difficulty_level": "Orta",
+      "question_number": 50
+    }
+  ],
+  "statistics": {
+    "total_questions": 50,
+    "by_source": {
+      "LGS": 38,
+      "MILK": 12
+    },
+    "by_subject": {
+      "English": 9,
+      "Din Kültürü ve Ahlak Bilgisi": 12,
+      "İnkılap Tarihi ve Atatürkçülük": 11,
+      "Türkçe": 12,
+      "Fen Bilimleri": 4,
+      "Matematik": 2
+    },
+    "by_difficulty": {
+      "Orta": 24,
+      "Kolay": 24,
+      "Zor": 2
+    },
+    "by_subject_and_source": {
+      "English": {
+        "LGS": 8,
+        "MILK": 1
+      },
+      "Din Kültürü ve Ahlak Bilgisi": {
+        "LGS": 9,
+        "MILK": 3
+      },
+      "İnkılap Tarihi ve Atatürkçülük": {
+        "LGS": 9,
+        "MILK": 2
+      },
+      "Türkçe": {
+        "LGS": 11,
+        "MILK": 1
+      },
+      "Fen Bilimleri": {
+        "LGS": 1,
+        "MILK": 3
+      },
+      "Matematik": {
+        "LGS": 0,
+        "MILK": 2
+      }
+    }
+  }
+}

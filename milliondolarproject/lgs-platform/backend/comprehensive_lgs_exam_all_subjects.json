@@ -1,0 +1,1579 @@
+{
+  "exam_info": {
+    "title": "Comprehensive LGS Practice Exam - All Subjects",
+    "description": "Complete LGS exam covering all subjects with special character support",
+    "total_questions": 50,
+    "subjects_covered": [
+      "Türkçe",
+      "Matematik",
+      "Fen Bilimleri",
+      "İnkılap Tarihi",
+      "Din Kültürü ve Ahlak Bilgisi",
+      "İngilizce"
+    ],
+    "generation_date": "2024-11-14"
+  },
+  "questions": [
+    {
+      "stem": "Verilen üç kenarın uzunlukları 3 cm, 4 cm ve 5 cm olan bir üçgeni çiziniz.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Çizilen üçgen dik üçgendir."
+        },
+        {
+          "key": "B",
+          "text": "Çizilen üçgen eşkenar üçgendir."
+        },
+        {
+          "key": "C",
+          "text": "Çizilen üçgen ikizkenar üçgendir."
+        },
+        {
+          "key": "D",
+          "text": "Çizilen üçgen çeşitkenar üçgendir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Verilen üç kenar uzunluğu 3 cm, 4 cm ve 5 cm olan bir üçgen çeşitkenar üçgendir. Çünkü üç kenar uzunluğu da birbirinden farklıdır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.4",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 3
+    },
+    {
+      "stem": "Aşağıdaki şekillerden hangisinin yansıma sonucundaki görüntüsü diğerlerinden farklıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğru parçası"
+        },
+        {
+          "key": "B",
+          "text": "Kare"
+        },
+        {
+          "key": "C",
+          "text": "Daire"
+        },
+        {
+          "key": "D",
+          "text": "Üçgen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Doğru parçasının yansıma sonucunda görüntüsü, diğer şekillerin yansıma sonucundaki görüntülerinden farklıdır. Doğru parçası, yansıma sonucunda ters yönde görünür. Kare, daire ve üçgen gibi kapalı şekillerin yansıma sonucundaki görüntüleri ise aynı yöndedir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.2.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 9
+    },
+    {
+      "stem": "Bu kazanımla ilgili temel bir soru: Cumhuriyetin ilk yıllarında Türkiye Cumhuriyetine yönelik tehditleri analiz eder....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "İTA.8.5.3",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK_FALLBACK",
+      "stamp": "MILK",
+      "question_number": 48
+    },
+    {
+      "stem": "Bir bilim insanı laboratuvarda yeni bir biyolojik madde üzerinde deney yapmaktadır. Deneyin sonunda, maddenin beklenmedik bir şekilde patlaması sonucunda, bilim insanı yaralanmıştır. Bu olay sonucunda, bilim insanının ne yapması gerektiği hakkında ne düşünürsünüz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deneyi hemen sonlandırıp, yaralı bölgeyi soğuk suyla yıkamalı ve ilk yardım yapmalıdır."
+        },
+        {
+          "key": "B",
+          "text": "Laboratuvardaki diğer personele durumu bildirmeli ve hastaneye gitmelidir."
+        },
+        {
+          "key": "C",
+          "text": "Yaralanmanın ciddiyetine göre iş yetkilileri ve ailesi ile iletişime geçmelidir."
+        },
+        {
+          "key": "D",
+          "text": "Yaralanmanın ciddiyetine göre hareket etmeli, öncelikle kendi güvenliğini sağlamalıdır."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bilim insanının öncelikle laboratuvardaki diğer personele durumu bildirmesi ve hemen hastaneye gitmesi gerekmektedir. Ardından, iş yetkilileri ve ailesi ile iletişime geçmesi uygun olacaktır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 22
+    },
+    {
+      "stem": "Aşağıdaki video klipte, bir volkan patlamasının gelişimi ve sonucu hakkında ne tahmin edilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Volkan patlaması sonucunda çok sayıda insan yaralanacaktır."
+        },
+        {
+          "key": "B",
+          "text": "Volkan patlaması sonucunda çevredeki yerleşim yerleri zarar görecektir."
+        },
+        {
+          "key": "C",
+          "text": "Volkan patlaması sonucunda sadece volkan çevresindeki bölge etkilenecektir."
+        },
+        {
+          "key": "D",
+          "text": "Volkan patlaması sonucunda hiçbir can kaybı olmayacaktır."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Volkan patlamalarında, patlama sonucunda çıkan lav ve kül bulutları çevredeki yerleşim yerlerini etkileyebilir. Bu nedenle, video klipte gösterilen volkan patlamasının da çevredeki yerleşim yerlerine zarar vermesi beklenir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 21
+    },
+    {
+      "stem": "Bir bilim insanı, yeni bir fosil keşfetmiştir. Bu fosil hakkında aşağıdakilerden hangisi doğru bir tahminde bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fosil, günümüzden milyon yıllar önce yaşamış bir canlıya aittir."
+        },
+        {
+          "key": "B",
+          "text": "Fosil, günümüzde yaşayan bir canlının kalıntısıdır."
+        },
+        {
+          "key": "C",
+          "text": "Fosil, gelecekte yaşayacak bir canlıya aittir."
+        },
+        {
+          "key": "D",
+          "text": "Fosil, insan yapımı bir nesneye aittir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fosiller, geçmişte yaşamış canlıların kalıntılarıdır. Dolayısıyla bu fosil de günümüzden milyon yıllar önce yaşamış bir canlıya ait olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 39
+    },
+    {
+      "stem": "Güneş enerjisinden elektrik üretmek için kullanılan bir güneş paneli, bulutlu bir günde çalışmaya başladı. Güneş panelinin ürettiği elektrik miktarı, açık bir günle karşılaştırıldığında nasıl değişir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş panelinin elektrik üretimi açık günle aynı kalır."
+        },
+        {
+          "key": "B",
+          "text": "Güneş panelinin elektrik üretimi açık günle karşılaştırıldığında azalır."
+        },
+        {
+          "key": "C",
+          "text": "Güneş panelinin elektrik üretimi açık günle karşılaştırıldığında artar."
+        },
+        {
+          "key": "D",
+          "text": "Güneş panelinin elektrik üretimi açık günle karşılaştırıldığında tamamen durur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Güneş panellerinin elektrik üretimi, güneş ışınlarının şiddetine bağlıdır. Bulutlu bir günde güneş ışınlarının şiddeti azaldığı için, güneş panelinin elektrik üretimi de azalır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 36
+    },
+    {
+      "stem": "Aşağıda verilen üç grafikte, 2016, 2017 ve 2018 yıllarına ait ABC firmasının aylık satış verileri gösterilmektedir. Buna göre, 2017 yılında ABC firmasının Eylül ayında gerçekleştirdiği satış miktarı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "250"
+        },
+        {
+          "key": "B",
+          "text": "300"
+        },
+        {
+          "key": "C",
+          "text": "350"
+        },
+        {
+          "key": "D",
+          "text": "400"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Grafiklerden 2017 yılı Eylül ayına ait sütunun yüksekliği 350 birim olarak görülmektedir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.4.1.1",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 12
+    },
+    {
+      "stem": "Milli Mücadele Dönemi'nde Batı Cephesi'nde yaşanan en önemli gelişme aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İzmir'in işgali"
+        },
+        {
+          "key": "B",
+          "text": "Sakarya Meydan Muharebesi'nin kazanılması"
+        },
+        {
+          "key": "C",
+          "text": "Mudanya Mütarekesi'nin imzalanması"
+        },
+        {
+          "key": "D",
+          "text": "Kütahya-Eskişehir Savaşları'nın yaşanması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sakarya Meydan Muharebesi, Milli Mücadele Dönemi'nde Batı Cephesi'nde yaşanan en önemli gelişmedir. Bu muharebe, Türk ordusunun önemli bir zaferiyle sonuçlanmıştır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.2.",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 44
+    },
+    {
+      "stem": "Atatürk ilke ve inkılaplarının temel esaslarından biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Milliyetçilik"
+        },
+        {
+          "key": "B",
+          "text": "Laiklik"
+        },
+        {
+          "key": "C",
+          "text": "Halkçılık"
+        },
+        {
+          "key": "D",
+          "text": "Devletçilik"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Atatürk ilke ve inkılaplarının temel esaslarından biri laikliktir. Laiklik, din ve devlet işlerinin birbirinden ayrılması anlamına gelir ve Atatürk tarafından gerçekleştirilen önemli bir inkılaplardan biridir.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.4.9",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 49
+    },
+    {
+      "stem": "Bir bilim insanı, uzaydaki yaşam belirtileri aramak için yeni bir teleskop geliştiriyor. Teleskop, uzaydan gelen sinyalleri algılamaya ve analiz etmeye başlıyor. Bilim insanı, bu sinyallerin uzaydan gelen yaşam formlarından kaynaklandığını düşünüyor. Buna göre, bilim insanının bu sinyalleri inceleyerek ulaşabileceği en olası sonuç nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sinyaller, uzayda yaşam formları olduğunu göstermez ve doğal kaynaklı olabilir."
+        },
+        {
+          "key": "B",
+          "text": "Sinyaller, uzayda yaşam formlarının varlığını kanıtlayabilir."
+        },
+        {
+          "key": "C",
+          "text": "Sinyaller, uzayda yaşam formları olduğunu gösterir, ancak bunların insanlık için tehlikeli olduğunu kanıtlar."
+        },
+        {
+          "key": "D",
+          "text": "Sinyaller, uzayda yaşam formlarının varlığını gösterir, ancak bunların insanlık için faydalı olmayacağını kanıtlar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bilim insanı, uzaydan gelen sinyallerin uzaydaki yaşam formlarından kaynaklandığını düşünmektedir. Bu sinyalleri inceleyerek, uzayda yaşam formlarının varlığını kanıtlayabilir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 37
+    },
+    {
+      "stem": "Bir zar atılarak 1 ile 6 arasında bir sayı gelir. Bu olayda her bir çıktının olasılık değeri nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/2"
+        },
+        {
+          "key": "B",
+          "text": "1/6"
+        },
+        {
+          "key": "C",
+          "text": "1/3"
+        },
+        {
+          "key": "D",
+          "text": "1/12"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Zarda 1 ile 6 arasında altı farklı sonuç elde edilebilir ve her bir sonucun eşit şansa sahip olması nedeniyle, her bir çıktının olasılık değeri 1/6'dır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.5.1.3",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 7
+    },
+    {
+      "stem": "Ayşe ve arkadaşları, öğretmenlerinin yönlendirmesiyle bir doğa belgeselini izlemişlerdir. Belgeselde, aslanların av peşinde koştuklarını ve bir zebrayı yakaladıklarını gözlemlemişlerdir. Bu olayın gelişimi ve sonucu hakkında Ayşe'nin tahmini aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aslanlar, zebrayı yakalamayı başaramayacaktır."
+        },
+        {
+          "key": "B",
+          "text": "Aslanlar, zebrayı yakalayacak ve yiyecektir."
+        },
+        {
+          "key": "C",
+          "text": "Zebra, aslanların saldırısından kurtulacaktır."
+        },
+        {
+          "key": "D",
+          "text": "Aslanlar, zebrayı yakalayıp yemeyecektir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Belgeselde, aslanların av peşinde koştuklarını ve bir zebrayı yakaladıklarını gözlemleyen Ayşe, aslanların zebrayı yakalayıp yiyeceği sonucuna varabilir. Çünkü aslanlar, doğada hayatta kalabilmek için av hayvanlarını yakalar ve yer.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 24
+    },
+    {
+      "stem": "Aşağıdaki üçgenlerden hangisinde kenarortay, açıortay ve yükseklik çizilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eşkenar üçgen"
+        },
+        {
+          "key": "B",
+          "text": "Dik üçgen"
+        },
+        {
+          "key": "C",
+          "text": "İkizkenar üçgen"
+        },
+        {
+          "key": "D",
+          "text": "Çeşitkenar üçgen"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "İkizkenar üçgenlerde, taban kenarı üzerindeki kenarortay, taban açısının açıortayı ve taban kenarına dik yükseklik çizilebilir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.1",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 17
+    },
+    {
+      "stem": "Bir bilim insanı, yaptığı deneylerde bir cismin hızla yer değiştirdiğini gözlemlemiştir. Bu gözleminden hareketle, cismin hareketinin sonucu hakkında aşağıdakilerden hangisini tahmin edebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cismin hareket yönü değişmeyecektir."
+        },
+        {
+          "key": "B",
+          "text": "Cismin hızı giderek artacaktır."
+        },
+        {
+          "key": "C",
+          "text": "Cismin hareketine bir süre sonra son verilecektir."
+        },
+        {
+          "key": "D",
+          "text": "Cismin hareketi düzenli bir şekilde devam edecektir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir cismin hızla yer değiştirmesi, cismin hızının giderek artmasına işaret eder. Çünkü hızlanma, cismin hızının artması anlamına gelir. Bu nedenle, bilim insanının gözleminden hareketle, cismin hızının giderek artacağı tahmin edilebilir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 30
+    },
+    {
+      "stem": "Aşağıdaki şekilde, doğru parçası ABC'nin yansıması sonucunda oluşan görüntüsü hangi seçenekte doğru gösterilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A'B'C'"
+        },
+        {
+          "key": "B",
+          "text": "A\"B\"C\""
+        },
+        {
+          "key": "C",
+          "text": "A‴B‴C‴"
+        },
+        {
+          "key": "D",
+          "text": "A⁗B⁗C⁗"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Doğru parçası ABC'nin yansıma sonucunda oluşan görüntüsü A\"B\"C\" şeklindedir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.2.2",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 20
+    },
+    {
+      "stem": "Mustafa Kemal'e yönelik 1926 yılındaki suikast girişiminin arkasında yatan asıl nedenlerden biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mustafa Kemal'in saltanatı kaldırması"
+        },
+        {
+          "key": "B",
+          "text": "Mustafa Kemal'in yaptığı inkılap hareketleri"
+        },
+        {
+          "key": "C",
+          "text": "Mustafa Kemal'in muhalif kişileri cezalandırması"
+        },
+        {
+          "key": "D",
+          "text": "Mustafa Kemal'in Cumhuriyet'i ilan etmesi"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mustafa Kemal'in gerçekleştirdiği çağdaşlaşma ve modernleşme hareketleri (inkılap hareketleri), geleneksel düzene alışkın olan bazı çevreler tarafından tepkiyle karşılanmıştır. Bu durum, 1926 yılında Mustafa Kemal'e yönelik suikast girişiminin temel nedenlerinden biri olmuştur.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.5.2",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 43
+    },
+    {
+      "stem": "Bir olasılık deneyi sonucunda \"daha fazla\", \"eşit\" ve \"daha az\" olasılıklı üç olay oluşmuştur. Bu olayların olasılıklarının toplamı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,5"
+        },
+        {
+          "key": "B",
+          "text": "0,75"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "1,25"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bir olasılık deneyinde \"daha fazla\", \"eşit\" ve \"daha az\" olasılıklı üç olay oluşur ve bu olayların olasılıklarının toplamı 1'dir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.5.1.2",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 1
+    },
+    {
+      "stem": "Bir bilim insanı, laboratuvarda yaptığı deneyleri izleyen öğrencilere, deneylerin sonuçları hakkında tahminde bulunmalarını ister. Öğrencilerden gelen tahminler aşağıdakilerden hangisine daha yakın olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deneylerin önceden belirlenmiş sonuçlarına"
+        },
+        {
+          "key": "B",
+          "text": "Deneylerin gerçek sonuçlarına"
+        },
+        {
+          "key": "C",
+          "text": "Deneylerin beklenen sonuçlarına"
+        },
+        {
+          "key": "D",
+          "text": "Deneylerin olası sonuçlarına"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Öğrenciler, deneyleri izleyerek elde ettikleri gözlemlere dayanarak, deneylerin gerçek sonuçları hakkında daha isabetli tahminlerde bulunabilirler.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 40
+    },
+    {
+      "stem": "Yağmur yağdıktan sonra, yağmur sularının toprakta oluşturduğu göletlerin zamanla yok olmasının sebebi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Göletlerin buharlaşması"
+        },
+        {
+          "key": "B",
+          "text": "Göletlerin toprağa sızması"
+        },
+        {
+          "key": "C",
+          "text": "Göletlerin yağmur suları tarafından taşınması"
+        },
+        {
+          "key": "D",
+          "text": "Göletlerin canlılar tarafından kullanılması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Yağmur sularının oluşturduğu göletler, zamanla toprağa sızarak yok olurlar. Bu, suyun toprak içerisine nüfuz etmesi ve yeraltı sularına karışmasıyla gerçekleşir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 35
+    },
+    {
+      "stem": "Dik bir koninin yüksekliği 12 cm, taban yarıçapı 8 cm ise, koninin yan yüzey alanı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "96π cm²"
+        },
+        {
+          "key": "B",
+          "text": "64π cm²"
+        },
+        {
+          "key": "C",
+          "text": "48π cm²"
+        },
+        {
+          "key": "D",
+          "text": "32π cm²"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dik koninin yan yüzey alanı, taban çevresi ile yüksekliğin çarpımına eşittir. Taban yarıçapı 8 cm olduğuna göre, taban çevresi 2πr = 2π(8) = 16π cm'dir. Yükseklik 12 cm olduğuna göre, yan yüzey alanı 16π(12) = 64π cm² olur.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.4.6",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 11
+    },
+    {
+      "stem": "Atatürk Dönemi Türk dış politikasının temel ilkelerinden biri olan \"Yurtta Sulh, Cihanda Sulh\" ilkesinin amacı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türkiye'nin uluslararası alanda güçlenmesini sağlamak"
+        },
+        {
+          "key": "B",
+          "text": "Türkiye'nin barışçıl bir dış politika izlemesini ve diğer ülkelerle iyi ilişkiler kurmasını sağlamak"
+        },
+        {
+          "key": "C",
+          "text": "Türkiye'nin diğer ülkelerle ekonomik işbirliğini artırmak"
+        },
+        {
+          "key": "D",
+          "text": "Türkiye'nin Batı ülkeleriyle ittifak kurmasını sağlamak"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Yurtta Sulh, Cihanda Sulh\" ilkesi, Türkiye'nin barışçıl bir dış politika izlemesini ve diğer ülkelerle iyi ilişkiler kurmasını amaçlamaktadır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.6.1",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 46
+    },
+    {
+      "stem": "Milli Mücadele Dönemi'nin siyasi, sosyal ve kültürel olaylarının sanat ve edebiyat ürünlerine yansımalarına en iyi örnek aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yahya Kemal'in \"Sessiz Gemi\" şiiri"
+        },
+        {
+          "key": "B",
+          "text": "Halide Edip Adıvar'ın \"Ateşten Gömlek\" romanı"
+        },
+        {
+          "key": "C",
+          "text": "Mehmet Akif Ersoy'un \"İstiklal Marşı\""
+        },
+        {
+          "key": "D",
+          "text": "Faruk Nafiz Çamlıbel'in \"Çoban Çeşmesi\" şiiri"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Halide Edip Adıvar'ın \"Ateşten Gömlek\" romanı, Milli Mücadele Dönemi'nin siyasi, sosyal ve kültürel olaylarını yansıtan önemli bir eserdir.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.7.",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 45
+    },
+    {
+      "stem": "Üçgenin köşelerinden biri 45°, diğer iki köşesi eşit açılı ise, üçgenin kenarlarının uzunlukları arasındaki ilişki nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kenarlar eşittir."
+        },
+        {
+          "key": "B",
+          "text": "Kenarlardan biri diğer ikisinin ±√2 katıdır."
+        },
+        {
+          "key": "C",
+          "text": "Kenarlardan biri diğer ikisinin ±×√2 katıdır."
+        },
+        {
+          "key": "D",
+          "text": "Kenarlar birbirine eşit değildir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Üçgenin bir köşesi 45° olduğunda, bu köşeye karşı gelen kenar uzunluğu diğer iki kenarın √2 katına eşittir. Bu, Pisagor bağıntısından elde edilir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.5",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 18
+    },
+    {
+      "stem": "Bir oyun kutusunda 4 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele bir top seçilirse, mavi top seçilme olasılığı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "¼"
+        },
+        {
+          "key": "B",
+          "text": "½"
+        },
+        {
+          "key": "C",
+          "text": "¾"
+        },
+        {
+          "key": "D",
+          "text": "Â¼"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toplam top sayısı 4 + 3 + 2 = 9'dur. Mavi top sayısı 3, bu nedenle mavi top seçilme olasılığı 3/9 = 1/3 = 1/2'dir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.5.1.5",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 19
+    },
+    {
+      "stem": "Bir üçgenin kenar uzunlukları 5 cm, 12 cm ve 13 cm ise, bu üçgenin en büyük açısının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60°"
+        },
+        {
+          "key": "B",
+          "text": "90°"
+        },
+        {
+          "key": "C",
+          "text": "120°"
+        },
+        {
+          "key": "D",
+          "text": "150°"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Üçgenin en büyük açısı, en uzun kenarın karşısındaki açıdır. Bu üçgende en uzun kenar 13 cm'dir. Buna göre, en büyük açının ölçüsü 150° olur.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.3",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 2
+    },
+    {
+      "stem": "Bir üçgenin kenarları 3 cm, 4 cm ve x cm'dir. Pisagor bağıntısına göre x'in değeri nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 cm"
+        },
+        {
+          "key": "B",
+          "text": "6 cm"
+        },
+        {
+          "key": "C",
+          "text": "7 cm"
+        },
+        {
+          "key": "D",
+          "text": "8 cm"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pisagor bağıntısına göre, bir üçgenin kenarlarından herhangi ikisi arasındaki ilişki şöyledir: a^2 + b^2 = c^2. Burada a = 3 cm, b = 4 cm ve c = x cm'dir. Dolayısıyla, 3^2 + 4^2 = x^2 eşitliğinden x = 5 cm bulunur.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.5",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 5
+    },
+    {
+      "stem": "Ayşe, annesinin izlediği bir belgeseli dikkatle takip ediyor. Belgeselde, kutup ayılarının yaşam döngüsü anlatılıyor. Ayşe, belgesel sonunda kutup ayılarının gelecekteki yaşam alanlarının azalabileceği yönünde bir tahminde bulunuyor. Ayşe'nin bu tahmini aşağıdakilerden hangisiyle en uyumludur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutup ayılarının nesli tükenmektedir."
+        },
+        {
+          "key": "B",
+          "text": "Kutup bölgelerindeki iklim değişiklikleri kutup ayılarının yaşam alanlarını tehdit etmektedir."
+        },
+        {
+          "key": "C",
+          "text": "Kutup ayıları yeni yaşam alanları bulmak için göç etmektedir."
+        },
+        {
+          "key": "D",
+          "text": "Kutup ayıları doğal yaşam alanlarının korunması için mücadele etmektedir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Belgeselde kutup ayılarının yaşam alanlarının azalması ile ilgili bir bilgi verildiği için, Ayşe'nin bu yönde bir tahmin yapması beklenmektedir. İklim değişikliklerinin kutup bölgelerindeki etkisi, kutup ayılarının yaşam alanlarını tehdit etmektedir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 33
+    },
+    {
+      "stem": "Gökten düşen bir meteor, bir çiftçinin tarlasına çarptı. Çiftçi, meteorun çarptığı yerde küçük bir krater oluştuğunu ve çevredeki bitkilerin zarar gördüğünü gördü. Çiftçi, meteorun neden olduğu etkileri tahmin etmeye çalışıyor. Buna göre, çiftçinin meteorun çarptığı yerdeki olayların gelişimi ve sonucu hakkında en doğru tahmini aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meteorun çarpmasıyla oluşan krater, çevredeki toprak ve bitkilere zarar vermemiştir."
+        },
+        {
+          "key": "B",
+          "text": "Meteorun çarpmasıyla oluşan krater, çevredeki toprak ve bitkilere zarar vermiştir."
+        },
+        {
+          "key": "C",
+          "text": "Meteorun çarpmasıyla oluşan krater, çevredeki toprak ve bitkilere yararlı olmuştur."
+        },
+        {
+          "key": "D",
+          "text": "Meteorun çarpmasıyla oluşan krater, çevredeki toprak ve bitkileri tamamen yok etmiştir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Meteorların yeryüzüne çarpması, çevredeki toprak ve bitkilere zarar verebilir. Çiftçinin gözlemlediği gibi, meteorun çarpma noktasında bir krater oluşmuş ve çevredeki bitkiler zarar görmüştür. Bu nedenle, çiftçinin meteorun çarpmasıyla oluşan kraterden kaynaklanan etkilerin çevredeki toprak ve bitkilere zarar verdiği yönündeki tahmini doğrudur.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 28
+    },
+    {
+      "stem": "Aşağıdaki ifadelerden hangisi, dinlediğiniz/izlediğiniz bir olay hakkında en doğru tahmini içerir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Olayın başlangıcı hakkında bilgi verir."
+        },
+        {
+          "key": "B",
+          "text": "Olayın gelişimi ve sonucu hakkında tahmin yapar."
+        },
+        {
+          "key": "C",
+          "text": "Olayın içerdiği bilimsel kavramları açıklar."
+        },
+        {
+          "key": "D",
+          "text": "Olayın uygulamadaki önemini vurgular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Kazanım, dinlenen/izlenen olay hakkında gelişim ve sonuç üzerine tahmin yapmayı gerektirmektedir. Bu nedenle doğru cevap B seçeneğidir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 29
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi dik piramidi oluşturan temel elemanlardan biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taban"
+        },
+        {
+          "key": "B",
+          "text": "Yüzey"
+        },
+        {
+          "key": "C",
+          "text": "Tepe noktası"
+        },
+        {
+          "key": "D",
+          "text": "Kenar"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dik piramidin temel elemanları taban, yüzeyler ve tepe noktasıdır. Kenar, piramidi oluşturan temel elemanlardan biri değildir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.4.5",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 14
+    },
+    {
+      "stem": "Bir kırmızı top, iki mavi top ve üç sarı top içeren bir torbadan rastgele bir top çekildiğinde, kırmızı topun seçilme olasılığı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/3"
+        },
+        {
+          "key": "B",
+          "text": "1/6"
+        },
+        {
+          "key": "C",
+          "text": "1/2"
+        },
+        {
+          "key": "D",
+          "text": "2/6"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toplam 6 top vardır ve bunlardan 1 tanesi kırmızıdır. Bu nedenle, kırmızı topun seçilme olasılığı 1/6'dır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.5.1.5",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 8
+    },
+    {
+      "stem": "Aşağıdaki grafikte, 2019, 2020 ve 2021 yıllarına ait üç farklı veri grubunun yıllık satış miktarları verilmiştir. Buna göre, 2021 yılında en yüksek satış miktarına sahip olan veri grubu hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Veri Grubu 1"
+        },
+        {
+          "key": "B",
+          "text": "Veri Grubu 2"
+        },
+        {
+          "key": "C",
+          "text": "Veri Grubu 3"
+        },
+        {
+          "key": "D",
+          "text": "Veri grupları arasında satış miktarları eşittir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Grafikte 2021 yılına ait sütunlar incelendiğinde, Veri Grubu 3'ün en yüksek satış miktarına sahip olduğu görülmektedir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.4.1.1",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 13
+    },
+    {
+      "stem": "Mehmet, arkadaşlarıyla birlikte bir belgesel film izlemiştir. Belgeselde, kutup ayılarının yiyecek bulmak için uzun mesafeler kat ettiği anlatılmaktadır. Mehmet, belgeseldeki bu olayın gelişimi ve sonucu hakkında ne tahmin edebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kutup ayıları yiyecek bulamadıkları için açlıktan ölürler."
+        },
+        {
+          "key": "B",
+          "text": "Kutup ayıları yiyecek bulmak için uzun mesafeleri başarıyla kat ederler."
+        },
+        {
+          "key": "C",
+          "text": "Kutup ayıları yiyecek bulmak için çaba sarf ederler ancak başarısız olurlar."
+        },
+        {
+          "key": "D",
+          "text": "Kutup ayıları yiyecek bulmak için uzun mesafeler kat ederler ancak sonunda yorulurlar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Belgeselde, kutup ayılarının yiyecek bulmak için uzun mesafeler kat ettikleri anlatılmaktadır. Bu nedenle, Mehmet'in en doğru tahmini, kutup ayılarının yiyecek bulmak için uzun mesafeleri başarıyla kat etmeleri olacaktır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 27
+    },
+    {
+      "stem": "Atatürk'ün Türk milleti için gösterdiği hedeflerden biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Osmanlı Devleti'ni yeniden kurmak"
+        },
+        {
+          "key": "B",
+          "text": "Çağdaş, laik ve demokratik bir Türkiye oluşturmak"
+        },
+        {
+          "key": "C",
+          "text": "Dini kuralları devlet yönetiminde esas almak"
+        },
+        {
+          "key": "D",
+          "text": "Milli sınırları genişletmek"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Atatürk, Türkiye Cumhuriyeti'ni çağdaş, laik ve demokratik bir devlet olarak kurmayı hedeflemiştir. Bu hedefe ulaşmak için birçok inkılap gerçekleştirmiştir.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.4.8",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 41
+    },
+    {
+      "stem": "Aşağıdaki dik piramitlerden hangisi doğru gösterilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Taban kenarı 6 cm, yükseklik 4 cm olan dik piramit"
+        },
+        {
+          "key": "B",
+          "text": "Taban kenarı 8 cm, yükseklik 6 cm olan dik piramit"
+        },
+        {
+          "key": "C",
+          "text": "Taban kenarı 10 cm, yükseklik 8 cm olan dik piramit"
+        },
+        {
+          "key": "D",
+          "text": "Taban kenarı 12 cm, yükseklik 10 cm olan dik piramit"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dik piramit, taban çokgenine dik bir tepe noktasından oluşan bir geometrik şekildir. Taban kenarı 8 cm, yükseklik 6 cm olan dik piramit doğru gösterilmiştir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.4.5",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 6
+    },
+    {
+      "stem": "Bir zar atıldığında gelen sayının 3 veya 5 olma olasılığı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/6"
+        },
+        {
+          "key": "B",
+          "text": "1/3"
+        },
+        {
+          "key": "C",
+          "text": "2/6"
+        },
+        {
+          "key": "D",
+          "text": "5/6"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir zar atıldığında gelebilecek sonuçlar 1, 2, 3, 4, 5, 6 olmak üzere 6 tanedir. Bunlardan 3 ve 5 olmak üzere 2 tanesi 3 veya 5 sayısıdır. Bu nedenle, 3 veya 5 gelme olasılığı 2/6 = 1/3'tür.",
+      "confidence": 90,
+      "kazanim_code": "M.8.5.1.3",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 15
+    },
+    {
+      "stem": "Üçgenin iki kenarının uzunlukları 3 cm ve 4 cm ise, üçüncü kenarın uzunluğu kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 cm"
+        },
+        {
+          "key": "B",
+          "text": "5√2 cm"
+        },
+        {
+          "key": "C",
+          "text": "6 cm"
+        },
+        {
+          "key": "D",
+          "text": "7 cm"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pisagor bağıntısına göre, üçgenin iki kenarının uzunlukları 3 cm ve 4 cm ise, üçüncü kenarın uzunluğu √(3^2 + 4^2) = √(9 + 16) = √25 = 5√2 cm'dir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.5",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 16
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi \"daha fazla\" olasılıklı bir olaydır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir zarın 1 ya da 2 gelmesi"
+        },
+        {
+          "key": "B",
+          "text": "Bir zarın 4, 5 veya 6 gelmesi"
+        },
+        {
+          "key": "C",
+          "text": "Bir zarın 3 gelmesi"
+        },
+        {
+          "key": "D",
+          "text": "Bir zarın 1 gelmesi"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir zarın 4, 5 veya 6 gelmesi daha fazla olasılıklı bir olaydır, çünkü bu durumların toplam olasılığı 3/6 = 1/2'dir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.5.1.2",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 4
+    },
+    {
+      "stem": "Mehmet, bir belgesel izlemiştir. Belgeselde, kutuplardaki buzulların erimesi sonucu deniz seviyesinin yükselmesine dair bilgiler verilmiştir. Mehmet'in bu belgeselden çıkarabileceği en doğru tahmini aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buzulların erimesi sonucu deniz canlıları yok olacaktır."
+        },
+        {
+          "key": "B",
+          "text": "Deniz seviyesinin yükselmesi sonucu kıyı bölgelerindeki yaşam etkilenecektir."
+        },
+        {
+          "key": "C",
+          "text": "Buzulların erimesi sonucu deniz suyu soğumayacaktır."
+        },
+        {
+          "key": "D",
+          "text": "Deniz seviyesindeki artış nedeniyle dünyadaki ortalama sıcaklık yükselecektir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Belgeselde verilen bilgilere göre, kutuplardaki buzulların erimesi sonucu deniz seviyesinin yükselmesi, kıyı bölgelerindeki yaşamı etkileyecektir. Bu nedenle, Mehmet'in bu belgeselden çıkarabileceği en doğru tahmin, seçenek B'dir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 23
+    },
+    {
+      "stem": "Bir doktorun hastasıyla ilgili konuşmasını dinleyen Ayşe, doktorun hastasına hangi tavsiyede bulunduğunu tahmin ediyor?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Daha sağlıklı beslenmeye başlaması gerektiği"
+        },
+        {
+          "key": "B",
+          "text": "Düzenli egzersiz yapması gerektiği"
+        },
+        {
+          "key": "C",
+          "text": "Daha çok dinlenmesi gerektiği"
+        },
+        {
+          "key": "D",
+          "text": "Daha sık kontrol olmaya gelmesi gerektiği"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dinlediği konuşmadan, doktorun hastasına düzenli egzersiz yapması gerektiği tavsiyesinde bulunduğu anlaşılıyor.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 32
+    },
+    {
+      "stem": "Bir bilim insanı, uzay araştırmaları yapmak üzere uzay istasyonuna gönderilen bir uzay aracını uzaktan kontrol etmektedir. Uzay aracı, Ay'ın yüzeyindeki bir krater yakınına ulaştığında, ani bir güç kesintisi yaşanır. Bilim insanının, uzay aracının durumu hakkında tahminde bulunması istenmektedir. Buna göre, bilim insanının en olası tahmini nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uzay aracı, güç kesintisi nedeniyle Ay'ın yüzeyine çarparak hasar görmüştür."
+        },
+        {
+          "key": "B",
+          "text": "Uzay aracı, güç kesintisi nedeniyle Ay'ın yüzeyine emniyetli bir şekilde inmiş ve çalışmaya devam etmektedir."
+        },
+        {
+          "key": "C",
+          "text": "Uzay aracı, güç kesintisi nedeniyle uzay boşluğuna sürüklenmiş ve iletişim kaybolmuştur."
+        },
+        {
+          "key": "D",
+          "text": "Uzay aracı, güç kesintisi nedeniyle Ay'ın yörüngesinden çıkarak uzayda kaybolmuştur."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Uzay aracının Ay'ın yüzeyine yakın bir konumda olduğu ve güç kesintisi yaşadığı bilgisinden hareketle, bilim insanının en olası tahmini, uzay aracının Ay'ın yüzeyine emniyetli bir şekilde inmiş ve çalışmaya devam etmesidir. Diğer seçenekler, güç kesintisi sonrası uzay aracının durumunu açıklamakta yetersiz kalmaktadır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 26
+    },
+    {
+      "stem": "Bu kazanımla ilgili temel bir soru: Dinlediklerinde/İzlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK_FALLBACK",
+      "stamp": "MILK",
+      "question_number": 34
+    },
+    {
+      "stem": "Mustafa Kemal'e yönelik suikast girişiminin arkasındaki asıl neden aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saltanatın kaldırılması"
+        },
+        {
+          "key": "B",
+          "text": "Hilafet kurumunun lağvedilmesi"
+        },
+        {
+          "key": "C",
+          "text": "Tek parti yönetiminin kurulması"
+        },
+        {
+          "key": "D",
+          "text": "Şapka Devrimi'nin uygulanması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mustafa Kemal'e yönelik suikast girişiminin arkasındaki asıl neden, hilafet kurumunun lağvedilmesi ve İslami değerlere yapılan reformlardır. Suikast girişimi, Osmanlı'nın geleneksel yapısına karşı yapılan reformlara tepki olarak gerçekleşmiştir.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.5.2",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 42
+    },
+    {
+      "stem": "Bir üçgenin iki kenarının uzunluğu 7 birim ve 12 birimdir. Bu üçgenin üçüncü kenarının uzunluğu kaç birimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 birim"
+        },
+        {
+          "key": "B",
+          "text": "19 birim"
+        },
+        {
+          "key": "C",
+          "text": "17 birim"
+        },
+        {
+          "key": "D",
+          "text": "3 birim"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Üçgenin iki kenarının uzunluğunun toplamı 7 + 12 = 19 birimdir. Üçgenin üçüncü kenarının uzunluğu da 19 birim olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.2",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 10
+    },
+    {
+      "stem": "Atatürk Dönemi Türk dış politikasının temel ilkelerinden biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Emperyalist politikalar izlemek"
+        },
+        {
+          "key": "B",
+          "text": "Barışçıl ve uzlaşmacı bir dış politika izlemek"
+        },
+        {
+          "key": "C",
+          "text": "Diğer ülkelerin iç işlerine karışmak"
+        },
+        {
+          "key": "D",
+          "text": "Yayılmacı ve saldırgan bir tutum sergilemek"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Atatürk Dönemi Türk dış politikasının temel ilkelerinden biri barışçıl ve uzlaşmacı bir politika izlemektir. Türkiye, bu dönemde diğer ülkelerle iyi ilişkiler kurmayı ve çatışmadan kaçınmayı hedeflemiştir.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.6.1",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 47
+    },
+    {
+      "stem": "Yağmur yağarken, gök gürültüsü ve şimşek görülmesi olayının gelişimi ve sonucu hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yağmur yağarken gök gürültüsü ve şimşek görülmesi, sıcaklık farklılığından kaynaklanır ve genellikle yağmurun dinmesiyle sona erer."
+        },
+        {
+          "key": "B",
+          "text": "Yağmur yağarken gök gürültüsü ve şimşek görülmesi, bulutlardaki elektrik yüklenmeleri nedeniyle oluşur ve genellikle yağmurun şiddetlenmesiyle birlikte daha da artar."
+        },
+        {
+          "key": "C",
+          "text": "Yağmur yağarken gök gürültüsü ve şimşek görülmesi, hava basıncındaki değişikliklerden kaynaklanır ve yağmurun yağış miktarına bağlı olarak değişir."
+        },
+        {
+          "key": "D",
+          "text": "Yağmur yağarken gök gürültüsü ve şimşek görülmesi, ısı transferi sonucu oluşan hava hareketleri nedeniyle gerçekleşir ve yağmurun süresinden bağımsızdır."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Yağmur yağarken gök gürültüsü ve şimşek görülmesi, bulutlardaki elektrik yüklenmeleri nedeniyle oluşur. Yağmurun şiddetlenmesiyle birlikte bu olaylar daha da artar.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 25
+    },
+    {
+      "stem": "Bir bilim insanı, güneş enerjisinden elektrik üretmek için çalışmalar yapmaktadır. Bilim insanının bu çalışmalarının sonucunda elde ettiği veriler hakkında aşağıdakilerden hangisi en doğru tahminde bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş enerjisinden elde edilen elektrik miktarı sabit kalacaktır."
+        },
+        {
+          "key": "B",
+          "text": "Güneş enerjisinden elde edilen elektrik miktarı artacaktır."
+        },
+        {
+          "key": "C",
+          "text": "Güneş enerjisinden elde edilen elektrik miktarı azalacaktır."
+        },
+        {
+          "key": "D",
+          "text": "Güneş enerjisinden elde edilen elektrik miktarı değişmeyecektir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bilim insanının güneş enerjisinden elektrik üretmek için yaptığı çalışmalar, güneş enerjisinden elde edilen elektrik miktarının artmasına yol açacaktır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 31
+    },
+    {
+      "stem": "Milli Mücadele Dönemi'nin siyasi, sosyal ve kültürel olaylarının sanat ve edebiyat ürünlerine yansımasına örnek olarak aşağıdakilerden hangisi gösterilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanzimat Fermanı'nın ilan edilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Mehmet Âkif Ersoy'un \"İstiklâl Marşı\" şiiri"
+        },
+        {
+          "key": "C",
+          "text": "Osmanlı İmparatorluğu'nun Birinci Dünya Savaşı'na girmesi"
+        },
+        {
+          "key": "D",
+          "text": "Atatürk'ün Samsun'a çıkışı"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mehmet Âkif Ersoy'un \"İstiklâl Marşı\" şiiri, Milli Mücadele Dönemi'nin siyasi, sosyal ve kültürel olaylarını yansıtan önemli bir edebiyat ürünüdür.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.7.",
+      "subject": "İnkılap Tarihi",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 50
+    },
+    {
+      "stem": "Bir bilim insanı, bir doğal afet hakkında bir belgesel izlemektedir. Belgeselde, bu doğal afetin nasıl gerçekleştiği ve sonuçları hakkında bilgiler verilmektedir. Bilim insanının, belgeseldeki bilgilere dayanarak, bu doğal afetin gelişimi ve sonucu hakkında en doğru tahmini aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğal afetin yol açtığı can ve mal kayıplarının çok fazla olacağı"
+        },
+        {
+          "key": "B",
+          "text": "Doğal afetin önceden tahmin edilemeyeceği ve aniden gerçekleştiği"
+        },
+        {
+          "key": "C",
+          "text": "Doğal afetin yıkıcı etkilerinin birkaç gün içinde tamamen ortadan kalkacağı"
+        },
+        {
+          "key": "D",
+          "text": "Doğal afetin yaşandığı bölgede uzun süre sosyal ve ekonomik sorunlar yaşanacağı"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Belgeselde verilen bilgilere göre, doğal afetin gelişimi ve sonuçları hakkında en doğru tahmin, afetin yaşandığı bölgede uzun süre sosyal ve ekonomik sorunlar yaşanacağıdır. Diğer seçenekler, belgeseldeki bilgilerle uyuşmamaktadır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "special_chars_safe": true,
+      "question_number": 38
+    }
+  ],
+  "statistics": {
+    "by_subject": {
+      "Matematik": 20,
+      "Fen Bilimleri": 20,
+      "İnkılap Tarihi": 10
+    },
+    "by_difficulty": {
+      "Zor": 23,
+      "Orta": 13,
+      "Kolay": 14
+    },
+    "total": 50
+  }
+}

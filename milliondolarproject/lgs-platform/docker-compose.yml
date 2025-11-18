@@ -1,0 +1,65 @@
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: lgs-db
+    environment:
+      POSTGRES_USER: lgs_user
+      POSTGRES_PASSWORD: lgs_pass
+      POSTGRES_DB: lgs_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lgs_user"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - lgs-network
+
+  backend:
+    build: ./backend
+    container_name: lgs-backend
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    environment:
+      POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: lgs_user
+      POSTGRES_PASSWORD: lgs_pass
+      POSTGRES_DB: lgs_db
+      JWT_SECRET_KEY: your-secret-key-change-this-in-production
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY}
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - lgs-network
+
+  frontend:
+    build: ./frontend
+    container_name: lgs-frontend
+    command: npm run dev
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - lgs-network
+
+volumes:
+  postgres_data:
+
+networks:
+  lgs-network:
+    driver: bridge
+

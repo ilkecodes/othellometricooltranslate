@@ -1,0 +1,2821 @@
+{
+  "bundle_info": {
+    "title": "LGS Karma Deneme - Tam Set",
+    "description": "Complete LGS exam with all subjects mixed original + MILK questions",
+    "total_questions": 90,
+    "subjects": [
+      "Türkçe",
+      "Matematik",
+      "Din Kültürü ve Ahlak Bilgisi",
+      "Fen Bilimleri",
+      "Sosyal Bilgiler",
+      "İngilizce"
+    ],
+    "distribution_type": "Standard LGS",
+    "generation_date": "2024-11-14",
+    "version": "1.0"
+  },
+  "target_distribution": {
+    "Türkçe": 20,
+    "Matematik": 20,
+    "Din Kültürü ve Ahlak Bilgisi": 10,
+    "Fen Bilimleri": 20,
+    "Sosyal Bilgiler": 10,
+    "İngilizce": 10
+  },
+  "questions": [
+    {
+      "stem": "Aşağıdakilerden hangisi çevreyi korumak için yapılması gereken bir zorunluluktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Geri dönüşümlü malzemeler kullanmak"
+        },
+        {
+          "key": "B",
+          "text": "Ağaç dikmek ve çevreyi temiz tutmak"
+        },
+        {
+          "key": "C",
+          "text": "Çöpleri ayrıştırmak"
+        },
+        {
+          "key": "D",
+          "text": "Daha az plastik ürün kullanmak"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Çevreyi korumak için yapılması gereken zorunluluklar arasında ağaç dikmek ve çevreyi temiz tutmak yer alır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.2.2",
+      "subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 1
+    },
+    {
+      "stem": "Aşağıdaki şekillerden hangisi simetri doğrusu üzerinde değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir dik üçgen"
+        },
+        {
+          "key": "B",
+          "text": "Bir kare"
+        },
+        {
+          "key": "C",
+          "text": "Bir dikdörtgen"
+        },
+        {
+          "key": "D",
+          "text": "Bir eşkenar üçgen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bir dik üçgenin simetri doğrusu üzerinde olması için, üçgenin köşe noktalarının simetri doğrusuna eşit uzaklıkta olması gerekir. Ancak dik üçgende bu durum sağlanmaz. Diğer şekillerde ise simetri doğrusu üzerinde olmaları için gerekli koşul sağlanır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.2.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 2
+    },
+    {
+      "number": 1,
+      "stem": "Sınava girmeden önce öğrencilerin salon görevlilerinin tüm uyarılarına uyması ne zaman zorunludur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sınav başlangıcından önce"
+        },
+        {
+          "label": "B",
+          "text": "Sınav başladıktan sonra"
+        },
+        {
+          "label": "C",
+          "text": "Her zaman"
+        },
+        {
+          "label": "D",
+          "text": "Sınav bitiminde"
+        }
+      ],
+      "correct_answer": "A",
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Sınav kuralları",
+      "kazanim_code": null,
+      "confidence": 0.95,
+      "page": 32,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 3
+    },
+    {
+      "stem": "Aşağıdaki şekillerden hangisi eş ve benzer çokgenlerle ilgili bilgileri en doğru şekilde ifade etmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eş çokgenlerde karşılıklı kenar uzunlukları ve açı ölçüleri eşittir, benzer çokgenlerde ise karşılık gelen açı ölçüleri eşit fakat kenar uzunlukları orantılıdır."
+        },
+        {
+          "key": "B",
+          "text": "Eş çokgenlerde karşılıklı kenar uzunlukları ve açı ölçüleri eşittir, benzer çokgenlerde ise karşılık gelen açı ölçüleri ve kenar uzunlukları orantılıdır."
+        },
+        {
+          "key": "C",
+          "text": "Eş çokgenlerde karşılıklı kenar uzunlukları orantılıdır, benzer çokgenlerde ise karşılık gelen açı ölçüleri ve kenar uzunlukları eşittir."
+        },
+        {
+          "key": "D",
+          "text": "Eş çokgenlerde karşılıklı kenar uzunlukları orantılıdır, benzer çokgenlerde ise karşılık gelen açı ölçüleri ve kenar uzunlukları eşittir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eş çokgenlerde karşılıklı kenar uzunlukları ve açı ölçüleri eşittir, benzer çokgenlerde ise karşılık gelen açı ölçüleri eşit fakat kenar uzunlukları orantılıdır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.3.1",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 4
+    },
+    {
+      "stem": "Mâûn suresinin temel mesajlarından biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İnsanların birbirine yardım etmesinin önemini vurgulamak"
+        },
+        {
+          "key": "B",
+          "text": "Namaz kılmanın önemini hatırlatmak"
+        },
+        {
+          "key": "C",
+          "text": "Zekât vermenin gerekliliğini anlatmak"
+        },
+        {
+          "key": "D",
+          "text": "Hadislerin önemini açıklamak"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mâûn suresi, insanların birbirlerine yardım etmesinin ve ihtiyaç sahiplerini gözetmenin önemini vurgular. Surede, bu tür davranışları sergilemeyen kişilerin eleştirilmesi yer almaktadır.",
+      "confidence": 90,
+      "kazanim_code": "8.2.5",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 5
+    },
+    {
+      "stem": "Which of the following is the BEST way to prepare for a writing task about school life and education with school events and celebrations (sports, music, drama)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memorize as many vocabulary words as possible related to the topic."
+        },
+        {
+          "key": "B",
+          "text": "Relate your prior knowledge and experiences about school events and celebrations to the current writing task."
+        },
+        {
+          "key": "C",
+          "text": "Focus only on the grammar rules that will be used in the writing task."
+        },
+        {
+          "key": "D",
+          "text": "Read and listen to as many texts as possible about school life and education without analyzing the content."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. To prepare for a writing task effectively, it is important to relate your prior knowledge and experiences about the given topic (school life and education with school events and celebrations) to the current writing task. This will help you understand the content and purpose of the task more accurately and generate relevant ideas to include in your writing.",
+      "confidence": 90,
+      "kazanim_code": "ENG.8.1.W1",
+      "subject": "İngilizce",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 6
+    },
+    {
+      "stem": "Millî Mücadele Dönemi'nde Batı Cephesi'nde meydana gelen önemli gelişmelerden biri, Yunan ordularının Anadolu'da ilerleyişinin durdurulmasıdır. Bu gelişmenin en önemli nedeni aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Türk ordusunun yetersiz teçhizata sahip olması"
+        },
+        {
+          "key": "B",
+          "text": "Mustafa Kemal Paşa'nın Batı Cephesi'ndeki başarılı komutanlığı"
+        },
+        {
+          "key": "C",
+          "text": "İtilaf Devletleri'nin Yunan ordusuna yeterli destek vermemesi"
+        },
+        {
+          "key": "D",
+          "text": "Türk halkının Millî Mücadele'ye yeterince destek vermemesi"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mustafa Kemal Paşa'nın Batı Cephesi'ndeki başarılı komutanlığı, Yunan ordularının ilerleyişinin durdurulmasında en önemli etken olmuştur. Mustafa Kemal Paşa, Sakarya Savaşı'nda Yunan ordularını yenerek Ankara'yı kurtarmış ve Büyük Taarruz'la Yunan ordularını Anadolu'dan çıkarmayı başarmıştır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.2",
+      "subject": "Sosyal Bilgiler",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 7
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following is a step in revising written work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sharing one's writing"
+        },
+        {
+          "label": "B",
+          "text": "Determining the purpose of the writing"
+        },
+        {
+          "label": "C",
+          "text": "Proofreading for language mistakes"
+        },
+        {
+          "label": "D",
+          "text": "Brainstorming ideas"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Türkçe",
+      "topic": "Yazma Süreci",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 8
+    },
+    {
+      "stem": "Aşağıdaki cümlelerden hangisi 'must' ile değil 'have to' ile ifade edilmelidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınava girmek için kayıt yaptırmak zorundayım."
+        },
+        {
+          "key": "B",
+          "text": "Hava çok sıcak, bu yüzden hemen bir şeyler içmek zorundayım."
+        },
+        {
+          "key": "C",
+          "text": "Bugün işe geç kalmamak için erken kalkmam gerek."
+        },
+        {
+          "key": "D",
+          "text": "Ödevimi teslim etmek için yarın okula gelmem şart."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Must' ile ifade edilen zorunluluklar kişinin kendi isteği veya zorunluluğu iken, 'have to' ile ifade edilen zorunluluklar dışsal nedenlerden kaynaklanır. Bu nedenle B seçeneğindeki cümle 'must' ile değil 'have to' ile ifade edilmelidir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.2.4",
+      "subject": "Türkçe",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 9
+    },
+    {
+      "number": 1,
+      "stem": "İyi bir arka kapak yazısı kitabın içeriğine olduğu kadar yazarın üslubuna ve okurların kitabı okuduktan sonra hissedeceklerine dair övgülerle karşılaşırız. Oysa yazar, son bilgiler de verir. Bunlar, okurların kitap seçi- minde önemli etkenlerdir. Bir okur da bunları dikkate alarak kitap seçimini yapmıştır. Bu okurun kitap seçiminde etkili olan arka kapak yazısı aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bu romanı bugün de tekrar tekrar okuya- bilirsiniz."
+        },
+        {
+          "label": "B",
+          "text": "Bir aşk destanı olan Ağrıdağı Efsanesi, geleneklerini Mahmut Han'a karşı savu- nan Ahmet ile Gülbahar arasındaki aşkı konu alır. Efsanelere ve halk söylence- lerine yürekten bağlı yazarın bu romanı, insan psikolojisinin derinliklerini de içerir."
+        },
+        {
+          "label": "C",
+          "text": "Bu kitaptan sonra Yunus'un yanık sev- dalı sesini duyacak, Mevlana'nın yaktığı insanlık ateşiyle aydınlanacaksınız. İnsan olma sevdasını şiirsel anlatan kitap sizi bütün zaman, kültür ve coğrafyalarda yeni bir kimlikle yolculuk yapmaya çağırıyor."
+        },
+        {
+          "label": "D",
+          "text": "Yazar, bu eserinde sözcükleri büyüteç gibi kullanıyor. Haritada İstanbul'un karşı- sına dizilmiş adalardan birine dikkatle bakmaya başlıyor. Başlangıçta soruyor yazar: Büyükada'yı tanıyan, bilen var mı? Büyükada'yı tanımayan, bilmeyen yok."
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Kitap arka kapak yazıları",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.8,
+      "page": 7,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 10
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi, bir üçgenin kenar uzunlukları ve açı ölçülerinden herhangi ikisinin verilmesiyle çizilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir kenarın uzunluğu ve bu kenarın karşısındaki açının ölçüsü"
+        },
+        {
+          "key": "B",
+          "text": "İki kenarın uzunluğu ve bu kenarlar arasındaki açının ölçüsü"
+        },
+        {
+          "key": "C",
+          "text": "Üç kenarın uzunluğu"
+        },
+        {
+          "key": "D",
+          "text": "Bir kenarın uzunluğu ve diğer iki açının ölçüsü"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir üçgenin iki kenar uzunluğu ve bu kenarlar arasındaki açı ölçüsü verildiğinde, üçgen tek çözüme sahiptir ve çizilebilir. Diğer seçeneklerde verilen bilgiler üçgenin tek çözümünü vermez.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.4",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 11
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following is NOT a characteristic of a sentence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Having a subject"
+        },
+        {
+          "label": "B",
+          "text": "Having a verb"
+        },
+        {
+          "label": "C",
+          "text": "Having a subject and a verb"
+        },
+        {
+          "label": "D",
+          "text": "Having a noun"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Türkçe",
+      "topic": "Cümle",
+      "kazanim_code": "T.8.4.18",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 12
+    },
+    {
+      "stem": "Bir üçgenin kenar uzunlukları 3, 4 ve 5 birim olduğuna göre, bu üçgenin en büyük açısının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30°"
+        },
+        {
+          "key": "B",
+          "text": "60°"
+        },
+        {
+          "key": "C",
+          "text": "90°"
+        },
+        {
+          "key": "D",
+          "text": "120°"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Üçgenin kenar uzunlukları 3, 4 ve 5 birim olduğuna göre, bu üçgen bir dik üçgendir. Dik üçgenlerde en büyük açı 90° olduğu için, doğru cevap C seçeneğidir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.3",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 13
+    },
+    {
+      "stem": "DNA'nın yapısında aşağıdaki moleküllerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fosfat grubu"
+        },
+        {
+          "key": "B",
+          "text": "Amino asit"
+        },
+        {
+          "key": "C",
+          "text": "Şeker grubu"
+        },
+        {
+          "key": "D",
+          "text": "Azotlu baz"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA'nın yapısında amino asit bulunmaz. DNA'yı oluşturan temel bileşenler fosfat grubu, şeker grubu (deoksiriboz) ve azotlu bazlardır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.1.2",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 14
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) örnek davranışlarından biri olan namaz, Müslümanlar için ne ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Günlük rutini tamamlayan bir ibadet"
+        },
+        {
+          "key": "B",
+          "text": "Allah'a şükretmenin ve O'na yakınlaşmanın bir yoludur"
+        },
+        {
+          "key": "C",
+          "text": "Sadece cuma günleri yapılan bir ibadet"
+        },
+        {
+          "key": "D",
+          "text": "Kişisel temizliği sağlayan bir eylemdir"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Namaz, Müslümanlar için Allah'a yakınlaşmanın ve O'na şükretmenin bir yoludur. Hz. Muhammed (s.a.v.) de namazı bu şekilde öğütlemiş ve örnek olmuştur.",
+      "confidence": 90,
+      "kazanim_code": "8.4.7",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 15
+    },
+    {
+      "stem": "Kader ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ecel, kişinin ölüm zamanını belirler."
+        },
+        {
+          "key": "B",
+          "text": "Rızık, kişinin kazanç ve geçimi kader tarafından belirlenir."
+        },
+        {
+          "key": "C",
+          "text": "Tevekkül, kişinin kendi çabası olmadan başarıya ulaşmasını sağlar."
+        },
+        {
+          "key": "D",
+          "text": "Sağlık ve hastalık, kişinin kaderinde yazılıdır."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tevekkül, kişinin kendi çabası ile birlikte Allah'a güvenmesini ifade eder. Kişinin kendi çabası olmadan başarıya ulaşması doğru değildir.",
+      "confidence": 90,
+      "kazanim_code": "8.1.3",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 16
+    },
+    {
+      "stem": "Aşağıdaki çizgi grafiğinde, yıllara göre bir ürünün satış miktarları verilmiştir. Buna göre, 2018 yılında satış miktarı kaç birimdir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "150 birim"
+        },
+        {
+          "key": "B",
+          "text": "200 birim"
+        },
+        {
+          "key": "C",
+          "text": "250 birim"
+        },
+        {
+          "key": "D",
+          "text": "300 birim"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Çizgi grafiğinde 2018 yılına karşılık gelen satış miktarı 250 birimdir.",
+      "confidence": 90,
+      "kazanim_code": "M.7.4.1.1",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 17
+    },
+    {
+      "stem": "Geri dönüşüm sürecinde katı atıkların ayrıştırılmasının en önemli faydası aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Atık miktarının azaltılması"
+        },
+        {
+          "key": "B",
+          "text": "Geri kazanılabilir maddelerin ayrılarak ekonomiye kazandırılması"
+        },
+        {
+          "key": "C",
+          "text": "Çevre kirliliğinin önlenmesi"
+        },
+        {
+          "key": "D",
+          "text": "Enerji tüketiminin azaltılması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Katı atıkların ayrıştırılması sayesinde geri kazanılabilir maddeler (plastik, metal, kağıt vb.) ekonomiye kazandırılabilir. Bu da kaynakların verimli kullanılmasını ve atık miktarının azaltılmasını sağlar.",
+      "confidence": 90,
+      "kazanim_code": "F.8.6.4.3",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 18
+    },
+    {
+      "stem": "Öğrenciler yazdıklarını hangi ortamlarda paylaşmaya teşvik edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ev ortamında"
+        },
+        {
+          "key": "B",
+          "text": "Sınıf ve okul panosu ile sosyal medya ortamlarında"
+        },
+        {
+          "key": "C",
+          "text": "Sadece sosyal medya ortamlarında"
+        },
+        {
+          "key": "D",
+          "text": "Yalnızca şiir ve kompozisyon yarışmalarına katılarak"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Kazanıma göre, öğrenciler yazdıklarını sınıf ve okul panosu ile sosyal medya ortamlarında paylaşmaya teşvik edilir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.4.17",
+      "subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 19
+    },
+    {
+      "number": 1,
+      "stem": "Bu parça aşağıdakilerin hangisiyle devam ettirildiğinde hikâyenin tüm unsurlarına yer verilmiş olmaz?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baharın gelişini müjdeleyen erguvanlar selamlanmadan geçilir miydi hiç? Fahri Bey, dalın birini torununa doğru eğdi. Kokusu büyüleyiciydi gerçekten."
+        },
+        {
+          "label": "B",
+          "text": "Yolculuğum uzun sürmüş oldukça Gece demir köprülerden geçmiştir tren"
+        },
+        {
+          "label": "C",
+          "text": "Daha mı iyi olur daha mı kötü bilmiyordu Bir umut vardı gönülde"
+        },
+        {
+          "label": "D",
+          "text": "Dört nala gelip Uzak Asya'dan Akdeniz'e bir kısrak başı gibi uzanan bu memleket bizim."
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Okuma",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.8,
+      "page": 6,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 20
+    },
+    {
+      "stem": "Atatürk Dönemi'nde sağlık alanında yapılan çalışmalardan biri de ülke genelinde yaygınlaştırılan hastanelerin kurulmasıdır. Bu çalışmanın Atatürk Dönemi'nde devletin temel görevlerinden hangisiyle ilişkilendirilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eğitim ve kültür hizmetlerini yürütmek"
+        },
+        {
+          "key": "B",
+          "text": "Sağlık ve sosyal güvenlik hizmetlerini sunmak"
+        },
+        {
+          "key": "C",
+          "text": "Güvenlik ve asayiş hizmetlerini sağlamak"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik kalkınmayı gerçekleştirmek"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Atatürk Dönemi'nde sağlık alanında yapılan çalışmaların, devletin temel görevlerinden biri olan sağlık ve sosyal güvenlik hizmetlerini sunmak amacıyla gerçekleştirildiği söylenebilir.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.4.7",
+      "subject": "Sosyal Bilgiler",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 21
+    },
+    {
+      "stem": "Bir üçgenin iki kenar uzunluğu sırasıyla 6 cm ve 8 cm'dir. Bu üçgenin üçüncü kenarının uzunluğu kaç cm olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 cm"
+        },
+        {
+          "key": "B",
+          "text": "10 cm"
+        },
+        {
+          "key": "C",
+          "text": "14 cm"
+        },
+        {
+          "key": "D",
+          "text": "Hem 2 cm hem de 14 cm"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Üçgenin iki kenar uzunluğunun toplamı 6 cm + 8 cm = 14 cm'dir. Üçüncü kenar uzunluğu, iki kenar uzunluğunun toplamından küçük ve farkından büyük olmalıdır. Yani üçüncü kenar uzunluğu 2 cm ile 14 cm arasında olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 22
+    },
+    {
+      "stem": "Elektrik enerjisinin ısı, ışık ve hareket enerjisine dönüştüğü uygulamalara en iyi örnek aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş panelleri"
+        },
+        {
+          "key": "B",
+          "text": "Elektrik motorları"
+        },
+        {
+          "key": "C",
+          "text": "Elektrik ısıtıcıları"
+        },
+        {
+          "key": "D",
+          "text": "Elektrik sigortaları"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elektrik motorları, elektrik enerjisini doğrudan hareket enerjisine dönüştüren uygulamalardır. Güneş panelleri elektrik enerjisini ışık enerjisinden üretir, elektrik ısıtıcıları elektrik enerjisini ısı enerjisine dönüştürür. Elektrik sigortaları ise elektrik enerjisinin güvenlik açısından önemini vurgular.",
+      "confidence": 90,
+      "kazanim_code": "F.8.7.3.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 23
+    },
+    {
+      "number": 2,
+      "stem": "Musul, Misak-ı Millî sınırları içerisinde yer alıyordu. Lozan Konferansı'nda ve sonrasında İngiltere ile yapılan görüşmelerde Musul ile ilgili bir karara varılamadı. Konu Milletler Cemiyetine taşındı ve Milletler Cemiyeti de Musul'u, İngiliz mandasındaki Irak'a bıraktı. Türkiye de 1926 yılında imzaladığı Ankara Antlaşması'yla bu kararı kabul etti. Bu bilgilere göre, aşağıdakilerden hangisine ulaşılabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Türkiye'nin güney sınırı bugünkü şeklini almıştır."
+        },
+        {
+          "label": "B",
+          "text": "Milletler Cemiyeti tarafsız bir politika izlemiştir."
+        },
+        {
+          "label": "C",
+          "text": "Irak'ın bağımsız bir devlet olduğu kabul edilmiştir."
+        },
+        {
+          "label": "D",
+          "text": "Musul Sorunu diplomasi yoluyla çözümlenmiştir."
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Musul Sorunu",
+      "kazanim_code": "İTA.8.3.4",
+      "confidence": 0.9,
+      "page": 19,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 24
+    },
+    {
+      "number": 6,
+      "stem": "Bu metinde; • karşılaştırma, • örneklendirme, • benzetme, • tanımlama düşünceyi geliştirme yollarının tamamının kullanıldığını söyleyebilmek için boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yıllara hitap edecek bir denemede her sözcük tarihî eser gibi geleceğe ulaşmak zorundadır"
+        },
+        {
+          "label": "B",
+          "text": "Bir yazıyı deneme yapan özellik denince aklıma ilk gelenler yenilik, düşünce ve sözcük kullanımı oluyor"
+        },
+        {
+          "label": "C",
+          "text": "İsteyerek seçtiği bir konu üzerinde sadece deneme yazarı fikirlerini serbestçe anlatır"
+        },
+        {
+          "label": "D",
+          "text": "Deneme, şiirden sonra daha doğrusu şiirle birlikte az sözle çok söz söyleme sanatıdır"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Düşünceyi Geliştirme Yolları",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.8,
+      "page": 5,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 25
+    },
+    {
+      "stem": "Fen Bilimleri konusunda bir soru: Nükleotid, gen, DNA ve kromozom kavramlarını açıklayarak bu kavramlar arasında ilişki kurar....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "F.8.2.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Fallback",
+      "question_number": 26
+    },
+    {
+      "stem": "Dik dairesel bir silindirin yarıçapı 5 cm ve yüksekliği 8 cm ise, bu silindirin yüzey alanı kaç cm²'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "220 π cm²"
+        },
+        {
+          "key": "B",
+          "text": "260 π cm²"
+        },
+        {
+          "key": "C",
+          "text": "300 π cm²"
+        },
+        {
+          "key": "D",
+          "text": "340 π cm²"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dik dairesel silindirin yüzey alanı bağıntısı: A = 2πr(h + r) şeklindedir. Burada r = 5 cm ve h = 8 cm olduğuna göre, yüzey alanı A = 2π(5)(8 + 5) = 260π cm² olur.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.4.3",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 27
+    },
+    {
+      "stem": "Millî Mücadele Dönemi'nde Batı Cephesi'nde meydana gelen en önemli gelişme aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İzmir'in Yunanlılar tarafından işgal edilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Sakarya Meydan Muharebesi'nin kazanılması"
+        },
+        {
+          "key": "C",
+          "text": "Samsun'da Mustafa Kemal Paşa'nın askerî birliğiyle karaya çıkması"
+        },
+        {
+          "key": "D",
+          "text": "Mudanya Ateşkes Antlaşması'nın imzalanması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sakarya Meydan Muharebesi, Millî Mücadele Dönemi'nde Batı Cephesi'nde kazanılan en önemli zaferdir. Bu zaferle Türk ordusu Ankara'yı Yunan işgalinden kurtarmayı başarmıştır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.2",
+      "subject": "Sosyal Bilgiler",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 28
+    },
+    {
+      "stem": "DNA'nın yapısında bulunan öğeler aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fosfat, glikoz, nükleik asit"
+        },
+        {
+          "key": "B",
+          "text": "Fosfat, şeker, azotlu baz"
+        },
+        {
+          "key": "C",
+          "text": "Protein, şeker, nükleotit"
+        },
+        {
+          "key": "D",
+          "text": "Protein, fosfat, azotlu baz"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA'nın yapısında fosfat, şeker (deoksiriboz) ve azotlu bazlar (adenin, guanin, sitozin, timin) bulunur. Seçenek B doğru cevaptır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.1.2",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 29
+    },
+    {
+      "stem": "Which of the following is NOT allowed during the exam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Using a dictionary"
+        },
+        {
+          "key": "B",
+          "text": "Taking notes"
+        },
+        {
+          "key": "C",
+          "text": "Referring to your notes"
+        },
+        {
+          "key": "D",
+          "text": "Asking the teacher for help"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "According to the given information, students are allowed to use their notes if needed. Therefore, option D, 'Asking the teacher for help', is not allowed during the exam.",
+      "confidence": 90,
+      "kazanim_code": null,
+      "subject": "İngilizce",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 30
+    },
+    {
+      "number": 2,
+      "stem": "Bu metne göre \"selamlaşma\" ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cömertliğe teşvik ettiği"
+        },
+        {
+          "label": "B",
+          "text": "Dinî bir değer olduğu"
+        },
+        {
+          "label": "C",
+          "text": "İnsanlar arası iletişimi güçlendirdiği"
+        },
+        {
+          "label": "D",
+          "text": "Birlik ve beraberliğe katkı sağladığı"
+        }
+      ],
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Selamlaşma",
+      "kazanim_code": null,
+      "confidence": 0.8,
+      "page": 24,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 31
+    },
+    {
+      "stem": "Aşağıdaki cümlelerin hangisinde yazım ve noktalama kurallarına uygun olmayan bir durum bulunmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrenciler, öğretmenlerinin rehberliğinde, bilgi ve becerilerini geliştirmeyi amaçlıyorlar."
+        },
+        {
+          "key": "B",
+          "text": "Yazar, eserinde; insanların değişen ihtiyaçlarına, kültürel farklılıklara ve teknolojik gelişmelere değinmiştir."
+        },
+        {
+          "key": "C",
+          "text": "Edebiyatın, toplumun aynası olduğu söylenir; çünkü sanatçılar, eserlerinde toplumsal sorunlara ışık tutarlar."
+        },
+        {
+          "key": "D",
+          "text": "Öğrencilerin, sınav kaygısını azaltmaları ve başarılı olmaları için, öğretmenlerinden yardım istemeleri gerekir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cümledeki noktalama hatası, 'eserinde; insanların' ifadesindeki gereksiz noktalama işaretidir. Doğru kullanım 'eserinde insanların' şeklinde olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.4.16",
+      "subject": "Türkçe",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 32
+    },
+    {
+      "number": 1,
+      "stem": "A T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK 9. DEMOKRATİKLEŞME YOLUNDA ATILAN ADIMLAR Terakkiperver Cumhuriyet Fırkası Serbest Cumhuriyet Fırkası 17 Kasım 1924 12 Ağustos 1930 Mustafa Kemal ile görüş ayrılığına düşen Mustafa Kemal, bir muhalefet partisi kurul- bazı milletvekilleri tarafından Terakkiperver masını sağlamak için Fethi Okyar ile görüş- Cumhuriyet Fırkası kuruldu. tü. Daha sonra Serbest Cumhuriyet Fırkası kuruldu. 3 Haziran 1925 Ülkemizin doğusunda çıkan bir ayaklanmanın 17 Kasım 1930 ardından Bakanlar Kurulu kararıyla Takrir-i Cumhuriyet karşıtlarının başlattığı olaylar ne- Sükûn Kanunu'na dayanılarak parti kapatıldı. deniyle Fethi Okyar, kurucusu olduğu partiyi feshetti. Bu tabloya göre, aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kurulan her iki parti de mecliste çoğunluğu sağlamıştır."
+        },
+        {
+          "label": "B",
+          "text": "Ülkemizde çok partili yaşam için uygun ortam olmadığı görülmüştür."
+        },
+        {
+          "label": "C",
+          "text": "İç politikada yaşanan sorunlar nedeniyle inkılaplardan vazgeçilmiştir."
+        },
+        {
+          "label": "D",
+          "text": "Meclis hükûmeti sisteminin devam etmesine karar verilmiştir."
+        }
+      ],
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Demokratikleşme yolunda atılan adımlar",
+      "kazanim_code": "İTA.8.3.2, İTA.8.3.3, İTA.8.3.4",
+      "confidence": 0.9,
+      "page": 19,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 33
+    },
+    {
+      "stem": "İki benzer çokgenin alanları oranı, kenarları oranının karesine eşittir. Buna göre, alanları 4 kat farklı olan iki benzer çokgenin kenarları arasındaki oran nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "2√2"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "√4"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "İki benzer çokgenin alanları oranı, kenarları oranının karesine eşittir. Yani, A1/A2 = (a1/a2)^2 olur. Burada, A1/A2 = 4 olduğuna göre, (a1/a2)^2 = 4 olur. Dolayısıyla, a1/a2 = 2√2 olur.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.3.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 34
+    },
+    {
+      "number": 1,
+      "stem": "According to the map above, which of the following is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You have to ride your bike for more than 50 km to finish the whole tour."
+        },
+        {
+          "label": "B",
+          "text": "You spend less than three nights at the camping areas during the tour."
+        },
+        {
+          "label": "C",
+          "text": "The tour takes less than a week to complete."
+        },
+        {
+          "label": "D",
+          "text": "The particular starting time of the tour is given on the map."
+        }
+      ],
+      "correct_answer": "B",
+      "subject": "English",
+      "topic": "School life and education",
+      "kazanim_code": "ENG.8.1.L2",
+      "confidence": 0.95,
+      "page": 30,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 35
+    },
+    {
+      "number": 2,
+      "stem": "According to the information above, which two words should change places to be in the correct group?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bake - Boil"
+        },
+        {
+          "label": "B",
+          "text": "Bowl - Boil"
+        },
+        {
+          "label": "C",
+          "text": "Fry - Pan"
+        },
+        {
+          "label": "D",
+          "text": "Fry - Teaspoon"
+        }
+      ],
+      "subject": "English",
+      "topic": "School Life and Education",
+      "kazanim_code": "ENG.8.1.R1",
+      "confidence": 0.9,
+      "page": 26,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 36
+    },
+    {
+      "stem": "Kaza ve kader kavramları ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaza ve kader kavramları birbirinden bağımsızdır."
+        },
+        {
+          "key": "B",
+          "text": "Kaza ve kader kavramları Müslümanlar tarafından Allah'ın takdiri olarak görülür."
+        },
+        {
+          "key": "C",
+          "text": "Kaza ve kader kavramları insanın özgür iradesini yok sayar."
+        },
+        {
+          "key": "D",
+          "text": "Kaza ve kader kavramları insanın sorumluluk duygusunu zayıflatır."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Müslümanlar, kaza ve kader kavramlarını Allah'ın takdiri olarak görürler. Bu kavramlar, insanın özgür iradesi ve sorumluluk duygusu ile uyumlu bir şekilde değerlendirilir.",
+      "confidence": 90,
+      "kazanim_code": "8.1.3",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 37
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi bir modifikasyona örnek değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CO₂"
+        },
+        {
+          "key": "B",
+          "text": "H₂O"
+        },
+        {
+          "key": "C",
+          "text": "Oksijen"
+        },
+        {
+          "key": "D",
+          "text": "Karbonhidrat"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Karbonhidrat bir moleküldür, modifikasyon değildir. Diğer seçenekler (CO₂, H₂O, oksijen) modifikasyonlara örnektir.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.3.2",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 38
+    },
+    {
+      "stem": "Bir canlının yaşadığı çevreye uyumunu gösteren özelliklerden biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Canlının yalnızca besin ihtiyacını karşılayabilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Canlının çevresindeki değişikliklere tepki vermesi"
+        },
+        {
+          "key": "C",
+          "text": "Canlının çevresindeki diğer canlılarla yarışması"
+        },
+        {
+          "key": "D",
+          "text": "Canlının çevresindeki canlıları etkileyebilmesi"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Canlıların çevrelerine uyum sağlamaları, çevrelerindeki değişikliklere tepki vermeleriyle gösterilir. Diğer seçenekler canlının çevreye uyumunu doğrudan yansıtmamaktadır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.4.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 39
+    },
+    {
+      "number": 8,
+      "stem": "Which of the following is NOT a characteristic of the seasons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Precipitation"
+        },
+        {
+          "label": "B",
+          "text": "Temperature"
+        },
+        {
+          "label": "C",
+          "text": "Wind direction"
+        },
+        {
+          "label": "D",
+          "text": "Eye color"
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "Fen Bilimleri",
+      "topic": "Mevsimler ve İklim",
+      "kazanim_code": "F.8.1.1.1, F.8.1.2.1, F.8.1.2.2",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 40
+    },
+    {
+      "number": 13,
+      "stem": "Günümüzdeki otomobillerde hemen hemen her şeyi dokunmatik ekranlar üzerinden yapabiliyorsu- nuz. Bu nedenle ekran ne kadar büyürse arabanın albenisi de o kadar artıyor. Maliyetleri düşürmek, üretim ve tasarım sürelerini kısaltmak ve etkileyici iç tasarımlar sunmak için fiziksel tuşlardan vazgeçilip dokunmatik ekranlara geçilse de yapılan kullanılabilirlik testleri çok farklı bir hikâye anlatıyor. Sürüş esnasında gerek duyulan birçok işlevde, fiziksel tuşların kullanılması dokunmatik ekrana göre çok daha güvenli. Öyle ki hareket hâlindeki bir araçta birtakım görevleri yerine getirmek için fiziksel tuşlar çok daha hızlı. Durum böyleyken otomobil sektörünün yanı sıra beyaz eşyadan endüstriyel ürünlere kadar birçok elektronik cihazda da dokunmatik ekran kullanılmaktadır. Bu metinden, I. Otomobil üreticileri, tüketicilerin görüşlerini ve isteklerini dikkate almaktadır. II. Otomobil sektörüyle başlayan dokunmatik ekran üretimi diğer sektörlere de yayılmaya başla- mıştır. III. Fiziksel tuşlar, dokunmatik ekrana göre kullanıcılara daha güvenli bir sürüş imkânı sağlamak- tadır. IV. Dokunmatik ekran üretimi, fiziksel tuş üretimine göre daha avantajlıdır. yargılarının hangilerine ulaşılabilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I ve II"
+        },
+        {
+          "label": "B",
+          "text": "I ve IV"
+        },
+        {
+          "label": "C",
+          "text": "II ve III"
+        },
+        {
+          "label": "D",
+          "text": "III ve IV"
+        }
+      ],
+      "correct_answer": "C",
+      "subject": "Türkçe",
+      "topic": "Yazma Metin İnceleme",
+      "kazanim_code": "T.8.4.16",
+      "confidence": 0.9,
+      "page": 9,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 41
+    },
+    {
+      "stem": "İnsanın hayatı üzerinde etkili olan kavramlardan biri de tevekkül kavramıdır. Aşağıdakilerden hangisi tevekkül kavramıyla doğrudan ilişkilidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Namaz"
+        },
+        {
+          "key": "B",
+          "text": "Zekât"
+        },
+        {
+          "key": "C",
+          "text": "Hadis"
+        },
+        {
+          "key": "D",
+          "text": "Ayet"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tevekkül, Allah'a güvenip dayanma ve O'na teslim olma anlamına gelir. Namaz, Müslümanların Allah'a yönelip O'na kulluk etmesini sağlayan bir ibadet olduğu için tevekkül kavramıyla doğrudan ilişkilidir.",
+      "confidence": 90,
+      "kazanim_code": "8.1.3",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 42
+    },
+    {
+      "stem": "DNA'nın kendini eşleme süreci ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DNA'nın iki zinciri birbirine bağlı kalır ve yeni zincirler oluşmaz."
+        },
+        {
+          "key": "B",
+          "text": "DNA'nın iki zinciri birbirinden ayrılır ve her biri kendi eşini oluşturur."
+        },
+        {
+          "key": "C",
+          "text": "DNA'nın iki zinciri yeni zincirler oluşturur ancak bunlar birbirine bağlı değildir."
+        },
+        {
+          "key": "D",
+          "text": "DNA'nın iki zinciri birbirinden ayrılır ve yeni zincirler oluşmaz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA'nın kendini eşleme sürecinde, DNA'nın iki zinciri birbirinden ayrılır ve her biri kendi eşini oluşturur.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.1.3",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 43
+    },
+    {
+      "stem": "Bir tiyatro, gişe biletlerini 12 yaş ve üzeri için 20 TL, 12 yaş altı için ise 10 TL olarak satmaktadır. Bu tiyatroya gidebilmek için x yaşında olan bir çocuğun bilet ücreti ne olmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "x ≥ 12 ise 20 TL, x < 12 ise 10 TL"
+        },
+        {
+          "key": "B",
+          "text": "x > 12 ise 20 TL, x ≤ 12 ise 10 TL"
+        },
+        {
+          "key": "C",
+          "text": "x ≥ 12 ise 10 TL, x < 12 ise 20 TL"
+        },
+        {
+          "key": "D",
+          "text": "x > 12 ise 10 TL, x ≤ 12 ise 20 TL"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tiyatroya gidebilmek için x yaşında olan bir çocuğun bilet ücreti, x ≥ 12 ise 20 TL, x < 12 ise 10 TL olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.2.3.1",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 44
+    },
+    {
+      "stem": "Aşağıdaki çokgenlerin benzerlik oranı kaçtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verilen çokgenlerin kenar uzunlukları birbirine orantılı olduğundan, bu çokgenler benzerdir. Benzerlik oranı 3'tür.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.3.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 45
+    },
+    {
+      "stem": "Dünya'nın ekseni etrafındaki dönüşü, mevsimlerin oluşumunu etkiler. Buna göre, aşağıdakilerden hangisi mevsimlerin oluşumunu açıklamada yanlış bir bilgidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dünya'nın Güneş etrafındaki yörüngesinin elips şeklinde olması."
+        },
+        {
+          "key": "B",
+          "text": "Dünya'nın kuzey-güney ekseni etrafında 23,5° açıyla dönmesi."
+        },
+        {
+          "key": "C",
+          "text": "Dünya'nın Güneş'e olan uzaklığının değişmesi."
+        },
+        {
+          "key": "D",
+          "text": "Dünya'nın Güneş etrafındaki dönüş hızının değişmesi."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dünya'nın Güneş etrafındaki yörüngesinin elips şeklinde olması, mevsimlerin oluşumunu doğrudan etkilemez. Asıl etken, Dünya'nın kuzey-güney ekseni etrafında 23,5° açıyla dönmesidir. Bu açı nedeniyle, Dünya'nın farklı bölgeleri Güneş ışınlarına farklı açılarla maruz kalır ve mevsimler oluşur.",
+      "confidence": 90,
+      "kazanim_code": "F.8.1.1.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 46
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi birinci dereceden bir bilinmeyenli bir eşitsizlik değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "x ≥ -2"
+        },
+        {
+          "key": "B",
+          "text": "y² ≥ 4"
+        },
+        {
+          "key": "C",
+          "text": "-3 ≤ z < 5"
+        },
+        {
+          "key": "D",
+          "text": "a + 2 ≤ 7"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Birinci dereceden bir bilinmeyenli eşitsizlikler, bilinmeyenin birinci dereceden olduğu eşitsizliklerdir. Yani y² ≥ 4 ifadesi birinci dereceden bir bilinmeyenli eşitsizlik değildir, çünkü y'nin derecesi 2'dir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.2.3.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 47
+    },
+    {
+      "stem": "Güç santrallerinin avantajları arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sürekli enerji üretimi"
+        },
+        {
+          "key": "B",
+          "text": "Doğal kaynakların tükenmesi"
+        },
+        {
+          "key": "C",
+          "text": "Çevreye duyarlı olmaları"
+        },
+        {
+          "key": "D",
+          "text": "Ekonomik olmaları"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Güç santrallerinin avantajları arasında sürekli enerji üretimi, çevreye duyarlı olmaları ve ekonomik olmaları yer alır. Ancak doğal kaynakların tükenmesi güç santrallerinin dezavantajları arasındadır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.7.3.4",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 48
+    },
+    {
+      "number": 3,
+      "stem": "Kur'an-ı Kerim'de yeryüzünün insanın hizme- tine sunulduğu ve insanın da yeryüzündeki düzene uygun bir yaşam sürmesinin gerekti- ği hatırlatılmaktadır. Çünkü insan, bu bilinçle hareket etmezse yeryüzü artık ona hizmet edemez ve zarar vermeye başlar. Bununla ilgili Kur'an-ı Kerim'de şöyle buyrulur: - - - -",
+      "options": [
+        {
+          "label": "A",
+          "text": "\"Kim Allah yolunda karşılaştığı sıkıntılara katlanır ve gayret gösterirse bunu kendisi için yapmış olur...\" (Ankebût suresi, 6. ayet)"
+        },
+        {
+          "label": "B",
+          "text": "\"İnsanların yaptıkları kötü işler yüzünden karada ve denizde denge bozuldu. Allah, doğru yolu bulmaları için yaptıklarının sonucunu onlara tattırır.\" (Rûm suresi, 41. ayet)"
+        },
+        {
+          "label": "C",
+          "text": "\"Başına gelen bir sıkıntıdan sonra insana nimet verdiğimizde o, 'Sıkıntı ve dertlerim gitti.' diyerek sevinmeye ve şımarmaya başlar.\" (Hûd suresi, 10. ayet)"
+        },
+        {
+          "label": "D",
+          "text": "\"... Allah'ın kudret ve egemenliği gökle- ri ve yeri kuşatmıştır. Bunları koruyup gözetmek, O'na güç gelmez. O yücedir, büyüktür.\" (Bakara suresi, 255. ayet)"
+        }
+      ],
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.1",
+      "confidence": 1.0,
+      "page": 21,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 49
+    },
+    {
+      "stem": "Topraklamanın can ve mal güvenliği açısından önemi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Topraklama sayesinde elektrik akımı toprağa aktarılır ve elektrik çarpması riskini azaltır."
+        },
+        {
+          "key": "B",
+          "text": "Topraklama sayesinde elektrik akımı toprağa aktarılır ve yangın riski azaltılır."
+        },
+        {
+          "key": "C",
+          "text": "Topraklama sayesinde elektrik akımı toprağa aktarılır ve elektrik çarpması riskini artırır."
+        },
+        {
+          "key": "D",
+          "text": "Topraklama sayesinde elektrik akımı toprağa aktarılır ve elektrik çarpması riskini etkilemez."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Topraklama, elektrik akımının toprağa aktarılmasını sağlayarak elektrik çarpması riskini azaltır. Bu sayede can ve mal güvenliği açısından önemli bir uygulamadır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.7.2.2",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 50
+    },
+    {
+      "stem": "Sakarya Meydan Savaşı'nın kazanılmasında Mustafa Kemal'in rolü aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sakarya Nehri'ni geçerek düşmanı kuşatmak"
+        },
+        {
+          "key": "B",
+          "text": "Düşmanın saldırılarını başarıyla püskürtmek"
+        },
+        {
+          "key": "C",
+          "text": "Kuvvetlerini Ankara'da toplamak"
+        },
+        {
+          "key": "D",
+          "text": "Ordunun moralini yüksek tutmak"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mustafa Kemal, Sakarya Meydan Savaşı'nda düşmanın saldırılarını başarıyla püskürtmüş ve savaşın kazanılmasında önemli bir rol oynamıştır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.5",
+      "subject": "Sosyal Bilgiler",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 51
+    },
+    {
+      "stem": "Canlıların yaşadıkları çevreye uyumlarını gözlemlemek için aşağıdakilerden hangisi örnek olarak verilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir bitkinin toprağa kök salması"
+        },
+        {
+          "key": "B",
+          "text": "Bir hayvanın kışın yağmur ve rüzgara karşı korunmak için barınağa girmesi"
+        },
+        {
+          "key": "C",
+          "text": "Bir insanın sıcak havada serinlemek için klima kullanması"
+        },
+        {
+          "key": "D",
+          "text": "Bir bakterinin besin maddelerini parçalayarak enerji elde etmesi"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir hayvanın kışın yağmur ve rüzgara karşı korunmak için barınağa girmesi, canlıların yaşadıkları çevreye uyumlarını gösteren bir örnektir.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.4.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 52
+    },
+    {
+      "stem": "Matematik konusunda bir soru: Doğrusal denklemlerin grafiğini çizer. Doğrunun eksenleri hangi noktalarda kestiği, eksenlere parale...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "M.8.2.2.4",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Fallback",
+      "question_number": 53
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi, öğrencilerin yazdıklarını paylaşmaları için uygun bir ortam değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınıf panosu"
+        },
+        {
+          "key": "B",
+          "text": "Okul panosu"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal medya"
+        },
+        {
+          "key": "D",
+          "text": "Öğrenci günlüğü"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Öğrenci günlüğü, öğrencilerin yazdıklarını paylaşmaları için uygun bir ortam değildir. Sınıf panosu, okul panosu ve sosyal medya ise öğrencilerin yazdıklarını paylaşmaları için uygun ortamlardır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.4.17",
+      "subject": "Türkçe",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 54
+    },
+    {
+      "number": 1,
+      "stem": "Which of the following statements about the National Struggle is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The National Struggle was a period of great difficulty for the Turkish nation."
+        },
+        {
+          "label": "B",
+          "text": "During the National Struggle, the Maarif Congress was held, where Atatürk emphasized the importance of national and contemporary education."
+        },
+        {
+          "label": "C",
+          "text": "The National Obligation Orders were an example of the national unity, solidarity and cooperation of the Turkish nation."
+        },
+        {
+          "label": "D",
+          "text": "The developments that took place on the Western Front during the National Struggle were not important."
+        }
+      ],
+      "correct_answer": "D",
+      "subject": "İnkılap Tarihi ve Atatürkçülük",
+      "topic": "Millî Mücadele Dönemi",
+      "kazanim_code": "İTA.8.3.2",
+      "confidence": 1.0,
+      "page": 33,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 55
+    },
+    {
+      "number": 1,
+      "stem": "Bu olayda Hz. Muhammed (sav) aşağıdakilerden hangisini vurgulamaktadır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "İman, özgür iradenin bir sonucudur."
+        },
+        {
+          "label": "B",
+          "text": "Tevhit inancı İslam'ın temelidir."
+        },
+        {
+          "label": "C",
+          "text": "İbadetlerde devamlılık esastır."
+        },
+        {
+          "label": "D",
+          "text": "Din, ahlaki değerlerin oluşmasında etkilidir."
+        }
+      ],
+      "correct_answer": "A",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "İman ve İbadet",
+      "kazanim_code": "8.1.2",
+      "confidence": 0.8,
+      "page": 23,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 56
+    },
+    {
+      "stem": "Türkçe konusunda bir soru: \"Can\" to ask for permission: (Can I leave now?)....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "T.8.2.5",
+      "subject": "Türkçe",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Fallback",
+      "question_number": 57
+    },
+    {
+      "stem": "Aşağıdaki cümlelerin hangisinde yazım ve noktalama kurallarına uygun bir düzenleme yapılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kış mevsiminin gelmesiyle birlikte, sokaklarda kar yağmaya başladı."
+        },
+        {
+          "key": "B",
+          "text": "Yemek yedikten sonra, yorgunluktan uyuklamaya başladı."
+        },
+        {
+          "key": "C",
+          "text": "Ödevlerini bitirince, oyun oynamak için dışarı çıktı."
+        },
+        {
+          "key": "D",
+          "text": "Annem, pazar günleri bize güzel yemekler yapar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cümle yapısı ve noktalama kullanımı doğrudur. Diğer seçeneklerde yazım ve noktalama hataları bulunmaktadır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.4.16",
+      "subject": "Türkçe",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 58
+    },
+    {
+      "stem": "Ülkemizde kutlanan ulusal ve dini bayramlardan biri olan 15 Temmuz Demokrasi ve Milli Birlik Günü, hangi tarihte kutlanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "29 Ekim"
+        },
+        {
+          "key": "B",
+          "text": "15 Temmuz"
+        },
+        {
+          "key": "C",
+          "text": "23 Nisan"
+        },
+        {
+          "key": "D",
+          "text": "19 Mayıs"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "15 Temmuz Demokrasi ve Milli Birlik Günü, 15 Temmuz 2016 tarihindeki darbe girişiminin yıl dönümünde kutlanmaktadır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.1.3",
+      "subject": "Türkçe",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 59
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi cümle türlerinden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Soru cümlesi"
+        },
+        {
+          "key": "B",
+          "text": "Ünlem cümlesi"
+        },
+        {
+          "key": "C",
+          "text": "Bağlaç cümlesi"
+        },
+        {
+          "key": "D",
+          "text": "Emir cümlesi"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bağlaç cümlesi cümle türlerinden biri değildir. Cümle türleri soru cümlesi, ünlem cümlesi, emir cümlesi, haber cümlesi olarak sınıflandırılır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.4.19",
+      "subject": "Türkçe",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 60
+    },
+    {
+      "stem": "Güç santrallerinde elektrik enerjisi üretimi için aşağıdakilerden hangisi kullanılmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hidroelektrik"
+        },
+        {
+          "key": "B",
+          "text": "Rüzgar"
+        },
+        {
+          "key": "C",
+          "text": "Nükleer"
+        },
+        {
+          "key": "D",
+          "text": "Manyetik alan"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Güç santrallerinde elektrik enerjisi üretimi için hidroelektrik, termik, rüzgar, jeotermal ve nükleer santraller kullanılır. Manyetik alan elektrik enerjisi üretiminde kullanılmaz.",
+      "confidence": 90,
+      "kazanim_code": "F.8.7.3.3",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 61
+    },
+    {
+      "number": 6,
+      "stem": "Which of the following headings does NOT match with any of the three texts given above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hobbies"
+        },
+        {
+          "label": "B",
+          "text": "Education"
+        },
+        {
+          "label": "C",
+          "text": "Personal Life"
+        },
+        {
+          "label": "D",
+          "text": "Achievements"
+        }
+      ],
+      "subject": "English",
+      "topic": "Reading Comprehension",
+      "kazanim_code": "ENG.8.1.R1",
+      "confidence": 0.9,
+      "page": 28,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 62
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi kaynakların tasarruflu kullanımına yönelik bir proje tasarımı değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evde kullanılan suların geri dönüşümü için bir sistem kurulması"
+        },
+        {
+          "key": "B",
+          "text": "Kağıt atıklarının toplanarak yeniden değerlendirilmesi"
+        },
+        {
+          "key": "C",
+          "text": "Okulda enerji tasarrufu için sensörlü aydınlatma sisteminin kurulması"
+        },
+        {
+          "key": "D",
+          "text": "Okul bahçesine çeşitli bitkiler dikerek bölgenin oksijen ihtiyacının karşılanması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Okul bahçesine çeşitli bitkiler dikerek bölgenin oksijen ihtiyacının karşılanması, kaynakların tasarruflu kullanımına yönelik bir proje değildir. Diğer seçenekler ise kaynakların tasarruflu kullanımına yönelik proje tasarımlarıdır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.6.4.2",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 63
+    },
+    {
+      "stem": "Doğrusal denklemin grafiği çizildiğinde, y-eksenini x = -2 noktasında kestiği görülüyor. Bu doğrunun özellikleri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doğru orijinden geçer ve y-eksenine paraleldir."
+        },
+        {
+          "key": "B",
+          "text": "Doğru orijinden geçer ve x-eksenine paraleldir."
+        },
+        {
+          "key": "C",
+          "text": "Doğru orijinden geçmez ve y-eksenine paraleldir."
+        },
+        {
+          "key": "D",
+          "text": "Doğru orijinden geçmez ve x-eksenine paraleldir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Doğrusal denklemin grafiği çizildiğinde, y-eksenini x = -2 noktasında kestiği görülüyor. Bu durumda doğru orijinden geçmez ve y-eksenine paraleldir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.2.2.4",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 64
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi doğru bir soru eki kullanımı değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bugün güneşli, değil mi?"
+        },
+        {
+          "key": "B",
+          "text": "Yarın tatil olacak, değil mi?"
+        },
+        {
+          "key": "C",
+          "text": "Sınava hazırlanmalısın, değil mi?"
+        },
+        {
+          "key": "D",
+          "text": "Kitabı okudun, değil mi?"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Kitabı okudun, değil mi? cümlesindeki soru eki yanlış kullanılmıştır. Doğrusu \"Kitabı okudun, değil mi?\" olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "T.8.2.7",
+      "subject": "Türkçe",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 65
+    },
+    {
+      "stem": "Gelecekte genetik mühendisliği ve biyoteknoloji alanında olası bir uygulama, aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İnsanlarda kısa boylu genin deaktive edilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Çevreye zarar vermeyen biyolojik yakıtların üretilmesi"
+        },
+        {
+          "key": "C",
+          "text": "Organ nakli için uygun donörlerin yetiştirilmesi"
+        },
+        {
+          "key": "D",
+          "text": "Kansere neden olan genlerin çıkarılması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Gelecekte genetik mühendisliği ve biyoteknoloji sayesinde, çevreye zarar vermeyen biyolojik yakıtların üretilmesi mümkün olabilir. Diğer seçenekler de olası uygulamalar arasında yer alabilir, ancak biyolojik yakıt üretimi daha ön plana çıkmaktadır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.5.3",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 66
+    },
+    {
+      "stem": "DNA'nın kendini eşlemesi sırasında, DNA molekülü iki ipliğe ayrılır. Yeni oluşan ipliklerde, orijinal iplikte yer alan nükleotitlerin tamamlayıcı nükleotitleri yer alır. Bu süreç aşağıdaki seçeneklerden hangisi ile ifade edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Transkripsiyon"
+        },
+        {
+          "key": "B",
+          "text": "Replikasyon"
+        },
+        {
+          "key": "C",
+          "text": "Translasyon"
+        },
+        {
+          "key": "D",
+          "text": "Mutasyon"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA'nın kendini eşlemesi sırasında, DNA molekülü iki ipliğe ayrılır ve yeni oluşan ipliklerde, orijinal iplikte yer alan nükleotitlerin tamamlayıcı nükleotitleri yer alır. Bu süreç replikasyon olarak adlandırılır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.1.3",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 67
+    },
+    {
+      "stem": "Bir üçgenin kenar uzunlukları 4 cm, 6 cm ve 8 cm ise, bu üçgenin en büyük açısının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30°"
+        },
+        {
+          "key": "B",
+          "text": "60°"
+        },
+        {
+          "key": "C",
+          "text": "90°"
+        },
+        {
+          "key": "D",
+          "text": "120°"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Üçgenin en büyük açısının karşısında en uzun kenar bulunur. Burada en uzun kenar 8 cm'dir. Üçgenin iç açılarının toplamı 180° olduğundan, en büyük açı 120° olacaktır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.3",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 68
+    },
+    {
+      "number": 1,
+      "stem": "According to the conversations above, who is DEFINITELY NOT available at the moment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mr Brown"
+        },
+        {
+          "label": "B",
+          "text": "Mr Jordan"
+        },
+        {
+          "label": "C",
+          "text": "Mr Logan"
+        },
+        {
+          "label": "D",
+          "text": "Mr Miller"
+        }
+      ],
+      "subject": "English",
+      "topic": "School life and education",
+      "kazanim_code": "ENG.8.1.L2",
+      "confidence": 0.9,
+      "page": 27,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 69
+    },
+    {
+      "stem": "Fen Bilimleri konusunda bir soru: Örneklerden yola çıkarak modifikasyonu açıklar....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "F.8.2.3.2",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Fallback",
+      "question_number": 70
+    },
+    {
+      "stem": "Which of the following is NOT a common topic in school life and education?",
+      "options": [
+        {
+          "key": "A",
+          "text": "School events and celebrations"
+        },
+        {
+          "key": "B",
+          "text": "Developing the environment"
+        },
+        {
+          "key": "C",
+          "text": "National days and celebrations"
+        },
+        {
+          "key": "D",
+          "text": "Hobbies and personal interests"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The given topic areas for the writing task are school life and education with school events and celebrations, developing the environment, and national days and celebrations. Hobbies and personal interests are not mentioned as a common topic in this context.",
+      "confidence": 90,
+      "kazanim_code": "ENG.8.1.W2",
+      "subject": "İngilizce",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 71
+    },
+    {
+      "number": 2,
+      "stem": "Bu metindeki numaralanmış cümlelerin hangisinde yazım yanlışı yoktur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I"
+        },
+        {
+          "label": "B",
+          "text": "II"
+        },
+        {
+          "label": "C",
+          "text": "III"
+        },
+        {
+          "label": "D",
+          "text": "IV"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Yazım Kuralları",
+      "kazanim_code": "T.8.4.18",
+      "confidence": 0.8,
+      "page": 13,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 72
+    },
+    {
+      "stem": "Bir mağazada satılan elma sayısı ile müşteri sayısı arasında doğrusal bir ilişki vardır. Buna göre, 50 müşteri geldiğinde 100 elma satıldığına göre, 80 müşteri geldiğinde kaç elma satılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "120 elma"
+        },
+        {
+          "key": "B",
+          "text": "160 elma"
+        },
+        {
+          "key": "C",
+          "text": "180 elma"
+        },
+        {
+          "key": "D",
+          "text": "200 elma"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verilen bilgilere göre, 50 müşteri geldiğinde 100 elma satılmıştır. Buna göre, her müşteri için 2 elma satıldığı söylenebilir. Dolayısıyla, 80 müşteri geldiğinde 80 x 2 = 160 elma satılmıştır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.2.2.3",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 73
+    },
+    {
+      "stem": "Aşağıdaki cümlede özne, yüklem ve tümleç ögelerinden hangisi yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bahçedeki çiçekler güneşin altında açmıştı."
+        },
+        {
+          "key": "B",
+          "text": "Arkadaşlarımla sinemaya gittik."
+        },
+        {
+          "key": "C",
+          "text": "Köy okulunun önünde güzel bir ağaç vardı."
+        },
+        {
+          "key": "D",
+          "text": "Kitap okumayı seviyorum."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Kitap okumayı seviyorum cümlesinde özne (ben), yüklem (seviyorum) vardır ancak tümleç öğesi yoktur.",
+      "confidence": 90,
+      "kazanim_code": "T.8.4.18",
+      "subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 74
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi birinci dereceden bir bilinmeyenli eşitsizlik değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "x ≥ -1"
+        },
+        {
+          "key": "B",
+          "text": "a² + b² = c²"
+        },
+        {
+          "key": "C",
+          "text": "-3 ≤ t < 7"
+        },
+        {
+          "key": "D",
+          "text": "a < 1"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "a² + b² = c² bir denklemdir, eşitsizlik değildir. Diğer şıklar birinci dereceden bir bilinmeyenli eşitsizliktir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.2.3.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 75
+    },
+    {
+      "stem": "Which of the following is NOT a national day celebrated in Turkey?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Republic Day"
+        },
+        {
+          "key": "B",
+          "text": "Victory Day"
+        },
+        {
+          "key": "C",
+          "text": "Children's Day"
+        },
+        {
+          "key": "D",
+          "text": "Thanksgiving Day"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Thanksgiving Day is not a national day celebrated in Turkey. The national days in Turkey include Republic Day, Victory Day, and Children's Day.",
+      "confidence": 90,
+      "kazanim_code": "ENG.8.1.W3",
+      "subject": "İngilizce",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 76
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi modal yardımcı fiil için doğru soru etiketidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "You must care for the environment, don't you?"
+        },
+        {
+          "key": "B",
+          "text": "You must care for the environment, mustn't you?"
+        },
+        {
+          "key": "C",
+          "text": "You must care for the environment, can't you?"
+        },
+        {
+          "key": "D",
+          "text": "You must care for the environment, won't you?"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modal yardımcı fiil 'must' için doğru soru etiketi 'mustn't you?' şeklindedir.",
+      "confidence": 90,
+      "kazanim_code": "T.8.2.7",
+      "subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 77
+    },
+    {
+      "stem": "Aşağıdaki şekillerden hangisinin yansıma sonucu oluşan görüntüsü, şekle eş değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir doğru parçası"
+        },
+        {
+          "key": "B",
+          "text": "Bir daire"
+        },
+        {
+          "key": "C",
+          "text": "Bir üçgen"
+        },
+        {
+          "key": "D",
+          "text": "Bir kare"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir dairenin yansıma sonucu oluşan görüntüsü, daire değil elips olur. Diğer şekillerin yansıma sonucu oluşan görüntüleri ise şekle eştir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.2.2",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 78
+    },
+    {
+      "stem": "Which of the following activities can volunteers do in the classroom according to the given learning outcome?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Volunteers can take notes during the lesson."
+        },
+        {
+          "key": "B",
+          "text": "Volunteers can go to the board and choose a picture to stick/pin/drag on the board."
+        },
+        {
+          "key": "C",
+          "text": "Volunteers can help the teacher distribute the worksheets."
+        },
+        {
+          "key": "D",
+          "text": "Volunteers can listen to the teacher's lecture and ask questions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "According to the given learning outcome, volunteers can go to the board and choose a picture (already provided by the teacher) to stick/pin/drag on the white/black board or the smart board.",
+      "confidence": 90,
+      "kazanim_code": "D1.2",
+      "subject": "İngilizce",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 79
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi mutasyonla ilgili bir örnektir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "H₂O"
+        },
+        {
+          "key": "B",
+          "text": "DNA"
+        },
+        {
+          "key": "C",
+          "text": "oksijen"
+        },
+        {
+          "key": "D",
+          "text": "karbon"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "DNA, genetik bilgiyi taşıyan ve mutasyonlara uğrayabilen bir moleküldür. Diğer seçenekler ise mutasyonla doğrudan ilişkili değildir.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.3.1",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 80
+    },
+    {
+      "stem": "Tekalif-i Millîye Emirleri kapsamında Türk milletinin millî birlik, beraberlik ve dayanışmasını gösteren uygulamalardan biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toprak reformunun yapılması"
+        },
+        {
+          "key": "B",
+          "text": "Vatandaşlardan askerlik hizmeti için yardım toplanması"
+        },
+        {
+          "key": "C",
+          "text": "Yabancı sermayeye sınırlamalar getirilmesi"
+        },
+        {
+          "key": "D",
+          "text": "Üniversitelerin özerkliğinin artırılması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tekalif-i Millîye Emirleri kapsamında Türk milletinin millî birlik, beraberlik ve dayanışmasını gösteren uygulamalardan biri, vatandaşlardan askerlik hizmeti için yardım toplanmasıdır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.4",
+      "subject": "Sosyal Bilgiler",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 81
+    },
+    {
+      "stem": "Bir üçgenin kenar uzunlukları 5 cm, 12 cm ve x cm'dir. Bu üçgenin en büyük açısının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30°"
+        },
+        {
+          "key": "B",
+          "text": "60°"
+        },
+        {
+          "key": "C",
+          "text": "90°"
+        },
+        {
+          "key": "D",
+          "text": "120°"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Bir üçgenin en büyük açısının karşısındaki kenar en uzun kenar olur. Burada en uzun kenar 12 cm'dir. Dolayısıyla en büyük açı 120° olmalıdır.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1.3",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 82
+    },
+    {
+      "stem": "Bir üçgenin kenarortaylarının uzunluklarından biri 6 cm ise, bu üçgenin çevresi kaç cm'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18 cm"
+        },
+        {
+          "key": "B",
+          "text": "24 cm"
+        },
+        {
+          "key": "C",
+          "text": "30 cm"
+        },
+        {
+          "key": "D",
+          "text": "36 cm"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bir üçgenin kenarortaylarının uzunluklarından biri 6 cm ise, bu üçgenin kenarları 6√3 cm, 6√3 cm ve 12 cm'dir. Üçgenin çevresi ise 6√3 + 6√3 + 12 = 24 cm'dir.",
+      "confidence": 90,
+      "kazanim_code": "M.8.3.1",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 83
+    },
+    {
+      "stem": "Matematik konusunda bir soru: Doğrunun eğimini modellerle açıklar, doğrusal denklemleri ve grafiklerini eğimle ilişkilendirir. a) ...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Seçenek A"
+        },
+        {
+          "key": "B",
+          "text": "Seçenek B"
+        },
+        {
+          "key": "C",
+          "text": "Seçenek C"
+        },
+        {
+          "key": "D",
+          "text": "Seçenek D"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bu bir örnek açıklamadır.",
+      "confidence": 50,
+      "kazanim_code": "M.8.2.2.6",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Fallback",
+      "question_number": 84
+    },
+    {
+      "stem": "The school's annual sports day is an important event in the school calendar. Which of the following is NOT a typical activity that students can participate in during the sports day?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Running races"
+        },
+        {
+          "key": "B",
+          "text": "Singing competition"
+        },
+        {
+          "key": "C",
+          "text": "Obstacle course"
+        },
+        {
+          "key": "D",
+          "text": "Tug-of-war"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The sports day typically includes physical activities such as running races, obstacle courses, and tug-of-war. A singing competition would not be a typical activity for a sports day.",
+      "confidence": 90,
+      "kazanim_code": "ENG.8.1.R2",
+      "subject": "İngilizce",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 85
+    },
+    {
+      "stem": "Akraba evliliklerinde, ebeveynlerin genetik özelliklerini çocuklarına aktarma olasılığı nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Akraba evliliklerinde, ebeveynlerin genetik özelliklerini çocuklarına aktarma olasılığı daha düşüktür."
+        },
+        {
+          "key": "B",
+          "text": "Akraba evliliklerinde, ebeveynlerin genetik özelliklerini çocuklarına aktarma olasılığı daha yüksektir."
+        },
+        {
+          "key": "C",
+          "text": "Akraba evliliklerinde, ebeveynlerin genetik özelliklerini çocuklarına aktarma olasılığı değişmez."
+        },
+        {
+          "key": "D",
+          "text": "Akraba evliliklerinde, ebeveynlerin genetik özelliklerini çocuklarına aktarma olasılığı tamamen tesadüfidir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Akraba evliliklerinde, ebeveynlerin genetik özelliklerini çocuklarına aktarma olasılığı daha yüksektir. Çünkü akraba ebeveynlerin genleri birbirine benzer olduğundan, istenmeyen genetik özelliklerin ortaya çıkma ihtimali artmaktadır.",
+      "confidence": 90,
+      "kazanim_code": "F.8.2.2.3",
+      "subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 86
+    },
+    {
+      "stem": "Millî Mücadele Dönemi'nde Batı Cephesi'nde önemli bir dönüm noktası olan Sakarya Savaşı, aşağıdaki sonuçlardan hangisini doğurmuştur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yunan ordusunun Anadolu'dan tamamen çekilmesini sağlamıştır."
+        },
+        {
+          "key": "B",
+          "text": "Türk ordusunun Ankara'yı kurtarmasına yol açmıştır."
+        },
+        {
+          "key": "C",
+          "text": "Türk ordusunun Doğu Cephesi'nde başarılı olmasına neden olmuştur."
+        },
+        {
+          "key": "D",
+          "text": "Türk ordusunun Kuvâ-yi Milliye ruhunu güçlendirmesini sağlamıştır."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sakarya Savaşı, Türk ordusunun Yunan ordusuna karşı kazandığı önemli bir zaferdir. Bu zafer, Türk ordusunun Ankara'yı kurtarmasına ve Millî Mücadele'nin seyrini değiştirmesine yol açmıştır.",
+      "confidence": 90,
+      "kazanim_code": "İTA.8.3.2",
+      "subject": "Sosyal Bilgiler",
+      "difficulty_level": "Orta",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 87
+    },
+    {
+      "stem": "Maûn suresinde vurgulanan kavramlardan biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Namaz"
+        },
+        {
+          "key": "B",
+          "text": "Zekât"
+        },
+        {
+          "key": "C",
+          "text": "Hadis"
+        },
+        {
+          "key": "D",
+          "text": "Ayet"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Maûn suresi, zekât ve yardımlaşma gibi sosyal sorumlulukları vurgular. Bu nedenle doğru cevap zekâttır.",
+      "confidence": 90,
+      "kazanim_code": "8.2.5",
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "stamp": "MILK",
+      "source": "MILK Generated",
+      "generated_by": "MILK-AI",
+      "question_number": 88
+    },
+    {
+      "number": 4,
+      "stem": "Millî futbolcu Arda Güler, attığı gollerden sonra bir elini kalbinin üzerine koyup diğer elinin işaret parmağını göğe doğru kaldırarak sevincini kutluyor. Bunun ne anlama geldiği kendisine sorulduğunda \"Bu tevekkül inancı- mın göstergesidir. Çünkü hayatta insanın ba- şına iyi şeyler gibi kötü şeyler de gelebiliyor: başarıların yanında başarısızlıklar, sağlıklı olmanın yanında hastalıklar... Ben elimden geleni yapıyorum, çalışıp çabalıyorum; sonu- cunu Allah'a bırakıyorum.\" dedi.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zorlukların aşılmasında etkilidir."
+        },
+        {
+          "label": "B",
+          "text": "Gayret göstermekle birlikte Allah'a güven- mektir."
+        },
+        {
+          "label": "C",
+          "text": "Kişinin huzurlu olmasına katkı sağlar."
+        },
+        {
+          "label": "D",
+          "text": "Tercihlerinin sorumluluğunu üstlenmektir."
+        }
+      ],
+      "subject": "Din Kültürü ve Ahlak Bilgisi",
+      "topic": "Kader ve Kaza",
+      "kazanim_code": "8.1.2",
+      "confidence": 1.0,
+      "page": 21,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 89
+    },
+    {
+      "number": 16,
+      "stem": "Aşağıdaki görsellerde silindirli kilit sistemi ve anahtar verilmiştir. Bu bilgilere göre, anahtar çevrildiğinde açılabilir durumda olan kilit görseli aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A"
+        },
+        {
+          "label": "B",
+          "text": "B"
+        },
+        {
+          "label": "C",
+          "text": "C"
+        },
+        {
+          "label": "D",
+          "text": "D"
+        }
+      ],
+      "subject": "Türkçe",
+      "topic": "Okuma",
+      "kazanim_code": "T.8.4.18",
+      "confidence": 0.9,
+      "page": 12,
+      "stamp": "LGS",
+      "source": "Original LGS",
+      "question_number": 90
+    }
+  ],
+  "statistics": {
+    "by_subject": {
+      "Türkçe": 20,
+      "Matematik": 20,
+      "Din Kültürü ve Ahlak Bilgisi": 10,
+      "Fen Bilimleri": 20,
+      "Sosyal Bilgiler": 10,
+      "İngilizce": 10
+    },
+    "by_difficulty": {
+      "Unknown": 21,
+      "Orta": 37,
+      "Kolay": 23,
+      "Zor": 9
+    },
+    "by_source": {
+      "LGS": 21,
+      "MILK": 69
+    },
+    "total_questions": 90
+  }
+}

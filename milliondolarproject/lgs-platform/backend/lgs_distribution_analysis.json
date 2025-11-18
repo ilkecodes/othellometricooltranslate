@@ -1,0 +1,3941 @@
+{
+  "source": "/app/22080340_lgsgecmisyillarsorudagilimi.pdf",
+  "analysis_date": "2024-11-14",
+  "pages_analyzed": 6,
+  "successful_pages": 6,
+  "average_confidence": 95.8,
+  "subjects": {
+    "Türkçe": {
+      "topics": [
+        {
+          "name": "Sözcükte Anlam",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Sözcükte Anlam' has remained relatively stable, ranging from 1 to 2 questions in most years."
+        },
+        {
+          "name": "Deyimler ve Atasözleri",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The inclusion of questions on 'Deyimler ve Atasözleri' has been inconsistent, with 1-2 questions in some years and none in others."
+        },
+        {
+          "name": "Cümlede Anlam",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 15
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Cümlede Anlam' has been relatively consistent, with 2-3 questions in most years, except for a dip to 1 question in 2022."
+        },
+        {
+          "name": "Sözel Mantık / Görsel Okuma",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 7,
+              "percentage": 35
+            },
+            "2020": {
+              "questions": 6,
+              "percentage": 30
+            },
+            "2021": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2023": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 15
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Sözel Mantık / Görsel Okuma' has been variable, ranging from 1 to 7 questions in different years. There has been a general trend of decreasing questions in this area."
+        },
+        {
+          "name": "Parçada Anlam",
+          "years_data": {
+            "2018": {
+              "questions": 8,
+              "percentage": 40
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2021": {
+              "questions": 10,
+              "percentage": 50
+            },
+            "2022": {
+              "questions": 6,
+              "percentage": 30
+            },
+            "2023": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2024": {
+              "questions": 6,
+              "percentage": 30
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Parçada Anlam' has been variable, ranging from 3 to 10 questions in different years. There is no clear trend, with the question count fluctuating year-over-year."
+        },
+        {
+          "name": "Söz Sanatları",
+          "years_data": {
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "Questions on 'Söz Sanatları' have only appeared in 2020 with 1 question."
+        },
+        {
+          "name": "Metin Türleri",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Metin Türleri' has been relatively consistent, with 1-2 questions in most years."
+        },
+        {
+          "name": "Noktalama İşaretleri",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Noktalama İşaretleri' has been consistent at 1 question in most years."
+        },
+        {
+          "name": "Yazım Kuralları",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Yazım Kuralları' has been consistent at 1 question in most years."
+        },
+        {
+          "name": "Fiilimsiler",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Fiilimsiler' has been consistent at 1 question in most years."
+        },
+        {
+          "name": "Cümlenin Öğeleri",
+          "years_data": {
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "Questions on 'Cümlenin Öğeleri' have appeared in 3 out of the 7 years, with 1 question in each of those years."
+        },
+        {
+          "name": "Cümle Türleri",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Cümle Türleri' has been consistent at 1 question in most years."
+        },
+        {
+          "name": "Anlatım Bozukluğu",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": null,
+          "trends": "The number of questions on 'Anlatım Bozukluğu' has been variable, with 1 question in most years, except for 2 questions in 2022."
+        }
+      ],
+      "total_topics": 13,
+      "years_covered": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "Matematik": {
+      "topics": [
+        {
+          "name": "Çarpanlar ve Katlar",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2021": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The number of questions on Çarpanlar ve Katlar has varied over the years, ranging from 1 to 3 questions, with a higher focus in 2020, 2021, and 2023."
+        },
+        {
+          "name": "Üslü Sayılar",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 10
+            }
+          },
+          "trends": "The number of questions on Üslü Sayılar has been relatively consistent, with a higher focus in 2020 and 2023."
+        },
+        {
+          "name": "Köklü Sayılar",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2023": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 15
+            }
+          },
+          "trends": "The number of questions on Köklü Sayılar has been relatively consistent, with a higher focus in 2023."
+        },
+        {
+          "name": "Veri Analizi",
+          "years_data": {
+            "2018": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The focus on Veri Analizi has increased over the years, with a higher number of questions in 2020."
+        },
+        {
+          "name": "Olasılık",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The number of questions on Olasılık has varied, with a higher focus in 2020."
+        },
+        {
+          "name": "Cebirsel İfadeler ve Eşitsizlikler",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2020": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 10
+            }
+          },
+          "trends": "The number of questions on Cebirsel İfadeler ve Eşitsizlikler has been relatively consistent, with a higher focus in 2020 and 2023."
+        },
+        {
+          "name": "Doğrusal Denklemler",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2019": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 4,
+              "percentage": 20
+            }
+          },
+          "trends": "The focus on Doğrusal Denklemler has varied, with a higher number of questions in 2019 and 2022, but no questions in 2020 and 2023."
+        },
+        {
+          "name": "Eşitsizlikler",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The focus on Eşitsizlikler has been variable, with no questions in 2020 and 2023."
+        },
+        {
+          "name": "Üçgenler",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 10
+            }
+          },
+          "trends": "The focus on Üçgenler has been variable, with no questions in 2020 and 2023."
+        },
+        {
+          "name": "Eşlik ve Benzerlik",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The focus on Eşlik ve Benzerlik has been variable, with no questions in 2020 and 2023."
+        },
+        {
+          "name": "Geometrik Cisimler",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The focus on Geometrik Cisimler has been variable, with no questions in 2020, 2021, and 2023."
+        },
+        {
+          "name": "Dönüşüm Geometrisi",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "trends": "The focus on Dönüşüm Geometrisi has been variable, with no questions in 2020, 2021, and 2023."
+        }
+      ],
+      "total_topics": 12,
+      "years_covered": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "Fen Bilimleri": {
+      "topics": [
+        {
+          "name": "Mevsimler ve İklim",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2023": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 5
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Mevsimler ve İklim topic varies from year to year, with a peak in 2020 and 2023."
+        },
+        {
+          "name": "DNA ve Genetik Kod",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2020": {
+              "questions": 8,
+              "percentage": 40
+            },
+            "2021": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2022": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 8,
+              "percentage": 40
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on DNA ve Genetik Kod topic has increased significantly since 2018, with a peak in 2020 and 2023."
+        },
+        {
+          "name": "Basınç",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 15
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Basınç topic has fluctuated over the years, with peaks in 2020 and 2023."
+        },
+        {
+          "name": "Madde ve Endüstri",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 6,
+              "percentage": 30
+            },
+            "2020": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2022": {
+              "questions": 5,
+              "percentage": 25
+            },
+            "2023": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 5,
+              "percentage": 25
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Madde ve Endüstri topic has remained relatively stable, with a peak in 2019."
+        },
+        {
+          "name": "Basit Makineler",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Basit Makineler topic has been consistent, with the exception of 2020 and 2023 where no questions were asked."
+        },
+        {
+          "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+          "years_data": {
+            "2018": {
+              "questions": 7,
+              "percentage": 35
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 4,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 4,
+              "percentage": 20
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Enerji Dönüşümleri ve Çevre Bilimi topic has fluctuated, with a significant drop in 2020 and 2023."
+        },
+        {
+          "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 15
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 15
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Elektrik Yükleri ve Elektrik Enerjisi topic has been inconsistent, with no questions asked in 2020, 2021, and 2023."
+        },
+        {
+          "name": "Hücre Bölünmesi ve Kalıtım",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Hücre Bölünmesi ve Kalıtım topic has been decreasing over the years, with no questions asked since 2019."
+        },
+        {
+          "name": "Işığın Kırılması",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Işığın Kırılması topic has been decreasing over the years, with no questions asked since 2018."
+        },
+        {
+          "name": "Ses",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 5
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The number of questions on Ses topic has been decreasing over the years, with no questions asked since 2018."
+        }
+      ],
+      "total_topics": 10,
+      "years_covered": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "İnkılap Tarihi": {
+      "topics": [
+        {
+          "name": "Bir Kahraman Doğuyor",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 5,
+              "percentage": 50
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Bir Kahraman Doğuyor' has been consistently asked in the LGS exam, with a higher emphasis in 2023."
+        },
+        {
+          "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2020": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 20
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar' has been consistently asked in the LGS exam, with a higher emphasis in 2020."
+        },
+        {
+          "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+          "years_data": {
+            "2018": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2020": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 20
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Milli Bir Destan: Ya İstiklal, Ya Ölüm' was not asked in 2018 but has been consistently asked in the LGS exam since 2019, with a higher emphasis in 2020 and 2023."
+        },
+        {
+          "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+          "years_data": {
+            "2018": {
+              "questions": 5,
+              "percentage": 50
+            },
+            "2019": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2022": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 4,
+              "percentage": 40
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Atatürkçülük ve Çağdaşlaşan Türkiye' has been asked in the LGS exam with varying emphasis, with a higher focus in 2018 and 2019, and less emphasis in 2020 and 2023."
+        },
+        {
+          "name": "Demokratikleşme Çabaları",
+          "years_data": {
+            "2018": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Demokratikleşme Çabaları' was not asked in the LGS exam until 2021, and has been asked with low emphasis since then."
+        },
+        {
+          "name": "Atatürk Dönemi Dış Politika",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Atatürk Dönemi Dış Politika' has been asked in the LGS exam with low and varying emphasis, and was not asked in 2020, 2023, and 2024."
+        },
+        {
+          "name": "Atatürk'ün Ölümü ve Sonrası",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic 'Atatürk'ün Ölümü ve Sonrası' was only asked in the LGS exam in 2018 and has not been asked since then."
+        }
+      ],
+      "total_topics": 7,
+      "years_covered": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "Din Kültürü ve Ahlak Bilgisi": {
+      "topics": [
+        {
+          "name": "Kader İnancı",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2023": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 20
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The question count for Kader İnancı has fluctuated over the years, with a peak in 2020 and 2023."
+        },
+        {
+          "name": "Zekat ve Sadaka",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2020": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 20
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The question count for Zekat ve Sadaka has varied, with a peak in 2020 and a decreasing trend in recent years."
+        },
+        {
+          "name": "Din ve Hayat",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2022": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2023": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 30
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The question count for Din ve Hayat has shown an increasing trend, with more questions being asked in recent years."
+        },
+        {
+          "name": "Hz. Muhammed'in Örnekliği",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 3,
+              "percentage": 30
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The question count for Hz. Muhammed'in Örnekliği has been inconsistent, with some years having no questions and other years having a higher number of questions."
+        },
+        {
+          "name": "Kur'an-ı Kerim ve Özellikleri",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2019": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The question count for Kur'an-ı Kerim ve Özellikleri has decreased over the years, with no questions being asked in recent years."
+        }
+      ],
+      "total_topics": 5,
+      "years_covered": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "İngilizce": {
+      "topics": [
+        {
+          "name": "Friendship",
+          "years_data": {
+            "2018": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2023": {
+              "questions": 4,
+              "percentage": 40
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Friendship has been consistently included in the LGS exams, with the highest emphasis in 2023."
+        },
+        {
+          "name": "Teen Life",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 2,
+              "percentage": 20
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Teen Life has been included in most years, with the highest emphasis in 2019."
+        },
+        {
+          "name": "In The Kitchen",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of In The Kitchen has been consistently included in the LGS exams, with a focus in 2020 and 2021."
+        },
+        {
+          "name": "On The Phone",
+          "years_data": {
+            "2018": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of On The Phone has been included in the LGS exams since 2019, with the highest emphasis in 2020."
+        },
+        {
+          "name": "The Internet",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 2,
+              "percentage": 20
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of The Internet has been consistently included in the LGS exams, with the highest emphasis in 2020."
+        },
+        {
+          "name": "Adventures",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Adventures has been included in the LGS exams in most years, with some years not having any questions."
+        },
+        {
+          "name": "Tourism",
+          "years_data": {
+            "2018": {
+              "questions": 3,
+              "percentage": 30
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Tourism was heavily emphasized in 2018 but has since been included less frequently."
+        },
+        {
+          "name": "Chores",
+          "years_data": {
+            "2018": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Chores has been included in the LGS exams in most years, with some years not having any questions."
+        },
+        {
+          "name": "Science",
+          "years_data": {
+            "2018": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2019": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2022": {
+              "questions": 1,
+              "percentage": 10
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 1,
+              "percentage": 10
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Science has been included in the LGS exams in some years, with a focus in 2019 and 2021."
+        },
+        {
+          "name": "Natural Forces",
+          "years_data": {
+            "2018": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2019": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2020": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2021": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2022": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2023": {
+              "questions": 0,
+              "percentage": 0
+            },
+            "2024": {
+              "questions": 0,
+              "percentage": 0
+            }
+          },
+          "kazanim_codes": [],
+          "trends": "The topic of Natural Forces has not been included in any of the LGS exams for the years shown."
+        }
+      ],
+      "total_topics": 10,
+      "years_covered": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    }
+  },
+  "raw_analysis": [
+    {
+      "page_number": 1,
+      "subjects": [
+        {
+          "name": "Türkçe",
+          "topics": [
+            {
+              "name": "Sözcükte Anlam",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Sözcükte Anlam' has remained relatively stable, ranging from 1 to 2 questions in most years."
+            },
+            {
+              "name": "Deyimler ve Atasözleri",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The inclusion of questions on 'Deyimler ve Atasözleri' has been inconsistent, with 1-2 questions in some years and none in others."
+            },
+            {
+              "name": "Cümlede Anlam",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 15
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Cümlede Anlam' has been relatively consistent, with 2-3 questions in most years, except for a dip to 1 question in 2022."
+            },
+            {
+              "name": "Sözel Mantık / Görsel Okuma",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 7,
+                  "percentage": 35
+                },
+                "2020": {
+                  "questions": 6,
+                  "percentage": 30
+                },
+                "2021": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2023": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 15
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Sözel Mantık / Görsel Okuma' has been variable, ranging from 1 to 7 questions in different years. There has been a general trend of decreasing questions in this area."
+            },
+            {
+              "name": "Parçada Anlam",
+              "years_data": {
+                "2018": {
+                  "questions": 8,
+                  "percentage": 40
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2021": {
+                  "questions": 10,
+                  "percentage": 50
+                },
+                "2022": {
+                  "questions": 6,
+                  "percentage": 30
+                },
+                "2023": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2024": {
+                  "questions": 6,
+                  "percentage": 30
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Parçada Anlam' has been variable, ranging from 3 to 10 questions in different years. There is no clear trend, with the question count fluctuating year-over-year."
+            },
+            {
+              "name": "Söz Sanatları",
+              "years_data": {
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "Questions on 'Söz Sanatları' have only appeared in 2020 with 1 question."
+            },
+            {
+              "name": "Metin Türleri",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Metin Türleri' has been relatively consistent, with 1-2 questions in most years."
+            },
+            {
+              "name": "Noktalama İşaretleri",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Noktalama İşaretleri' has been consistent at 1 question in most years."
+            },
+            {
+              "name": "Yazım Kuralları",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Yazım Kuralları' has been consistent at 1 question in most years."
+            },
+            {
+              "name": "Fiilimsiler",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Fiilimsiler' has been consistent at 1 question in most years."
+            },
+            {
+              "name": "Cümlenin Öğeleri",
+              "years_data": {
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "Questions on 'Cümlenin Öğeleri' have appeared in 3 out of the 7 years, with 1 question in each of those years."
+            },
+            {
+              "name": "Cümle Türleri",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Cümle Türleri' has been consistent at 1 question in most years."
+            },
+            {
+              "name": "Anlatım Bozukluğu",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": null,
+              "trends": "The number of questions on 'Anlatım Bozukluğu' has been variable, with 1 question in most years, except for 2 questions in 2022."
+            }
+          ]
+        }
+      ],
+      "summary": "The Türkçe subject area of the LGS exam has covered a wide range of topics, with the number of questions and their distribution varying from year to year. Some topics like 'Sözcükte Anlam', 'Cümlede Anlam', and 'Metin Türleri' have had a relatively consistent presence, while others like 'Deyimler ve Atasözleri' and 'Söz Sanatları' have appeared more sporadically. The 'Sözel Mantık / Görsel Okuma' and 'Parçada Anlam' topics have shown the most variability in question counts, with no clear trends over the years.",
+      "confidence": 95
+    },
+    {
+      "page_number": 1,
+      "subjects": [
+        {
+          "name": "Matematik",
+          "topics": [
+            {
+              "name": "Çarpanlar ve Katlar",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2021": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The number of questions on Çarpanlar ve Katlar has varied over the years, ranging from 1 to 3 questions, with a higher focus in 2020, 2021, and 2023."
+            },
+            {
+              "name": "Üslü Sayılar",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 10
+                }
+              },
+              "trends": "The number of questions on Üslü Sayılar has been relatively consistent, with a higher focus in 2020 and 2023."
+            },
+            {
+              "name": "Köklü Sayılar",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2023": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 15
+                }
+              },
+              "trends": "The number of questions on Köklü Sayılar has been relatively consistent, with a higher focus in 2023."
+            },
+            {
+              "name": "Veri Analizi",
+              "years_data": {
+                "2018": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The focus on Veri Analizi has increased over the years, with a higher number of questions in 2020."
+            },
+            {
+              "name": "Olasılık",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The number of questions on Olasılık has varied, with a higher focus in 2020."
+            },
+            {
+              "name": "Cebirsel İfadeler ve Eşitsizlikler",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2020": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 10
+                }
+              },
+              "trends": "The number of questions on Cebirsel İfadeler ve Eşitsizlikler has been relatively consistent, with a higher focus in 2020 and 2023."
+            },
+            {
+              "name": "Doğrusal Denklemler",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2019": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 4,
+                  "percentage": 20
+                }
+              },
+              "trends": "The focus on Doğrusal Denklemler has varied, with a higher number of questions in 2019 and 2022, but no questions in 2020 and 2023."
+            },
+            {
+              "name": "Eşitsizlikler",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The focus on Eşitsizlikler has been variable, with no questions in 2020 and 2023."
+            },
+            {
+              "name": "Üçgenler",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 10
+                }
+              },
+              "trends": "The focus on Üçgenler has been variable, with no questions in 2020 and 2023."
+            },
+            {
+              "name": "Eşlik ve Benzerlik",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The focus on Eşlik ve Benzerlik has been variable, with no questions in 2020 and 2023."
+            },
+            {
+              "name": "Geometrik Cisimler",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The focus on Geometrik Cisimler has been variable, with no questions in 2020, 2021, and 2023."
+            },
+            {
+              "name": "Dönüşüm Geometrisi",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "trends": "The focus on Dönüşüm Geometrisi has been variable, with no questions in 2020, 2021, and 2023."
+            }
+          ]
+        }
+      ],
+      "summary": "The Matematik subject area covers a wide range of topics, with varying levels of focus over the years. Some topics, such as Çarpanlar ve Katlar, Üslü Sayılar, and Cebirsel İfadeler ve Eşitsizlikler, have maintained a relatively consistent presence, while others like Doğrusal Denklemler, Eşitsizlikler, Üçgenler, and Geometrik Cisimler have seen more fluctuations in the number of questions. The data suggests a shift in emphasis, with some topics receiving increased attention in certain years and others being less prominent. Overall, the Matematik section of the LGS exam appears to cover a diverse range of mathematical concepts, with the distribution of questions evolving over time.",
+      "confidence": 90
+    },
+    {
+      "page_number": 1,
+      "subjects": [
+        {
+          "name": "Fen Bilimleri",
+          "topics": [
+            {
+              "name": "Mevsimler ve İklim",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2023": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 5
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Mevsimler ve İklim topic varies from year to year, with a peak in 2020 and 2023."
+            },
+            {
+              "name": "DNA ve Genetik Kod",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2020": {
+                  "questions": 8,
+                  "percentage": 40
+                },
+                "2021": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2022": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 8,
+                  "percentage": 40
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on DNA ve Genetik Kod topic has increased significantly since 2018, with a peak in 2020 and 2023."
+            },
+            {
+              "name": "Basınç",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 15
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Basınç topic has fluctuated over the years, with peaks in 2020 and 2023."
+            },
+            {
+              "name": "Madde ve Endüstri",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 6,
+                  "percentage": 30
+                },
+                "2020": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2022": {
+                  "questions": 5,
+                  "percentage": 25
+                },
+                "2023": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 5,
+                  "percentage": 25
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Madde ve Endüstri topic has remained relatively stable, with a peak in 2019."
+            },
+            {
+              "name": "Basit Makineler",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Basit Makineler topic has been consistent, with the exception of 2020 and 2023 where no questions were asked."
+            },
+            {
+              "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+              "years_data": {
+                "2018": {
+                  "questions": 7,
+                  "percentage": 35
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 4,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 4,
+                  "percentage": 20
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Enerji Dönüşümleri ve Çevre Bilimi topic has fluctuated, with a significant drop in 2020 and 2023."
+            },
+            {
+              "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 15
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 15
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Elektrik Yükleri ve Elektrik Enerjisi topic has been inconsistent, with no questions asked in 2020, 2021, and 2023."
+            },
+            {
+              "name": "Hücre Bölünmesi ve Kalıtım",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Hücre Bölünmesi ve Kalıtım topic has been decreasing over the years, with no questions asked since 2019."
+            },
+            {
+              "name": "Işığın Kırılması",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Işığın Kırılması topic has been decreasing over the years, with no questions asked since 2018."
+            },
+            {
+              "name": "Ses",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 5
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The number of questions on Ses topic has been decreasing over the years, with no questions asked since 2018."
+            }
+          ]
+        }
+      ],
+      "summary": "The Fen Bilimleri subject area has seen significant changes in the topic distribution over the years. Some topics like DNA ve Genetik Kod and Basınç have become more prominent, while others like Hücre Bölünmesi ve Kalıtım, Işığın Kırılması, and Ses have been gradually phased out. The number of questions on each topic varies year-to-year, with some topics like Enerji Dönüşümleri ve Çevre Bilimi and Elektrik Yükleri ve Elektrik Enerjisi experiencing more drastic changes. Overall, the distribution seems to be shifting towards topics that are more relevant and applicable in modern science and technology.",
+      "confidence": 100
+    },
+    {
+      "page_number": 1,
+      "subjects": [
+        {
+          "name": "İnkılap Tarihi",
+          "topics": [
+            {
+              "name": "Bir Kahraman Doğuyor",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 5,
+                  "percentage": 50
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Bir Kahraman Doğuyor' has been consistently asked in the LGS exam, with a higher emphasis in 2023."
+            },
+            {
+              "name": "Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2020": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 20
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar' has been consistently asked in the LGS exam, with a higher emphasis in 2020."
+            },
+            {
+              "name": "Milli Bir Destan: Ya İstiklal, Ya Ölüm",
+              "years_data": {
+                "2018": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2020": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 20
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Milli Bir Destan: Ya İstiklal, Ya Ölüm' was not asked in 2018 but has been consistently asked in the LGS exam since 2019, with a higher emphasis in 2020 and 2023."
+            },
+            {
+              "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+              "years_data": {
+                "2018": {
+                  "questions": 5,
+                  "percentage": 50
+                },
+                "2019": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2022": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 4,
+                  "percentage": 40
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Atatürkçülük ve Çağdaşlaşan Türkiye' has been asked in the LGS exam with varying emphasis, with a higher focus in 2018 and 2019, and less emphasis in 2020 and 2023."
+            },
+            {
+              "name": "Demokratikleşme Çabaları",
+              "years_data": {
+                "2018": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Demokratikleşme Çabaları' was not asked in the LGS exam until 2021, and has been asked with low emphasis since then."
+            },
+            {
+              "name": "Atatürk Dönemi Dış Politika",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Atatürk Dönemi Dış Politika' has been asked in the LGS exam with low and varying emphasis, and was not asked in 2020, 2023, and 2024."
+            },
+            {
+              "name": "Atatürk'ün Ölümü ve Sonrası",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic 'Atatürk'ün Ölümü ve Sonrası' was only asked in the LGS exam in 2018 and has not been asked since then."
+            }
+          ]
+        }
+      ],
+      "summary": "The LGS exam for İnkılap Tarihi (History of the Turkish Revolution) has focused on a range of topics related to the Turkish War of Independence, Atatürk's reforms, and the democratization efforts. The most consistently asked topics are 'Bir Kahraman Doğuyor', 'Milli Uyanış: Bağımsızlık Yolunda Atılan Adımlar', and 'Milli Bir Destan: Ya İstiklal, Ya Ölüm'. The emphasis on these topics has varied over the years, with some topics like 'Demokratikleşme Çabaları' and 'Atatürk'ün Ölümü ve Sonrası' receiving less attention. Overall, the exam seems to cover a wide range of historical events and themes related to the Turkish Revolution and Atatürk's legacy.",
+      "confidence": 90
+    },
+    {
+      "page_number": 1,
+      "subjects": [
+        {
+          "name": "Din Kültürü ve Ahlak Bilgisi",
+          "topics": [
+            {
+              "name": "Kader İnancı",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2023": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 20
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The question count for Kader İnancı has fluctuated over the years, with a peak in 2020 and 2023."
+            },
+            {
+              "name": "Zekat ve Sadaka",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2020": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 20
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The question count for Zekat ve Sadaka has varied, with a peak in 2020 and a decreasing trend in recent years."
+            },
+            {
+              "name": "Din ve Hayat",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2022": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2023": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 30
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The question count for Din ve Hayat has shown an increasing trend, with more questions being asked in recent years."
+            },
+            {
+              "name": "Hz. Muhammed'in Örnekliği",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 3,
+                  "percentage": 30
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The question count for Hz. Muhammed'in Örnekliği has been inconsistent, with some years having no questions and other years having a higher number of questions."
+            },
+            {
+              "name": "Kur'an-ı Kerim ve Özellikleri",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2019": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The question count for Kur'an-ı Kerim ve Özellikleri has decreased over the years, with no questions being asked in recent years."
+            }
+          ]
+        }
+      ],
+      "summary": "The topic distribution in the Din Kültürü ve Ahlak Bilgisi subject area shows some fluctuations over the years. The question count for Kader İnancı and Zekat ve Sadaka has varied, with a peak in 2020 and a decreasing trend in recent years. The question count for Din ve Hayat has shown an increasing trend, while the count for Hz. Muhammed'in Örnekliği and Kur'an-ı Kerim ve Özellikleri has been more inconsistent, with the latter topic no longer being tested in recent years.",
+      "confidence": 100
+    },
+    {
+      "page_number": 1,
+      "subjects": [
+        {
+          "name": "İngilizce",
+          "topics": [
+            {
+              "name": "Friendship",
+              "years_data": {
+                "2018": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2023": {
+                  "questions": 4,
+                  "percentage": 40
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Friendship has been consistently included in the LGS exams, with the highest emphasis in 2023."
+            },
+            {
+              "name": "Teen Life",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 2,
+                  "percentage": 20
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Teen Life has been included in most years, with the highest emphasis in 2019."
+            },
+            {
+              "name": "In The Kitchen",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of In The Kitchen has been consistently included in the LGS exams, with a focus in 2020 and 2021."
+            },
+            {
+              "name": "On The Phone",
+              "years_data": {
+                "2018": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of On The Phone has been included in the LGS exams since 2019, with the highest emphasis in 2020."
+            },
+            {
+              "name": "The Internet",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 2,
+                  "percentage": 20
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of The Internet has been consistently included in the LGS exams, with the highest emphasis in 2020."
+            },
+            {
+              "name": "Adventures",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Adventures has been included in the LGS exams in most years, with some years not having any questions."
+            },
+            {
+              "name": "Tourism",
+              "years_data": {
+                "2018": {
+                  "questions": 3,
+                  "percentage": 30
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Tourism was heavily emphasized in 2018 but has since been included less frequently."
+            },
+            {
+              "name": "Chores",
+              "years_data": {
+                "2018": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Chores has been included in the LGS exams in most years, with some years not having any questions."
+            },
+            {
+              "name": "Science",
+              "years_data": {
+                "2018": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2019": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2022": {
+                  "questions": 1,
+                  "percentage": 10
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 1,
+                  "percentage": 10
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Science has been included in the LGS exams in some years, with a focus in 2019 and 2021."
+            },
+            {
+              "name": "Natural Forces",
+              "years_data": {
+                "2018": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2019": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2020": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2021": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2022": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2023": {
+                  "questions": 0,
+                  "percentage": 0
+                },
+                "2024": {
+                  "questions": 0,
+                  "percentage": 0
+                }
+              },
+              "kazanim_codes": [],
+              "trends": "The topic of Natural Forces has not been included in any of the LGS exams for the years shown."
+            }
+          ]
+        }
+      ],
+      "summary": "The LGS exam distribution for the English subject covers a variety of topics, with some being consistently included (Friendship, In The Kitchen, The Internet) and others being more sporadic (Tourism, Science, Natural Forces). The emphasis on different topics has varied over the years, with Friendship and Teen Life being the most heavily weighted in certain years.",
+      "confidence": 100
+    }
+  ]
+}

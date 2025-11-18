@@ -1,0 +1,2159 @@
+{
+  "questions": [
+    {
+      "stem": "Aşağıdakilerden hangisi öğrencilerin yazılarını paylaşmalarını teşvik etmez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınıf panosu"
+        },
+        {
+          "key": "B",
+          "text": "Okul panosu"
+        },
+        {
+          "key": "C",
+          "text": "Sosyal medya ortamları"
+        },
+        {
+          "key": "D",
+          "text": "Şiir ve kompozisyon yarışmaları"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Kazanım bilgisine göre, öğrenciler yazılarını sınıf ve okul panosu ile sosyal medya ortamlarında paylaşmaya ve şiir-kompozisyon yarışmalarına katılmaya teşvik edilir. Dolayısıyla sosyal medya ortamları öğrencilerin yazılarını paylaşmalarını teşvik eden bir unsurdur.",
+      "confidence": 85,
+      "kazanim_code": "T.8.4.17",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi 29 Ekim Cumhuriyet Bayramı'nın kutlandığı bir gündür?",
+      "options": [
+        {
+          "key": "A",
+          "text": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı"
+        },
+        {
+          "key": "B",
+          "text": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+        },
+        {
+          "key": "C",
+          "text": "30 Ağustos Zafer Bayramı"
+        },
+        {
+          "key": "D",
+          "text": "29 Ekim Cumhuriyet Bayramı"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "29 Ekim, Türkiye Cumhuriyeti'nin kuruluşunun kutlandığı Cumhuriyet Bayramı'dır. Diğer seçeneklerde belirtilen bayramlar da ulusal ve dini bayramlardır ancak 29 Ekim, Cumhuriyet Bayramı'dır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.1.3",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerden hangisi The Simple Present Tense kullanmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her yıl festivalde sanatçıların adlarını duyuruyor."
+        },
+        {
+          "key": "B",
+          "text": "Öğrenciler sahne için salonu dekorluyor."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler salonu dekorluyorlar."
+        },
+        {
+          "key": "D",
+          "text": "Her yıl festival sırasında sanatçıların adlarını duyuruyor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The Simple Present Tense, bir eylemin düzenli olarak gerçekleştiğini ifade eder. 'Her yıl festivalde sanatçıların adlarını duyuruyor' cümlesi bu durumu yansıtmaktadır. Diğer seçenekler ise The Present Progressive Tense kullanmaktadır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.1",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerin hangisinde 'can' sözcüğü izin isteme anlamında kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Can you speak English?"
+        },
+        {
+          "key": "B",
+          "text": "Can I go to the library?"
+        },
+        {
+          "key": "C",
+          "text": "I can swim very well."
+        },
+        {
+          "key": "D",
+          "text": "Can you help me with my homework?"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cümledeki 'can' sözcüğü izin isteme anlamında kullanılmıştır. Diğer cümlelerde 'can' sözcüğü yetenek ya da beceri anlamında kullanılmıştır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.5",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi bir zorunluluk anlamı ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ödevlerini tamamlamalısın."
+        },
+        {
+          "key": "B",
+          "text": "Okula gidebilirsin."
+        },
+        {
+          "key": "C",
+          "text": "Annen seni uyarmalı."
+        },
+        {
+          "key": "D",
+          "text": "Sınav sonuçlarını bekleyebilirsin."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cümledeki 'malısın' ifadesi zorunluluk anlamı taşır. Bu nedenle doğru cevap A seçeneğidir.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.2",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerden hangisi soru etiketi (question tag) kullanımına uygun değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bugün hava güzel, değil mi?"
+        },
+        {
+          "key": "B",
+          "text": "Bu ödevleri tamamlamalısın, değil mi?"
+        },
+        {
+          "key": "C",
+          "text": "Yarın pikniğe gidebiliriz, öyle değil mi?"
+        },
+        {
+          "key": "D",
+          "text": "Bana yardım edeceksin, değil mi?"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bu cümlede 'öyle değil mi?' kalıbı kullanılmış, ancak soru etiketi için uygun değil. Doğru kullanım 'öyle değil mi?' şeklinde olmalı.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.7",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerin hangisinde 'must' ve 'have to' arasındaki fark doğru şekilde kullanılmıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yağmur yağacağından, dışarı çıkmam gerekir."
+        },
+        {
+          "key": "B",
+          "text": "Sınava girmek için daha çok çalışmalıyım."
+        },
+        {
+          "key": "C",
+          "text": "Bugün mutlaka bir kitap okumalıyım."
+        },
+        {
+          "key": "D",
+          "text": "Doktora gitmek zorundayım, çünkü hasta hissediyorum."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'must' kişinin kendi isteği doğrultusunda yaptığı zorunlu bir eylemi ifade ederken, 'have to' dış faktörlerin zorunlu kıldığı eylemleri ifade eder. Şıklardan 'Doktora gitmek zorundayım, çünkü hasta hissediyorum' cümlesi, 'have to' kullanımına uygun olarak dış etkenlerin zorunlu kıldığı bir eylemi ifade etmektedir.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.4",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Okul etkinlikleri sırasında öğrencilerin çöp atmaması gerekir. Bu cümledeki yasaklama ifadesini en doğru şekilde aşağıdakilerden hangisi ifade eder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrenciler okul etkinliklerinde çöp atmamalılar."
+        },
+        {
+          "key": "B",
+          "text": "Öğrenciler okul etkinliklerinde çöp atmamalıdır."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler okul etkinliklerinde çöp atmaması gerekmektedir."
+        },
+        {
+          "key": "D",
+          "text": "Öğrenciler okul etkinliklerinde çöp atmamak zorundadır."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Yasaklama ifadesi 'must not' kullanılarak oluşturulur. Bu cümledeki yasaklama ifadesi 'öğrenciler çöp atmamalılar' şeklinde doğru kullanılmıştır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.3",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Okulun yıl sonu konser programında bir sanatçıya yardım etmek için gönüllü olmak isteyen öğrencilerden biri, aşağıdaki cümlelerden hangisini kullanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sınıf arkadaşlarımla birlikte sahneye çıkacağım."
+        },
+        {
+          "key": "B",
+          "text": "Konserde yer alan bir müzisyenin gösterisiyle ilgileneceğim."
+        },
+        {
+          "key": "C",
+          "text": "Konser düzenlemek için gereken dekorasyonu hazırlayacağım."
+        },
+        {
+          "key": "D",
+          "text": "Okulun tiyatro kulübündeki arkadaşlarıma yardım edeceğim."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sorudaki kazanım bilgileri doğrultusunda, 'müzisyen' kelimesinin kullanılması uygun bir seçenek olacaktır. Diğer seçenekler de okul etkinlikleriyle ilişkili kavramlara değinmekle birlikte, sorunun doğrudan cevabını vermemektedir.",
+      "confidence": 85,
+      "kazanim_code": "T.8.1.1",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Çevremizi geliştirmek için aşağıdakilerden hangisine en çok ihtiyacımız var?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sorumluluklarımızı yerine getirmek"
+        },
+        {
+          "key": "B",
+          "text": "Çevre konusunda iletişim kurmak"
+        },
+        {
+          "key": "C",
+          "text": "Çevreye gönüllü olarak katılmak"
+        },
+        {
+          "key": "D",
+          "text": "Çevreyi korumak için yüzde yüz çabalamak"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Çevremizi geliştirmek için en önemli adım, çevreye karşı sorumluluklarımızı yerine getirmektir. Bunun için çevreye saygılı davranmak, çevreyi korumak ve geliştirmek için çaba sarf etmek gerekir.",
+      "confidence": 85,
+      "kazanim_code": "T.8.1.2",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerin hangisinde soru anlamı vardır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bugün hava çok güzel."
+        },
+        {
+          "key": "B",
+          "text": "Yarın tatile gider miyiz?"
+        },
+        {
+          "key": "C",
+          "text": "Onlar sokakta oynuyorlar."
+        },
+        {
+          "key": "D",
+          "text": "Yemekten sonra dinleneceğiz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Soru cümleleri, konuşmacının dinleyiciye bir soru sorması sonucunda oluşur. Örnekteki 'Yarın tatile gider miyiz?' cümlesi soru anlamı taşımaktadır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.4.19",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi okul etkinlikleri arasında yer almaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Spor Karşılaşmaları"
+        },
+        {
+          "key": "B",
+          "text": "Müzik Dinletileri"
+        },
+        {
+          "key": "C",
+          "text": "Resim Sergileri"
+        },
+        {
+          "key": "D",
+          "text": "Yemek Tarifleri"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Okul etkinlikleri arasında spor karşılaşmaları, müzik dinletileri ve resim sergileri yer alır. Yemek tarifleri ise okul etkinlikleri arasında bulunmaz.",
+      "confidence": 85,
+      "kazanim_code": "T.8.2.3.4",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerden hangisinde tüm ögeleri belirtilmiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Köyümüze gittik."
+        },
+        {
+          "key": "B",
+          "text": "Dün akşam güzel bir film izledik."
+        },
+        {
+          "key": "C",
+          "text": "Sabah erken kalktım."
+        },
+        {
+          "key": "D",
+          "text": "Kardeşim okula gidiyor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cümlede özne (biz), yüklem (izledik), zarf (dün akşam) ve nesne (güzel bir film) yer almaktadır. Diğer seçeneklerde cümle ögelerinin tamamı bulunmamaktadır.",
+      "confidence": 85,
+      "kazanim_code": "T.8.4.18",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerin hangisinde yazım veya noktalama hatası yoktur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yağmur yağarken, güneş açtı."
+        },
+        {
+          "key": "B",
+          "text": "Ali okula, çok geç gitti."
+        },
+        {
+          "key": "C",
+          "text": "Ayşe'nin doğum günü, 10 Mayıs'tır."
+        },
+        {
+          "key": "D",
+          "text": "Güneş, öğlene doğru açacakmış."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A seçeneğindeki virgül hatası, B seçeneğindeki virgül hatası, D seçeneğindeki noktalama hatası vardır. Sadece C seçeneğindeki cümlede yazım ve noktalama kurallarına uygun bir kullanım görülmektedir.",
+      "confidence": 85,
+      "kazanim_code": "T.8.4.16",
+      "kazanim_subject": "Türkçe",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir üçgenin kenar uzunlukları 6 cm, 8 cm ve 10 cm'dir. Bu üçgenin en küçük açısının ölçüsü kaç derecedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30°"
+        },
+        {
+          "key": "B",
+          "text": "45°"
+        },
+        {
+          "key": "C",
+          "text": "60°"
+        },
+        {
+          "key": "D",
+          "text": "90°"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Üçgenin en küçük açısının ölçüsü, en büyük kenarın karşısındadır. Bu durumda en büyük kenar 10 cm olduğundan, en küçük açı 30° olacaktır.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.1.3",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir üçgenin iki kenarının uzunluğu 7 cm ve 5 cm ise, üçüncü kenarın uzunluğu kaç cm olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 cm"
+        },
+        {
+          "key": "B",
+          "text": "8 cm"
+        },
+        {
+          "key": "C",
+          "text": "12 cm"
+        },
+        {
+          "key": "D",
+          "text": "14 cm"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Üçgenin iki kenarının uzunluğunun toplamı, üçüncü kenarın uzunluğundan küçük olmalıdır. Yani 7 cm + 5 cm = 12 cm, üçüncü kenarın uzunluğu 12 cm'den küçük olmalıdır. Bu nedenle doğru cevap B seçeneğidir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.1.2",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki eşitsizliklerden hangisi sayı doğrusunda gösterildiğinde doğru bir gösterim olur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "x ≥ 5"
+        },
+        {
+          "key": "B",
+          "text": "-2 < t ≤ 3"
+        },
+        {
+          "key": "C",
+          "text": "a < 0"
+        },
+        {
+          "key": "D",
+          "text": "p > 2"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Birinci dereceden bir bilinmeyenli eşitsizlikleri sayı doğrusunda gösterirken, eşitsizliğin işareti ve yönü sayı doğrusu üzerinde doğru şekilde gösterilmelidir. Buna göre, -2 < t ≤ 3 eşitsizliği sayı doğrusu üzerinde doğru bir şekilde gösterilmiştir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.2.3.2",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki şekillerden hangisi, ötelenmiş şeklin görüntüsünü doğru olarak gösteriyor?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A)"
+        },
+        {
+          "key": "B",
+          "text": "B)"
+        },
+        {
+          "key": "C",
+          "text": "C)"
+        },
+        {
+          "key": "D",
+          "text": "D)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ötelemede, şekil üzerindeki her bir nokta aynı yönde hareket eder ve şekil ile görüntüsü eş olur. Şıklardaki şekillerden yalnızca C şıkkı bu durumu doğru olarak göstermektedir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.2.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir üçgende, kenarlardan herhangi birinin uzunluğu, diğer iki kenarın uzunluklarının toplamından küçük olmalıdır. Bu özellik aşağıdakilerden hangisiyle ifade edilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Açıortay"
+        },
+        {
+          "key": "B",
+          "text": "Kenarortay"
+        },
+        {
+          "key": "C",
+          "text": "Üçgen eşitsizliği"
+        },
+        {
+          "key": "D",
+          "text": "Yükseklik"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Üçgen eşitsizliği, bir üçgende herhangi bir kenarın uzunluğunun, diğer iki kenarın uzunluklarının toplamından küçük olması özelliğidir. Bu özellik üçgen oluşumunun temel koşullarından biridir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki üçgenlerden hangisinde kenarortay, açıortay ve yükseklik birlikte bulunur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Eşkenar üçgen"
+        },
+        {
+          "key": "B",
+          "text": "İkizkenar üçgen"
+        },
+        {
+          "key": "C",
+          "text": "Dik üçgen"
+        },
+        {
+          "key": "D",
+          "text": "Çeşitkenar üçgen"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eşkenar üçgende tüm kenarlar eşit olduğundan, her bir kenar üzerinde bir kenarortay, her bir açı üzerinde bir açıortay ve her bir köşeden bir yükseklik çıkar. Bu nedenle eşkenar üçgenlerde kenarortay, açıortay ve yükseklik birlikte bulunur.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.1.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki eşitsizliklerden hangisi en çok iki işlem gerektirmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3x - 2 ≤ 8"
+        },
+        {
+          "key": "B",
+          "text": "2x + 5 > -7"
+        },
+        {
+          "key": "C",
+          "text": "4x - 1 ≥ 15"
+        },
+        {
+          "key": "D",
+          "text": "5x + 3 < 18"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A şıkkındaki eşitsizlik 3x - 2 ≤ 8'i çözmek için en çok iki işlem (çıkarma ve toplama) gereklidir. Diğer şıklardaki eşitsizliklerin çözümü için daha fazla işlem adımı gerekmektedir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.2.3.3",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki grafikte, üretilen elektrik enerjisinin zaman ile değişimi gösterilmektedir. Buna göre, üretilen elektrik enerjisi ile geçen süre arasındaki doğrusal ilişkiyi en iyi ifade eden seçenek aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üretilen elektrik enerjisi, geçen süre ile doğru orantılı olarak artmaktadır."
+        },
+        {
+          "key": "B",
+          "text": "Üretilen elektrik enerjisi, geçen süre ile ters orantılı olarak artmaktadır."
+        },
+        {
+          "key": "C",
+          "text": "Üretilen elektrik enerjisi, geçen süre ile doğru orantılı olarak azalmaktadır."
+        },
+        {
+          "key": "D",
+          "text": "Üretilen elektrik enerjisi, geçen süre ile ters orantılı olarak azalmaktadır."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Grafikte, üretilen elektrik enerjisi ile geçen süre arasında doğrusal bir ilişki vardır. Grafiğin eğimi pozitif olduğu için, üretilen elektrik enerjisi geçen süre ile doğru orantılı olarak artmaktadır. Bu durumda, en uygun seçenek A'dır.",
+      "confidence": 85,
+      "kazanim_code": "M.8.2.2.5",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir fabrika, ürettiği her ürün için 50 TL kazanmaktadır. Aşağıdaki tablodan faydalanarak, üretilen ürün sayısı ile kazanılan tutar arasındaki ilişkiyi ifade eden denklemi bulunuz.",
+      "options": [
+        {
+          "key": "A",
+          "text": "y = 50x"
+        },
+        {
+          "key": "B",
+          "text": "y = 2x"
+        },
+        {
+          "key": "C",
+          "text": "y = 5x"
+        },
+        {
+          "key": "D",
+          "text": "y = 100x"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tabloda görüldüğü gibi, üretilen ürün sayısı (x) arttıkça kazanılan tutar (y) da doğrusal olarak artmaktadır. Bu durumda, kazanılan tutar (y) ile üretilen ürün sayısı (x) arasındaki ilişkiyi ifade eden denklem y = 50x'dir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.2.2.3",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi dik bir prizmanın temel elemanlarından biridir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yüzler"
+        },
+        {
+          "key": "B",
+          "text": "Köşeler"
+        },
+        {
+          "key": "C",
+          "text": "Ayrıtlar"
+        },
+        {
+          "key": "D",
+          "text": "Hepsi"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dik prizmanın temel elemanları yüzler, köşeler ve ayrıtlardır. Dolayısıyla doğru cevap D seçeneğidir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.4.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki doğal sayılardan hangisinin EBOB'u 5'tir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 ve 15"
+        },
+        {
+          "key": "B",
+          "text": "12 ve 18"
+        },
+        {
+          "key": "C",
+          "text": "20 ve 25"
+        },
+        {
+          "key": "D",
+          "text": "30 ve 35"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "İki doğal sayının EBOB'unu bulmak için, sayıların ortak bölenlerinin en büyüğünü bulmamız gerekir. 10 ve 15 sayılarının ortak bölenleri 1, 5 ve 10'dur. Bu sayıların en büyük ortak böleni 5'tir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.1.1.2",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir şirket, 2018-2022 yılları arasındaki aylık satış verilerini aşağıdaki çizgi grafiğinde gösteriyor. Buna göre, 2020 yılında Mayıs ayında yaşanan satış düşüşüne ilişkin en doğru yorum aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pandeminin etkisiyle Mayıs ayında satışlar düşmüştür."
+        },
+        {
+          "key": "B",
+          "text": "Mayıs ayındaki satış düşüşü, diğer aylara göre normaldir."
+        },
+        {
+          "key": "C",
+          "text": "Mayıs ayı satışlarındaki düşüş, diğer yıllarda da gözlenmiştir."
+        },
+        {
+          "key": "D",
+          "text": "Mayıs ayında ürün fiyatlarındaki artış satışları azaltmıştır."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verilen grafikten 2020 yılı Mayıs ayında satışların diğer aylara göre belirgin şekilde düştüğü görülmektedir. Bu düşüş, pandeminin etkisiyle açıklanabilir. Diğer seçeneklerdeki yorumlar grafikte gözlenemeyen veya doğrulanmayan durumları içermektedir.",
+      "confidence": 85,
+      "kazanim_code": "M.7.4.1.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki üçgenlerden hangisinin çizimi için iki kenar uzunluğu ve bu kenarlar arasındaki açı ölçüsü yeterlidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Üç kenar uzunluğu"
+        },
+        {
+          "key": "B",
+          "text": "Bir kenar uzunluğu ve iki açı ölçüsü"
+        },
+        {
+          "key": "C",
+          "text": "İki kenar uzunluğu ve bu kenarlar arasındaki açı ölçüsü"
+        },
+        {
+          "key": "D",
+          "text": "Üç açı ölçüsü"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Bir üçgenin çizilmesi için iki kenar uzunluğu ve bu kenarlar arasındaki açı ölçüsü yeterlidir. Diğer seçeneklerin de üçgeni çizmek için yeterli olduğu doğrudur ancak soru kökünde verilen koşula göre doğru cevap seçenek C'dir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.1.4",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Benzer üçgenlerin kenar uzunlukları arasındaki ilişki hakkında aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Benzer üçgenlerin karşılıklı kenar uzunlukları orantılıdır."
+        },
+        {
+          "key": "B",
+          "text": "Benzer üçgenlerin aynı köşelerindeki açılar eşittir."
+        },
+        {
+          "key": "C",
+          "text": "Benzer üçgenlerin karşılıklı kenar uzunlukları toplamları eşittir."
+        },
+        {
+          "key": "D",
+          "text": "Benzer üçgenlerin karşılıklı kenar uzunlukları oranı, benzerlik oranına eşittir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Benzer üçgenlerin karşılıklı kenar uzunlukları orantılıdır, karşılıklı kenar uzunlukları toplamları eşit değildir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.3.3.2",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir market, haftalık ürün satışlarına göre her gün en az 50 kilogram elma satması gerektiğini belirtmiştir. Buna göre, bir haftada en az kaç kilogram elma satması gerekir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "350 kilogram"
+        },
+        {
+          "key": "B",
+          "text": "300 kilogram"
+        },
+        {
+          "key": "C",
+          "text": "250 kilogram"
+        },
+        {
+          "key": "D",
+          "text": "200 kilogram"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bir haftada en az kaç kilogram elma satması gerektiğini bulmak için, günlük en az 50 kilogram elma satması gerektiği bilgisinden yola çıkarız. Bir haftada 7 gün olduğundan, 7 gün x 50 kilogram = 350 kilogram elma satması gerekir.",
+      "confidence": 85,
+      "kazanim_code": "M.8.2.3.1",
+      "kazanim_subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi, canlıların yaşam şartlarına uyum sağlayabilmek için geçirdiği değişikliklere örnek gösterilebilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bir kartalın dış görünüşünün, yavrusu ile aynı olması"
+        },
+        {
+          "key": "B",
+          "text": "Bir farenin, doğal yaşam alanına göre renk değiştirmesi"
+        },
+        {
+          "key": "C",
+          "text": "Bir ayının, kışın kış uykusuna yatması"
+        },
+        {
+          "key": "D",
+          "text": "Bir balığın, yaz aylarında daha hızlı yüzmesi"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Canlıların yaşam şartlarına uyum sağlayabilmek için geçirdikleri değişikliklerden biri, çevredeki renklere uyum sağlayarak koruyucu renk değişimidir. Bir farenin doğal yaşam alanına göre renk değiştirmesi, modifikasyon örneklerinden biridir.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.3.2",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi mutasyon sonucu meydana gelen değişikliklerden biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Proteinlerin yapısında değişiklik olması"
+        },
+        {
+          "key": "B",
+          "text": "Hücre bölünme hızının artması"
+        },
+        {
+          "key": "C",
+          "text": "Kromozom sayısının değişmesi"
+        },
+        {
+          "key": "D",
+          "text": "Organizmanın normal işlevlerini devam ettirmesi"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Mutasyonlar sonucu hücre ve organizma yapısında değişiklikler meydana gelebilir. Bu değişiklikler organizmanın normal işlevlerini aksatabilir. Seçenek D'de verilen 'organizmanın normal işlevlerini devam ettirmesi' mutasyon sonucu beklenmeyen bir durumdur.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.3.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Güç santrallerinde elektrik enerjisi üretiminde kullanılan kaynaklardan hangisi rüzgâr ve jeotermal enerjiye dayanır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Termik santral"
+        },
+        {
+          "key": "B",
+          "text": "Hidroelektrik santral"
+        },
+        {
+          "key": "C",
+          "text": "Nükleer santral"
+        },
+        {
+          "key": "D",
+          "text": "Yenilenebilir enerji santralleri"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Termik santraller kömür, doğalgaz gibi fosil yakıtlara; hidroelektrik santraller su enerjisine; nükleer santraller nükleer enerjiye dayalı olarak elektrik üretirler. Yenilenebilir enerji santralleri ise rüzgâr ve jeotermal enerjiden yararlanırlar.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi, nötr cisim için doğru bir açıklama değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nötr cisimlerde pozitif ve negatif yük miktarları eşittir."
+        },
+        {
+          "key": "B",
+          "text": "Nötr cisim, yüksüz cisim anlamına gelmez."
+        },
+        {
+          "key": "C",
+          "text": "Nötr cisimler, elektroskop ile yük ölçümünde kullanılmaz."
+        },
+        {
+          "key": "D",
+          "text": "Nötr cisimlerde toplam yük miktarı sıfırdır."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Nötr cisimler, elektroskop ile yük ölçümünde kullanılır. Doğru cevap C seçeneğidir.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.2.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi, kaynakların tasarruflu kullanılmaması durumunda gelecekte karşılaşılabilecek bir problem değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Su kaynaklarının tükenmesi"
+        },
+        {
+          "key": "B",
+          "text": "Enerji kaynaklarının azalması"
+        },
+        {
+          "key": "C",
+          "text": "Geri dönüşüm malzemelerinin yetersiz kalması"
+        },
+        {
+          "key": "D",
+          "text": "Tarım alanlarının verimli kullanılması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Kaynakların tasarruflu kullanılmaması durumunda, su kaynaklarının tükenmesi, enerji kaynaklarının azalması ve geri dönüşüm malzemelerinin yetersiz kalması gibi problemlerle karşılaşılabilir. Ancak tarım alanlarının verimli kullanılması, kaynakların tasarruflu kullanılmaması durumunda ortaya çıkacak bir problem değildir.",
+      "confidence": 85,
+      "kazanim_code": "F.8.6.4.5",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "DNA'nın kendini eşlemesi sırasında aşağıdakilerden hangisi gerçekleşir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DNA'daki baz çiftleri birbirinden ayrılır."
+        },
+        {
+          "key": "B",
+          "text": "DNA'daki riboz şekeri yeni nükleotitlerle değişir."
+        },
+        {
+          "key": "C",
+          "text": "DNA'daki fosfat grupları yeni fosfat gruplarıyla bağlanır."
+        },
+        {
+          "key": "D",
+          "text": "DNA'daki nükleotitler yenileri ile eşleşir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "DNA'nın kendini eşlemesi sırasında, DNA'daki nükleotitler yenileri ile eşleşir. Böylece DNA'nın yapısı korunarak, yeni eşlenmiş moleküller oluşur.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.1.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Topraklamanın günlük yaşam ve teknolojideki uygulamaları dikkate alındığında, aşağıdakilerden hangisi can ve mal güvenliği açısından topraklamanın önemini vurgular?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evlerdeki elektrik panolarında topraklama yapılması sayesinde elektrik kaçakları önlenir."
+        },
+        {
+          "key": "B",
+          "text": "Topraklama sayesinde elektrikli cihazların arızalanması durumunda can ve mal kaybı önlenir."
+        },
+        {
+          "key": "C",
+          "text": "Yıldırımların oluşturduğu hasarların önlenmesi için yapılar ve elektrik sistemleri topraklanır."
+        },
+        {
+          "key": "D",
+          "text": "Topraklama, demir köprü ve binaların yer altına bağlanmasıyla sağlanır."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Topraklama sayesinde, yıldırımların oluşturduğu hasarlar önlenebilir. Böylece can ve mal güvenliği sağlanmış olur. Diğer seçenekler de topraklamanın önemini vurgulasa da can ve mal güvenliğine doğrudan etkisi olmayan hususlardır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.2.2",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi DNA'nın temel yapı taşıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Protein"
+        },
+        {
+          "key": "B",
+          "text": "Lipid"
+        },
+        {
+          "key": "C",
+          "text": "Karbonhidrat"
+        },
+        {
+          "key": "D",
+          "text": "Nükleotid"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "DNA'nın temel yapı taşı nükleotidlerdir. Nükleotidler, şeker, fosfat ve azotlu baz olmak üzere üç temel bileşenden oluşur.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.1.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir güneş paneli, güneş ışığını elektrik enerjisine dönüştürmektedir. Güneş panelini kullanarak çeşitli uygulamalar yapmak mümkündür. Buna göre, aşağıdakilerden hangisi güneş panelinin elektrik enerjisini başka bir enerjiye dönüştürmesine örnek oluşturmaz?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güneş paneli ile çalıştırılan bir elektrikli motor, elektrik enerjisini hareket enerjisine dönüştürür."
+        },
+        {
+          "key": "B",
+          "text": "Güneş paneli ile şarj edilen bir pil, elektrik enerjisini kimyasal enerjiye dönüştürür."
+        },
+        {
+          "key": "C",
+          "text": "Güneş paneli ile çalıştırılan bir ampul, elektrik enerjisini ışık enerjisine dönüştürür."
+        },
+        {
+          "key": "D",
+          "text": "Güneş paneli ile ısınan bir su ısıtıcısı, elektrik enerjisini ısı enerjisine dönüştürür."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Güneş panelleri, güneş ışığını elektrik enerjisine dönüştürmektedir. Elektrik enerjisinin ışık, ısı veya hareket enerjisine dönüşümüne örnekler verilmiştir. Ancık seçenekteki su ısıtıcısı, elektrik enerjisini ısı enerjisine dönüştürmez. Su ısıtıcısı, güneş ışığının ısı enerjisine dönüştürülmesine örnek oluşturur.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.2",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Elektrik enerjisinin diğer enerji türlerine dönüşümü ile ilgili aşağıdaki örneklerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Güvenlik açısından elektrik sigortası kullanılır."
+        },
+        {
+          "key": "B",
+          "text": "Robotların çalışması elektrik enerjisinin ışık enerjisine dönüşümüne dayanır."
+        },
+        {
+          "key": "C",
+          "text": "Elektrik enerjisi, ısı enerjisine dönüşerek elektrikli ısıtıcılarda kullanılır."
+        },
+        {
+          "key": "D",
+          "text": "Elektrik enerjisi, hareket enerjisine dönüşerek robotların hareketini sağlar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Robotların çalışması, elektrik enerjisinin hareket enerjisine dönüşümüne dayanır. Elektrik enerjisi, robotlarda hareket enerjisine dönüşür. Seçeneklerden B şıkkı yanlıştır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Elektriklenme çeşitlerinden biri olan sürtünmeyle elektriklenme, aşağıdaki maddelerden hangisinde meydana gelmez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Plastik kalemle kağıt ovuşturulması"
+        },
+        {
+          "key": "B",
+          "text": "Plastik şişeye parşömen kağıdı yapıştırılması"
+        },
+        {
+          "key": "C",
+          "text": "Cam çubuk ile ipek kumaş ovuşturulması"
+        },
+        {
+          "key": "D",
+          "text": "Lastik balon şişirilip duvardan uzaklaştırılması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sürtünmeyle elektriklenme, iki maddenin birbirleriyle temas etmesi ve sonrasında ayrılması sonucu gerçekleşir. Bu nedenle plastik şişeye parşömen kağıdı yapıştırılmasında elektriklenme meydana gelmez.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.1.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Güç santrallerinin en önemli avantajı aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yenilenebilir enerji kaynaklarından faydalanması"
+        },
+        {
+          "key": "B",
+          "text": "Elektrik üretiminde düşük maliyet sağlaması"
+        },
+        {
+          "key": "C",
+          "text": "Çevreye zarar vermemesi"
+        },
+        {
+          "key": "D",
+          "text": "Devamlı ve güvenilir enerji üretmesi"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Güç santrallerinin en önemli avantajı, devamlı ve güvenilir enerji üretebilmesidir. Diğer seçenekler de önemli olmakla birlikte, elektrik üretimindeki güvenilirlik ve sürekliliğin sağlanması en kritik avantajdır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.4",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki durumlardan hangisinde iklim ve hava olayları arasındaki fark gözlemlenmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yağışlı bir günde yağmur yağması."
+        },
+        {
+          "key": "B",
+          "text": "Yazın sıcaklık değerlerinin yüksek olması."
+        },
+        {
+          "key": "C",
+          "text": "Kışın kar yağması."
+        },
+        {
+          "key": "D",
+          "text": "Mevsimsel sıcaklık değişimlerinin gözlenmesi."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "İklim, uzun yıllar boyunca bölgedeki hava olaylarının ortalamasıdır. Hava olayları ise kısa süreli gözlemlenen değişkenlerdir. Mevsimsel sıcaklık değişimleri uzun yıllara dayanan iklimin bir parçası olup, hava olaylarından farklıdır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.1.2.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Mevsimlerin oluşumunda en önemli etken aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dünyanın yörüngedeki hareketi"
+        },
+        {
+          "key": "B",
+          "text": "Dünyanın eksen eğikliği"
+        },
+        {
+          "key": "C",
+          "text": "Güneş'in parlaklığı"
+        },
+        {
+          "key": "D",
+          "text": "Dünyanın Güneş'e olan uzaklığı"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dünyanın eksen eğikliği, Güneş ışınlarının dünyaya geliş açısını değiştirerek mevsimlerin oluşmasına neden olur. Diğer seçenekler mevsimlerin oluşumunda etkili değildir.",
+      "confidence": 85,
+      "kazanim_code": "F.8.1.1.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Mutasyon ve modifikasyon arasındaki en temel fark nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mutasyon kalıtsal, modifikasyon kalıtsal değildir."
+        },
+        {
+          "key": "B",
+          "text": "Mutasyon hücredeki DNA'yı etkiler, modifikasyon hücredeki proteinleri etkiler."
+        },
+        {
+          "key": "C",
+          "text": "Mutasyon sonucu kalıtsal özellikler değişir, modifikasyon sonucu kalıtsal özellikler değişmez."
+        },
+        {
+          "key": "D",
+          "text": "Mutasyon sonucu organizmanın dış görünüşü değişir, modifikasyon sonucu organizmanın dış görünüşü değişmez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Mutasyon sonucu organizmanın kalıtsal özellikleri değişir ve bu değişiklik sonraki nesillere aktarılır. Modifikasyon ise organizmanın dış görünüşünü etkiler ancak kalıtsal özellikleri değiştirmez.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.3.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Genetik mühendisliği ve biyoteknoloji alanlarında aşağıdakilerden hangisi doğru bir uygulama örneği değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genetiği değiştirilmiş ürünlerin üretilmesi"
+        },
+        {
+          "key": "B",
+          "text": "Bakteri ve virüslerin hastalık tedavisinde kullanılması"
+        },
+        {
+          "key": "C",
+          "text": "İnsan klonlama çalışmalarının yapılması"
+        },
+        {
+          "key": "D",
+          "text": "Genetik hastalıkların tanı ve tedavisinde kullanılması"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "İnsan klonlama çalışmaları etik nedenlerden dolayı yasaktır. Genetik mühendisliği ve biyoteknoloji alanlarındaki diğer örnekler ise doğru uygulamalardır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.5.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Evde elektrik enerjisi kullanımında tasarruflu davranmak için hangi yöntemi uygulamanız daha doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tüm ışıkları ve elektronik cihazları sürekli açık tutmak"
+        },
+        {
+          "key": "B",
+          "text": "Kullanılmayan odalardaki ışıkları kapatmak ve cihazları bekleme moduna almak"
+        },
+        {
+          "key": "C",
+          "text": "Günün belirli saatlerinde sadece temel ihtiyaçlar için elektrik kullanmak"
+        },
+        {
+          "key": "D",
+          "text": "Ev içi ısınma için daha fazla elektrik kullanmak"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tasarruflu elektrik kullanımı için kullanılmayan odalardaki ışıkların kapatılması ve cihazların bekleme moduna alınması doğru bir yöntemdir. Bu, gereksiz elektrik tüketimini azaltacaktır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.6.4.1",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Gelecekte, genetik mühendisliği ve biyoteknoloji alanlarında hangi uygulama daha yaygın olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Genetik hastalıkların tedavisi"
+        },
+        {
+          "key": "B",
+          "text": "Uzay araştırmaları için yeni malzemeler üretimi"
+        },
+        {
+          "key": "C",
+          "text": "Çevre kirliliğini azaltacak mikroorganizma üretimi"
+        },
+        {
+          "key": "D",
+          "text": "Süper güçlere sahip insanların yetiştirilmesi"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gelecekte genetik mühendisliği ve biyoteknoloji alanlarında genetik hastalıkların tedavisi daha yaygın olabilir. Çünkü hastalıkların genetik nedenleri daha iyi anlaşılacak ve gen tedavisi gibi yöntemler gelişebilecektir.",
+      "confidence": 85,
+      "kazanim_code": "F.8.2.5.3",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının ülke ekonomisi açısından en önemli etkisi nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Elektrik faturalarının azalması"
+        },
+        {
+          "key": "B",
+          "text": "Elektrik üretiminin artması"
+        },
+        {
+          "key": "C",
+          "text": "Enerji verimliliğini artırması"
+        },
+        {
+          "key": "D",
+          "text": "Yenilenebilir enerji kaynaklarının kullanımını arttırması"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elektrik enerjisinin bilinçli ve tasarruflu kullanılması, ülke ekonomisi için en önemli etkisi elektrik faturalarının azalmasıdır. Böylece hem bireyler hem de devlet bütçesi için önemli tasarruf sağlanır.",
+      "confidence": 85,
+      "kazanim_code": "F.8.7.3.5",
+      "kazanim_subject": "Fen Bilimleri",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Millî Mücadele döneminde Atatürk'ün gerçekleştirdiği önemli etkinliklerden biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kurtuluş Savaşı'nın başlatılması"
+        },
+        {
+          "key": "B",
+          "text": "Maarif Kongresi'nin toplanması"
+        },
+        {
+          "key": "C",
+          "text": "Yeni Türkiye Cumhuriyeti'nin kurulması"
+        },
+        {
+          "key": "D",
+          "text": "Lozan Antlaşması'nın imzalanması"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Millî Mücadele'nin zor döneminde Atatürk, millî ve çağdaş eğitime önem vermek amacıyla 1921 yılında Maarif Kongresi'ni gerçekleştirmiştir.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.3",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Millî Mücadele Dönemi'nde Batı Cephesi'nde meydana gelen önemli bir gelişme aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Büyük Taarruz'un başlatılması"
+        },
+        {
+          "key": "B",
+          "text": "Sakarya Meydan Muharebesi'nin yapılması"
+        },
+        {
+          "key": "C",
+          "text": "İzmir'in işgalinin gerçekleşmesi"
+        },
+        {
+          "key": "D",
+          "text": "Kuvâ-yı Milliye'nin örgütlenmesi"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Millî Mücadele Dönemi'nde Batı Cephesi'nde meydana gelen en önemli gelişme, Atatürk'ün 26 Ağustos 1922'de başlattığı Büyük Taarruz'dur. Bu taarruz sonucunda 30 Ağustos 1922'de Başkomutanlık Meydan Muharebesi kazanılarak Yunan ordusu püskürtülmüş ve İzmir'in kurtuluşu sağlanmıştır.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.2",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Türk milletinin millî birlik, beraberlik ve dayanışmasının bir örneği olarak Tekalif-i Millîye Emirleri doğrultusunda yapılan uygulamalardan biri aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Köy Enstitülerinin kurulması"
+        },
+        {
+          "key": "B",
+          "text": "Türk Tarih Kurumu'nun kurulması"
+        },
+        {
+          "key": "C",
+          "text": "Büyük Millet Meclisi'nin açılması"
+        },
+        {
+          "key": "D",
+          "text": "Kadınlara seçme ve seçilme hakkının verilmesi"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tekalif-i Millîye Emirleri, Kurtuluş Savaşı sırasında millî dayanışma ve güç birliğinin sağlanması amacıyla çıkarılan emirlerdir. Bu emirler doğrultusunda Büyük Millet Meclisi açılmış ve Kurtuluş Savaşı'nın yönetimi meclise geçmiştir.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.4",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Lozan Antlaşması'nın Türkiye Cumhuriyeti'ne sağladığı en önemli kazanım aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Boğazların uluslararası kontrole tabi olması"
+        },
+        {
+          "key": "B",
+          "text": "Millî sınırların belirlenmesi ve Misak-ı Millî hedeflerinin gerçekleşmesi"
+        },
+        {
+          "key": "C",
+          "text": "Kapitülasyonların kaldırılması ve ülke egemenliğinin sağlanması"
+        },
+        {
+          "key": "D",
+          "text": "Anadolu'daki azınlık hakları ve yabancı okulların denetim altına alınması"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Lozan Antlaşması'yla Türkiye Cumhuriyeti, ülke egemenliğini sağlamış, kapitülasyonlar kaldırılmış ve Türk devletinin bağımsızlığı güvence altına alınmıştır. Bu da Türkiye'nin en önemli kazanımlarından biridir.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.6",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Sakarya Meydan Savaşı'nın kazanılmasında ve Büyük Taarruz'un başarılı olmasında Mustafa Kemal'in rolü nedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mustafa Kemal, Sakarya Meydan Savaşı'nda düşmanı geri püskürtmüş ve Büyük Taarruz'un başarılı olmasını sağlamıştır."
+        },
+        {
+          "key": "B",
+          "text": "Mustafa Kemal, Sakarya Meydan Savaşı'nda komutanlık yapmamış, ancak Büyük Taarruz'un başarılı olmasına katkı sağlamıştır."
+        },
+        {
+          "key": "C",
+          "text": "Mustafa Kemal, Sakarya Meydan Savaşı'nda ve Büyük Taarruz'da savaşa katılmamıştır."
+        },
+        {
+          "key": "D",
+          "text": "Mustafa Kemal, Sakarya Meydan Savaşı'nda ve Büyük Taarruz'da yalnızca komuta ve planlama görevlerinde bulunmuştur."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Mustafa Kemal, Sakarya Meydan Savaşı'nda düşmanı geri püskürtmüş ve Büyük Taarruz'un başarılı olmasını sağlamıştır. Dolayısıyla Sakarya Meydan Savaşı'nın kazanılmasında ve Büyük Taarruz'un başarılı olmasında Mustafa Kemal'in önemli bir rolü vardır.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.5",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Millî Mücadele Dönemi'nin sanat ve edebiyat ürünlerine yansıyan önemli olaylarından biri, Kurtuluş Savaşı'nın ilk yıllarında Ankara'da yayımlanan Hakimiyet-i Milliye gazetesindeki yazılardır. Bu yazılar aşağıdakilerden hangisini yansıtmaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mustafa Kemal Paşa'nın askerî zaferlerini"
+        },
+        {
+          "key": "B",
+          "text": "Osmanlı Devleti'nin toprak kayıplarını"
+        },
+        {
+          "key": "C",
+          "text": "Milli Mücadele ruhunu ve bağımsızlık arzusunu"
+        },
+        {
+          "key": "D",
+          "text": "İşgal güçleriyle yapılan müzakereleri"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hakimiyet-i Milliye gazetesi, Millî Mücadele döneminde Ankara'da yayımlanmış ve Milli Mücadele ruhunu, bağımsızlık arzusunu yansıtan yazılara yer vermiştir. Bu nedenle doğru cevap C seçeneğidir.",
+      "confidence": 85,
+      "kazanim_code": "İTA.8.3.7",
+      "kazanim_subject": "İnkılap Tarihi ve Atatürkçülük",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hz. Musa'nın (a.s.) doğumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hz. Musa, Firavun'un emri üzerine öldürülmek istenen erkek çocuklar arasından kurtulmuştur."
+        },
+        {
+          "key": "B",
+          "text": "Hz. Musa, Nil Nehri'ne bırakılarak kurtarılmıştır."
+        },
+        {
+          "key": "C",
+          "text": "Hz. Musa, ailesinin özel bakımı sayesinde sağ kalmıştır."
+        },
+        {
+          "key": "D",
+          "text": "Hz. Musa, Firavun'un sarayında büyümüştür."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hz. Musa, Firavun'un emri üzerine öldürülmek istenen erkek çocuklar arasından annesi tarafından Nil Nehri'ne bırakılarak kurtarılmıştır.",
+      "confidence": 85,
+      "kazanim_code": "8.1.5",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) toplumsal hayattaki örnek davranışlarına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Adil ve eşitlikçi bir toplum oluşturma çabası göstermiştir."
+        },
+        {
+          "key": "B",
+          "text": "Kişisel çıkarlarından ziyade toplumun yararını gözetmiştir."
+        },
+        {
+          "key": "C",
+          "text": "İslam dinini öğrenmek ve yaşamak için çaba sarf etmiştir."
+        },
+        {
+          "key": "D",
+          "text": "Toplumda meydana gelen sorunları kendi çıkarları için kullanmıştır."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed (s.a.v.), toplumun yararını kendi çıkarlarından üstün tutmuş, adil ve eşitlikçi bir toplum oluşturmaya çalışmıştır. İslam dininin öğrenilmesi ve yaşanması için çaba göstermiştir. Dolayısıyla toplumda meydana gelen sorunları kendi çıkarları için kullanmamıştır.",
+      "confidence": 85,
+      "kazanim_code": "8.4.7",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Zor",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdakilerden hangisi kader ile ilişkilendirilen kavramlardan biri değildir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ecel"
+        },
+        {
+          "key": "B",
+          "text": "Ömür"
+        },
+        {
+          "key": "C",
+          "text": "Rızık"
+        },
+        {
+          "key": "D",
+          "text": "Başarı"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Kader kavramı, ecel, ömür ve rızık gibi kavramlarla ilişkilendirilir. Ancak başarı kavramı doğrudan kadere bağlı değildir. Başarı, kişinin çabası ve becerisi ile de ilişkilidir.",
+      "confidence": 85,
+      "kazanim_code": "8.1.3",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) aşağıdaki söz ve davranışlarından hangisi insanları iyiye ve güzele yönlendirir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kendisine hakaret eden kişiye karşı kızarak onu cezalandırması"
+        },
+        {
+          "key": "B",
+          "text": "Sadece yakın arkadaşlarıyla ilgilenmesi ve diğer insanları umursamaması"
+        },
+        {
+          "key": "C",
+          "text": "İnsanlara karşı hoşgörülü ve anlayışlı olması"
+        },
+        {
+          "key": "D",
+          "text": "Dünya hayatına aşırı bağlanarak ahiret hayatını ihmal etmesi"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hz. Muhammed (s.a.v.), insanlara karşı hoşgörülü ve anlayışlı davranışlarıyla onları iyiye ve güzele yönlendirmiştir. Bu tür hikmetli söz ve davranışları insanları olumlu yönde etkilemiştir.",
+      "confidence": 85,
+      "kazanim_code": "8.4.8",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) aşağıdaki davranışlarından hangisi onun merhametli ve affedici oluşunu en iyi şekilde yansıtır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İblis'e lânet etmesi"
+        },
+        {
+          "key": "B",
+          "text": "Uhud Savaşı'nda yaralanması"
+        },
+        {
+          "key": "C",
+          "text": "Medine'de Müslüman olmayanlarla iyi ilişkiler kurması"
+        },
+        {
+          "key": "D",
+          "text": "Bedir Savaşı'nda esir alınan düşmanlarını serbest bırakması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed, Bedir Savaşı'nda esir aldığı düşmanlarını serbest bırakarak onlara merhamet ve affedicilik göstermiştir. Bu davranış, onun merhametli ve affedici oluşunu en iyi şekilde yansıtmaktadır.",
+      "confidence": 85,
+      "kazanim_code": "8.4.2",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hz. Muhammed'in (s.a.v.) hakkı gözetmedeki hassasiyetine en iyi örnek aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Veda Hutbesi'nde bütün insanların eşitliğini vurgulaması"
+        },
+        {
+          "key": "B",
+          "text": "Medine Anayasası'nda tüm vatandaşların haklarını koruması"
+        },
+        {
+          "key": "C",
+          "text": "Mekke'nin fethinde savaşmayan insanlara zarar vermemesi"
+        },
+        {
+          "key": "D",
+          "text": "Ganimet dağıtımında adil davranması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed (s.a.v.), savaş sonrası ganimet dağıtımında son derece adil ve hassas davranmıştır. Hiçbir grubu ayrıcalıklı tutmamış, tüm insanların haklarını gözetmiştir.",
+      "confidence": 85,
+      "kazanim_code": "8.4.5",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hz. Muhammed (s.a.v.), insanlara verdiği değeri aşağıdaki örneklerden hangisiyle en iyi şekilde göstermiştir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Müslüman olmayanların haklarını gözetmesi"
+        },
+        {
+          "key": "B",
+          "text": "Kadınların toplumsal statüsünü yükseltmesi"
+        },
+        {
+          "key": "C",
+          "text": "Köleliği tamamen ortadan kaldırması"
+        },
+        {
+          "key": "D",
+          "text": "Farklı dine mensup kişilerle barış içinde yaşaması"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hz. Muhammed (s.a.v.), Müslüman olmayanların haklarını gözetmiş, kadınların toplumsal statüsünü yükseltmiş ve köleliği kaldırmaya çalışmıştır. Ancak, farklı dine mensup kişilerle barış içinde yaşaması, onun insanlara verdiği değeri en iyi şekilde gösteren örnektir.",
+      "confidence": 85,
+      "kazanim_code": "8.4.6",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Orta",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "İnsan, iradesi ve sorumluluğu ile kader arasındaki ilişki hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İnsan, her yaptığının sorumluluğunu taşımaz, bunlar kaderin bir parçasıdır."
+        },
+        {
+          "key": "B",
+          "text": "İnsan, iradesi ile kader arasında bir bağlantı yoktur, her şey önceden belirlenmiştir."
+        },
+        {
+          "key": "C",
+          "text": "İnsan, iradesini kullanarak kaderini değiştirebilir ve sorumluluğunu taşır."
+        },
+        {
+          "key": "D",
+          "text": "İnsan, ilmi ile kader arasında bir ilişki kuramaz, bu konularda bilgi sahibi olamaz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "İslam inancına göre insan, iradesi ve sorumluluğu ile kaderini etkileyebilir. İnsan, iradesini kullanarak kaderini değiştirebilir ve yaptıklarının sorumluluğunu taşır.",
+      "confidence": 85,
+      "kazanim_code": "8.1.2",
+      "kazanim_subject": "Din Kültürü ve Ahlak Bilgisi",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Which of the following words is NOT related to playing games?",
+      "options": [
+        {
+          "key": "A",
+          "text": "dice"
+        },
+        {
+          "key": "B",
+          "text": "chess"
+        },
+        {
+          "key": "C",
+          "text": "book"
+        },
+        {
+          "key": "D",
+          "text": "puzzle"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The word 'book' is not related to playing games, unlike the other options which are all associated with various games and activities.",
+      "confidence": 85,
+      "kazanim_code": "V4.4",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Okulda düzenlenen bir müzik etkinliğine katılmak isteyen bir öğrenci, aşağıdakilerden hangisini yapmalıdır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Etkinliğe kayıt olmak için müdürlüğe başvuru yapar."
+        },
+        {
+          "key": "B",
+          "text": "Öğretmeniyle görüşüp katılmak istediğini bildirir."
+        },
+        {
+          "key": "C",
+          "text": "Okul kulübüne başvurarak kayıt olur."
+        },
+        {
+          "key": "D",
+          "text": "Sınıf arkadaşlarıyla anlaşıp katılımlarını sağlar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Okuldaki müzik etkinliğine katılmak isteyen öğrencinin yapması gereken ilk adım, öğretmeniyle görüşerek katılmak istediğini bildirmektir. Böylece öğretmen, öğrencinin katılımını sağlayabilir.",
+      "confidence": 85,
+      "kazanim_code": "ENG.8.1.S2",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Hangi seçenekte öğrencilerin 'okul hayatı ve eğitim' konusundaki ön bilgilerini hatırlama sürecine yönelik bir ifade yer almaktadır?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrencilere kısa bir film sahnesi izletilmiştir."
+        },
+        {
+          "key": "B",
+          "text": "Öğrencilerden konuyla ilgili araştırma yapmaları istenmiştir."
+        },
+        {
+          "key": "C",
+          "text": "Öğrenciler konu hakkında sınıf içi tartışma yapmışlardır."
+        },
+        {
+          "key": "D",
+          "text": "Öğrencilere konu ile ilgili ödevler verilmiştir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Verilen kazanım açıklamasına göre, öğrencilerin 'okul hayatı ve eğitim' konusundaki ön bilgilerini hatırlamaları için öğretmen tarafından kısa bir film sahnesi izletilmiştir.",
+      "confidence": 85,
+      "kazanim_code": "ENG8.1.L1",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Aşağıdaki cümlelerden hangisi kişisel deneyim, düşünce ve duyguları en iyi şekilde ifade etmektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dün okula gittiğimde çok keyifliydi."
+        },
+        {
+          "key": "B",
+          "text": "Matematik dersinde öğretmenimiz bize yeni konuları anlattı."
+        },
+        {
+          "key": "C",
+          "text": "Sevdiğim oyunu oynayarak vakit geçiriyorum."
+        },
+        {
+          "key": "D",
+          "text": "Yağmurlu havalarda dışarı çıkmayı sevmem."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cümle kişisel deneyim, düşünce ve duyguları en iyi şekilde ifade etmektedir. Diğer seçenekler genel bilgi veya tercihler içermektedir.",
+      "confidence": 85,
+      "kazanim_code": "ENG.8.1.L4.a",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Bir öğretmen sınıfta öğrencilerin çift olarak çalışmasını istemektedir. Çalışmadan sonra öğretmen her kelimeyi tüm sınıfla birlikte inceler ve öğrencilerin kelimenin anlamını anlamak için buldukları ipuçlarını dinler. Bu durumda öğrencilerden beklenen en önemli davranış aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kelimelerin anlamını sözlükten bulmak"
+        },
+        {
+          "key": "B",
+          "text": "Kelimeleri ezberlemeye çalışmak"
+        },
+        {
+          "key": "C",
+          "text": "Kelimelerin anlamını tahmin etmeye çalışmak"
+        },
+        {
+          "key": "D",
+          "text": "Kelimelerin telaffuzunu doğru yapmak"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Öğretmen öğrencilerin kelimelerin anlamını tahmin etmelerini istemektedir. Dolayısıyla öğrencilerden beklenen en önemli davranış, kelimelerin anlamını tahmin etmeye çalışmaktır.",
+      "confidence": 85,
+      "kazanim_code": "SELS3.1",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Öğrencilerin sınıfa girerken rahat ve hazır hissetmesi için en uygun etkinlik hangisi olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Öğrencilerin derse katılımını sağlayacak akademik bir tartışma"
+        },
+        {
+          "key": "B",
+          "text": "Öğrencilerin birbirleriyle tanışmasını sağlayacak bir oyun"
+        },
+        {
+          "key": "C",
+          "text": "Öğrencilerin konuya odaklanmasını sağlayacak bir sunum"
+        },
+        {
+          "key": "D",
+          "text": "Öğrencilerin derse hazırlıklı gelmesini sağlayacak bir ödev"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sınıfa girmeden önce öğrencilerin birbirleriyle tanışmasını ve rahatlamasını sağlayacak eğlenceli bir etkinlik, öğrencileri derse hazır ve pozitif bir ruh haliyle başlamasını sağlayacaktır.",
+      "confidence": 85,
+      "kazanim_code": "SELS2.1",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "I did my homework on time this week. One thing I want to improve next time is to ______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "complete my homework earlier"
+        },
+        {
+          "key": "B",
+          "text": "ask my teacher for help"
+        },
+        {
+          "key": "C",
+          "text": "work on my reading comprehension"
+        },
+        {
+          "key": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The question is asking about one thing the student wants to improve on for next time. The correct answer is D, as it covers all the important aspects - completing homework earlier, asking the teacher for help, and working on reading comprehension.",
+      "confidence": 85,
+      "kazanim_code": null,
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Which of the following sentences best reflects the current content in an individualized, age-appropriate and level-appropriate way?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I like playing basketball with my friends on the weekends."
+        },
+        {
+          "key": "B",
+          "text": "The history of our country is fascinating and worth learning about."
+        },
+        {
+          "key": "C",
+          "text": "Applying sunscreen is important to protect our skin from the harmful UV rays."
+        },
+        {
+          "key": "D",
+          "text": "My favorite subject at school is mathematics because I find it challenging and rewarding."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The given statement reflects the student's personal preference and internalization of the current content in an individualized, age-appropriate and level-appropriate way.",
+      "confidence": 85,
+      "kazanim_code": "ENG.8.1.L3.h",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    },
+    {
+      "stem": "Okul hayatınızda hangi etkinliklere katıldınız?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Müzik, drama, spor etkinliklerine katıldım."
+        },
+        {
+          "key": "B",
+          "text": "Okul bahçesini geliştirmek için etkinliklere katıldım."
+        },
+        {
+          "key": "C",
+          "text": "Milli günleri ve kutlamaları organize ettim."
+        },
+        {
+          "key": "D",
+          "text": "Hiçbir etkinliğe katılmadım."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Soru kökünde, öğrencilerin okul hayatlarında katılacakları etkinlikler belirtilmiştir. Doğru cevap A seçeneğidir, çünkü müzik, drama ve spor etkinlikleri okul hayatının bir parçasıdır.",
+      "confidence": 85,
+      "kazanim_code": "ENG.8.1.W1",
+      "kazanim_subject": "English",
+      "difficulty_level": "Kolay",
+      "topic_frequency": 5.0,
+      "generated_by": "MILK",
+      "stamp": "MILK"
+    }
+  ],
+  "statistics": {
+    "total_requested": 90,
+    "generated_count": 71,
+    "by_subject": {
+      "Türkçe": 14,
+      "Matematik": 15,
+      "Fen Bilimleri": 19,
+      "İnkılap Tarihi ve Atatürkçülük": 6,
+      "Din Kültürü ve Ahlak Bilgisi": 8,
+      "English": 9
+    },
+    "by_difficulty": {
+      "Kolay": 53,
+      "Orta": 13,
+      "Zor": 5
+    },
+    "by_frequency": {
+      "high": 0,
+      "medium": 71,
+      "low": 0
+    },
+    "average_confidence": 85.0
+  },
+  "generation_date": "2024-11-14",
+  "generator_version": "MILK-1.0"
+}

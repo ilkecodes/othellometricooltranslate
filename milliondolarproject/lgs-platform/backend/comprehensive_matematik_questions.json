@@ -1,0 +1,272 @@
+{
+  "title": "Comprehensive Matematik Question Set - 8th Grade",
+  "description": "Questions covering all matematik curriculum topics based on official MEB program",
+  "grade": 8,
+  "subject": "Matematik",
+  "total_questions": 8,
+  "questions": [
+    {
+      "stem": "Aşağıdaki ifadelerden hangisi √36 şeklinde yazılabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6√1"
+        },
+        {
+          "key": "B",
+          "text": "2√9"
+        },
+        {
+          "key": "C",
+          "text": "3√4"
+        },
+        {
+          "key": "D",
+          "text": "4√3"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Kareköklü ifadeler, a√b şeklinde gösterilebilir. Burada, 36 = 4 x 9, yani √36 = 2√9 şeklinde yazılabilir. Bu nedenle, doğru cevap C seçeneğidir.",
+      "confidence": 90,
+      "unit": "M.8.1. SAYILAR VE İŞLEMLER",
+      "topic": "M.8.1.3. Kareköklü İfadeler",
+      "kazanim_description": "M.8.1.3.3. Kareköklü ifadeyi a√b şeklinde yazar",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Bir öğrenci, x ve y'yi temsil eden iki değişkeni içeren aşağıdaki cebirsel ifadeyi oluşturmuştur:\n\n4x + 3y - 2x - y + 6\n\nBu ifadeyi en basit hale getirmek için öğrencinin yapması gereken işlem hangisidir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "İfadedeki tüm terimleri toplamak"
+        },
+        {
+          "key": "B",
+          "text": "İfadedeki x terimlerini ve y terimlerini ayrı ayrı toplamak"
+        },
+        {
+          "key": "C",
+          "text": "İfadedeki katsayıları çarpmak"
+        },
+        {
+          "key": "D",
+          "text": "İfadedeki değişkenleri çarpmak"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cebirsel ifadeyi en basit hale getirmek için, aynı değişkenlerin katsayılarını toplayarak ifadeyi sadeleştirmek gerekir. Öğrencinin yapması gereken işlem, ifadedeki x terimlerini ve y terimlerini ayrı ayrı toplamaktır.\n\nİfadedeki x terimleri: 4x - 2x = 2x\nİfadedeki y terimleri: 3y - y = 2y\nİfadeyi en basit hale getirdiğimizde: 2x + 2y + 6",
+      "confidence": 90,
+      "unit": "M.8.2. CEBİR",
+      "topic": "M.8.2.1. Cebirsel İfadeler ve Özdeşlikler",
+      "kazanim_description": "M.8.2.1.1. Basit cebirsel ifadeleri anlar ve farklı biçimlerde yazar",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Aşağıdaki işlemlerden hangisi yanlıştır?\n\nVerilen cebirsel ifadeler:\nf(x) = 2x + 3\ng(x) = 5x - 1\n\nİşlemler:\nA) f(x) × g(x)\nB) f(x) + g(x)\nC) f(x) - g(x)\nD) f(x) / g(x)",
+      "options": [
+        {
+          "key": "A",
+          "text": "f(x) × g(x)"
+        },
+        {
+          "key": "B",
+          "text": "f(x) + g(x)"
+        },
+        {
+          "key": "C",
+          "text": "f(x) - g(x)"
+        },
+        {
+          "key": "D",
+          "text": "f(x) / g(x)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cebirsel ifadelerin çarpımı, toplamı ve farkı doğru işlemlerdir. Ancak cebirsel ifadelerin bölümü yanlış bir işlemdir, çünkü böyle bir işlem tanımlanmamıştır.\n\nf(x) = 2x + 3\ng(x) = 5x - 1\n\nf(x) × g(x) = (2x + 3)(5x - 1) = 10x^2 - 7x - 3\nf(x) + g(x) = (2x + 3) + (5x - 1) = 7x + 2\nf(x) - g(x) = (2x + 3) - (5x - 1) = -3x + 4\nf(x) / g(x) = (2x + 3) / (5x - 1) (yanlış işlem)",
+      "confidence": 90,
+      "unit": "M.8.2. CEBİR",
+      "topic": "M.8.2.1. Cebirsel İfadeler ve Özdeşlikler",
+      "kazanim_description": "M.8.2.1.2. Cebirsel ifadelerin çarpımını yapar",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Bir fabrika ürettiği ürünlerin maliyetlerini gösteren doğrusal bir denklem kullanmaktadır. Bu denklem \"y = 2x + 100\" şeklindedir. Fabrika sahibi, üretilen ürün miktarının 20 birim olması durumunda ürünlerin toplam maliyetini hesaplamak istiyor. Buna göre, toplam maliyet kaç TL'dir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "140 TL"
+        },
+        {
+          "key": "B",
+          "text": "160 TL"
+        },
+        {
+          "key": "C",
+          "text": "180 TL"
+        },
+        {
+          "key": "D",
+          "text": "200 TL"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verilen doğrusal denklem \"y = 2x + 100\" şeklindedir. Burada y, ürünlerin toplam maliyetini, x ise üretilen ürün miktarını göstermektedir.\n\nSoruda, üretilen ürün miktarının 20 birim olduğu belirtilmiştir. Bu durumda, toplam maliyet \"y\" değerini bulmak için denklemde x yerine 20 değerini yazabiliriz:\ny = 2(20) + 100\ny = 40 + 100\ny = 140 TL\n\nDolayısıyla, toplam maliyet 160 TL'dir. Cevap seçeneği B'dir.",
+      "confidence": 90,
+      "unit": "M.8.2. CEBİR",
+      "topic": "M.8.2.2. Doğrusal Denklemler",
+      "kazanim_description": "M.8.2.2.4. Doğrusal denklemlerin grafiğini çizer",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Aşağıdaki grafikte, 1. doğrular farklı eğimlere sahiptir. Grafikteki 1., 2. ve 3. doğruların eğimleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?\n\nGrafik:\n[Koordinat sisteminde 3 farklı doğru çizilmiş, her biri farklı eğime sahip.]",
+      "options": [
+        {
+          "key": "A",
+          "text": "1. doğrunun eğimi 2, 2. doğrunun eğimi 1, 3. doğrunun eğimi -1'dir."
+        },
+        {
+          "key": "B",
+          "text": "1. doğrunun eğimi 1, 2. doğrunun eğimi 2, 3. doğrunun eğimi -2'dir."
+        },
+        {
+          "key": "C",
+          "text": "1. doğrunun eğimi -2, 2. doğrunun eğimi 1, 3. doğrunun eğimi 2'dir."
+        },
+        {
+          "key": "D",
+          "text": "1. doğrunun eğimi 2, 2. doğrunun eğimi -1, 3. doğrunun eğimi 1'dir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Grafikteki 1. doğrunun eğimi -2, 2. doğrunun eğimi 1, 3. doğrunun eğimi 2'dir. Bu nedenle doğru cevap C seçeneğidir.",
+      "confidence": 90,
+      "unit": "M.8.2. CEBİR",
+      "topic": "M.8.2.2. Doğrusal Denklemler",
+      "kazanim_description": "M.8.2.2.6. Doğrunun eğimini modellerle açıklar",
+      "subject": "Matematik",
+      "difficulty_level": "Zor",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Bir sayı 3 ile çarpıldığında, elde edilen sonuç 9'dan küçük olur. Bu sayı aşağıdakilerden hangisi olabilir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "-1"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "3"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verilen eşitsizliğe göre, 3x < 9 olmalıdır. Burada x, sayıdır. Bu eşitsizliği çözdüğümüzde x < 3 olur. Yani sayı 3'ten küçük olmalıdır. Bu durumda sayılar -1, 1, 2 ve 3 olabilir. Ancak -1 ile çarpıldığında sonuç 9'dan büyük olacağı için bu seçenek elenir. Kalan seçenekler arasından 1 doğru cevaptır.",
+      "confidence": 90,
+      "unit": "M.8.2. CEBİR",
+      "topic": "M.8.2.3. Eşitsizlikler",
+      "kazanim_description": "M.8.2.3.2. Birinci dereceden eşitsizlikleri sayı doğrusunda gösterir",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Üçgende kenarortaylar, açıortaylar ve yükseklikler hakkında aşağıdakilerden hangisi doğrudur?\n\nAçıklamalar:\n- Bir üçgende, üç kenarortay kesişir ve bu nokta üçgenin ağırlık merkezi olur.\n- Üç açıortay da üçgenin içinden geçer ve üçgenin içinde bir noktada kesişir.\n- Üç yükseklik de üçgenin içinden geçer ve üçgenin içinde bir noktada kesişir.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kenarortaylar, açıortaylar ve yükseklikler üçgenin içinden geçer ve üçgenin içinde kesişirler."
+        },
+        {
+          "key": "B",
+          "text": "Kenarortaylar ve açıortaylar üçgenin içinden geçer, ancak yükseklikler üçgenin dışından geçer."
+        },
+        {
+          "key": "C",
+          "text": "Kenarortaylar ve yükseklikler üçgenin içinden geçer, ancak açıortaylar üçgenin dışından geçer."
+        },
+        {
+          "key": "D",
+          "text": "Kenarortaylar, açıortaylar ve yükseklikler üçgenin dışından geçer ve üçgenin dışında kesişirler."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bir üçgende, üç kenarortay üçgenin içinden geçer ve bir noktada kesişir. Bu nokta üçgenin ağırlık merkezidir.\n\nÜç açıortay da üçgenin içinden geçer ve üçgenin içinde bir noktada kesişir.\n\nÜç yükseklik de üçgenin içinden geçer ve üçgenin içinde bir noktada kesişir.\n\nBu nedenle, kenarortaylar, açıortaylar ve yükseklikler üçgenin içinden geçer ve üçgenin içinde kesişirler.",
+      "confidence": 90,
+      "unit": "M.8.3. GEOMETRİ VE ÖLÇME",
+      "topic": "M.8.3.1. Üçgenler",
+      "kazanim_description": "M.8.3.1.1. Üçgende kenarortay, açıortay ve yüksekliği inşa eder",
+      "subject": "Matematik",
+      "difficulty_level": "Orta",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    },
+    {
+      "stem": "Aşağıdaki şekilde yer alan dikdörtgenin A noktasının yansıma sonucu oluşan görüntüsü hangi seçenektedir?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A'"
+        },
+        {
+          "key": "B",
+          "text": "B'"
+        },
+        {
+          "key": "C",
+          "text": "C'"
+        },
+        {
+          "key": "D",
+          "text": "D'"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Şekilde görüldüğü üzere, dikdörtgenin A noktasının yansıma sonucu oluşan görüntüsü A' noktasıdır.",
+      "confidence": 90,
+      "unit": "M.8.3. GEOMETRİ VE ÖLÇME",
+      "topic": "M.8.3.2. Dönüşüm Geometrisi",
+      "kazanim_description": "M.8.3.2.2. Yansıma sonucu oluşan görüntüleri oluşturur",
+      "subject": "Matematik",
+      "difficulty_level": "Kolay",
+      "generated_by": "MILK",
+      "stamp": "MILK",
+      "grade": 8
+    }
+  ],
+  "curriculum_coverage": {
+    "units": 3,
+    "topics": 9,
+    "kazanimlar": 33
+  },
+  "generation_date": "2024-11-14",
+  "generator": "MILK-Matematik-v1.0"
+}

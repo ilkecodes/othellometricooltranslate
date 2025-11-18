@@ -1,0 +1,618 @@
+"use client";
+
+import { useEffect, useState } from "react";
+import { enhancedApiClient } from "@/lib/api";
+
+interface StudentDashboard {
+  performance_summary: {
+    overall_score: number;
+    recent_questions_solved: number;
+    recent_correct_ratio: number;
+    current_streak: number;
+    total_study_time: number;
+  };
+  subject_mastery: Record<string, number>;
+  weak_topics: Array<{ 
+    topicId: number; 
+    topicName: string; 
+    masteryScore: number;
+    recommendations: string[];
+  }>;
+  recommendations: {
+    study_suggestions: string[];
+    video_recommendations: Array<{
+      title: string;
+      url: string;
+      subject: string;
+      duration: string;
+    }>;
+    practice_areas: string[];
+  };
+  adaptive_difficulty: {
+    current_level: string;
+    next_adjustment: string;
+    performance_trend: string;
+  };
+  achievements: Array<{
+    id: string;
+    title: string;
+    description: string;
+    earned_date: string;
+    icon: string;
+  }>;
+}
+
+export default function StudentDashboard() {
+  const [dashboard, setDashboard] = useState<StudentDashboard | null>(null);
+  const [activeTab, setActiveTab] = useState<'overview' | 'performance' | 'recommendations' | 'achievements'>('overview');
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const [email, setEmail] = useState("test@lgs.local");
+  const [password, setPassword] = useState("anything");
+  const [loggingIn, setLoggingIn] = useState(false);
+  const [token, setToken] = useState<string | null>(null);
+
+  const api = enhancedApiClient;
+
+  // Check if user is logged in on mount
+  useEffect(() => {
+    const storedToken = typeof window !== "undefined" ? localStorage.getItem("access_token") : null;
+    setToken(storedToken);
+    setLoading(false);
+  }, []);
+
+  // Fetch dashboard data when token is available
+  useEffect(() => {
+    if (!token) return;
+    fetchDashboard();
+  }, [token]);
+
+  const fetchDashboard = async () => {
+    try {
+      setLoading(true);
+      const data = await api.getStudentDashboard();
+      setDashboard(data);
+      setError(null);
+    } catch (err) {
+      setError(`Failed to load dashboard: ${err instanceof Error ? err.message : "Unknown error"}`);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleLogin = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setLoggingIn(true);
+    setError(null);
+    
+    try {
+      const url = `${process.env.NEXT_PUBLIC_API_URL}/api/v1/auth/token`;
+      console.log("Login URL:", url);
+      
+      const response = await fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+        body: `username=${encodeURIComponent(email)}&password=${encodeURIComponent(password)}`,
+      });
+
+      console.log("Response status:", response.status);
+      
+      if (!response.ok) {
+        const errorText = await response.text();
+        console.error("Error response:", errorText);
+        throw new Error(`Login failed: ${response.status}`);
+      }
+
+      const data = await response.json();
+      console.log("Login successful, token:", data.access_token?.substring(0, 20) + "...");
+      localStorage.setItem("access_token", data.access_token);
+      setToken(data.access_token);
+      setLoggingIn(false);
+    } catch (err) {
+      const errorMsg = err instanceof Error ? err.message : "Login failed";
+      console.error("Login error:", errorMsg);
+      setError(errorMsg);
+      setLoggingIn(false);
+    }
+  };
+
+  // Login form for unauthenticated users
+  if (!token) {
+    return (
+      <main style={{ maxWidth: "400px", margin: "100px auto", padding: "2rem" }}>
+        <h1>Öğrenci Girişi</h1>
+        
+        <form onSubmit={handleLogin} style={{ marginTop: "2rem" }}>
+        <div style={{ marginBottom: "1rem" }}>
+          <label style={{ display: "block", marginBottom: "0.5rem" }}>
+            E-posta:
+          </label>
+          <input
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+            style={{
+              width: "100%",
+              padding: "0.5rem",
+              fontSize: "1rem",
+              boxSizing: "border-box",
+            }}
+          />
+        </div>
+
+        <div style={{ marginBottom: "1rem" }}>
+          <label style={{ display: "block", marginBottom: "0.5rem" }}>
+            Şifre:
+          </label>
+          <input
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+            style={{
+              width: "100%",
+              padding: "0.5rem",
+              fontSize: "1rem",
+              boxSizing: "border-box",
+            }}
+          />
+        </div>
+
+        {error && !token && (
+          <div style={{ color: "red", marginBottom: "1rem" }}>
+            {error}
+          </div>
+        )}
+
+        <button
+          type="submit"
+          disabled={loggingIn}
+          style={{
+            width: "100%",
+            padding: "0.75rem",
+            fontSize: "1rem",
+            backgroundColor: "#007bff",
+            color: "white",
+            border: "none",
+            borderRadius: "4px",
+            cursor: loggingIn ? "not-allowed" : "pointer",
+            opacity: loggingIn ? 0.6 : 1,
+          }}
+        >
+          {loggingIn ? "Giriş yapılıyor..." : "Giriş Yap"}
+        </button>
+      </form>
+
+      <div style={{ marginTop: "2rem", fontSize: "0.9rem", color: "#666" }}>
+        <p><a href="/">← Ana Sayfaya Dön</a></p>
+      </div>
+    </main>
+  );
+  }
+
+  if (loading && token) {
+    return (
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '200px' }}>
+        <div style={{ textAlign: 'center' }}>
+          <div style={{ fontSize: '2rem', marginBottom: '1rem' }}>⏳</div>
+          <div>Öğrenci paneli yükleniyor...</div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error && token) {
+    return (
+      <div style={{ padding: '2rem', textAlign: 'center' }}>
+        <div style={{ color: 'red', fontSize: '1.2rem', marginBottom: '1rem' }}>❌ {error}</div>
+        <button onClick={fetchDashboard} style={{
+          padding: '0.5rem 1rem',
+          backgroundColor: '#007bff',
+          color: 'white',
+          border: 'none',
+          borderRadius: '4px',
+          cursor: 'pointer'
+        }}>
+          Tekrar Dene
+        </button>
+      </div>
+    );
+  }
+
+  const tabStyle = (isActive: boolean) => ({
+    padding: '0.75rem 1.5rem',
+    backgroundColor: isActive ? '#007bff' : '#f8f9fa',
+    color: isActive ? 'white' : '#495057',
+    border: '1px solid #dee2e6',
+    borderBottom: isActive ? '1px solid #007bff' : '1px solid #dee2e6',
+    cursor: 'pointer',
+    borderRadius: '8px 8px 0 0',
+    marginRight: '2px'
+  });
+
+  const cardStyle = {
+    backgroundColor: 'white',
+    borderRadius: '8px',
+    padding: '1.5rem',
+    marginBottom: '1.5rem',
+    boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
+    border: '1px solid #dee2e6'
+  };
+
+  const statCardStyle = {
+    ...cardStyle,
+    textAlign: 'center' as const,
+    padding: '2rem'
+  };
+
+  if (token && dashboard) {
+    return (
+      <main style={{ maxWidth: "1400px", margin: "0 auto", padding: "2rem", backgroundColor: '#f8f9fa', minHeight: '100vh' }}>
+        <div style={{ backgroundColor: 'white', padding: '2rem', borderRadius: '12px', boxShadow: '0 4px 6px rgba(0,0,0,0.1)', marginBottom: '2rem' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <div>
+              <h1 style={{ margin: '0 0 0.5rem 0', fontSize: '2.5rem', color: '#333' }}>📚 Öğrenci Paneli</h1>
+              <p style={{ margin: '0', color: '#666', fontSize: '1.1rem' }}>Kişiselleştirilmiş öğrenme deneyimim</p>
+            </div>
+            <button
+              onClick={() => {
+                localStorage.removeItem("access_token");
+                setToken(null);
+              }}
+              style={{
+                padding: "0.75rem 1.5rem",
+                backgroundColor: "#dc3545",
+                color: "white",
+                border: "none",
+                borderRadius: "8px",
+                cursor: "pointer",
+                fontSize: '1rem'
+              }}
+            >
+              🚪 Çıkış Yap
+            </button>
+          </div>
+        </div>
+
+        {/* Tab Navigation */}
+        <div style={{ marginBottom: '2rem' }}>
+          <div style={{ display: 'flex', borderBottom: '1px solid #dee2e6' }}>
+            <button onClick={() => setActiveTab('overview')} style={tabStyle(activeTab === 'overview')}>
+              📊 Genel Bakış
+            </button>
+            <button onClick={() => setActiveTab('performance')} style={tabStyle(activeTab === 'performance')}>
+              📈 Performansım
+            </button>
+            <button onClick={() => setActiveTab('recommendations')} style={tabStyle(activeTab === 'recommendations')}>
+              💡 Öneriler
+            </button>
+            <button onClick={() => setActiveTab('achievements')} style={tabStyle(activeTab === 'achievements')}>
+              🏆 Başarılarım
+            </button>
+          </div>
+        </div>
+
+        {/* Overview Tab */}
+        {activeTab === 'overview' && (
+          <div>
+            {/* Performance Summary */}
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
+              <div style={statCardStyle}>
+                <div style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>📊</div>
+                <div style={{ fontSize: '2rem', fontWeight: 'bold', color: '#007bff' }}>
+                  {dashboard.performance_summary.overall_score}%
+                </div>
+                <div style={{ color: '#666' }}>Genel Puan</div>
+              </div>
+              <div style={statCardStyle}>
+                <div style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>✅</div>
+                <div style={{ fontSize: '2rem', fontWeight: 'bold', color: '#28a745' }}>
+                  {dashboard.performance_summary.recent_questions_solved}
+                </div>
+                <div style={{ color: '#666' }}>Çözülen Soru</div>
+              </div>
+              <div style={statCardStyle}>
+                <div style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>🎯</div>
+                <div style={{ fontSize: '2rem', fontWeight: 'bold', color: '#17a2b8' }}>
+                  {(dashboard.performance_summary.recent_correct_ratio * 100).toFixed(1)}%
+                </div>
+                <div style={{ color: '#666' }}>Doğruluk Oranı</div>
+              </div>
+              <div style={statCardStyle}>
+                <div style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>🔥</div>
+                <div style={{ fontSize: '2rem', fontWeight: 'bold', color: '#ffc107' }}>
+                  {dashboard.performance_summary.current_streak}
+                </div>
+                <div style={{ color: '#666' }}>Seri Doğru</div>
+              </div>
+            </div>
+
+            {/* Adaptive Difficulty Status */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                ⚡ Akıllı Zorluk Sistemi
+              </h2>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem' }}>
+                <div style={{ padding: '1rem', backgroundColor: '#f8f9fa', borderRadius: '6px' }}>
+                  <div style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>Mevcut Seviye</div>
+                  <div style={{ fontSize: '1.2rem', color: '#007bff' }}>
+                    {dashboard.adaptive_difficulty.current_level}
+                  </div>
+                </div>
+                <div style={{ padding: '1rem', backgroundColor: '#f8f9fa', borderRadius: '6px' }}>
+                  <div style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>Performans Trendi</div>
+                  <div style={{ fontSize: '1.2rem', color: '#28a745' }}>
+                    {dashboard.adaptive_difficulty.performance_trend}
+                  </div>
+                </div>
+                <div style={{ padding: '1rem', backgroundColor: '#f8f9fa', borderRadius: '6px' }}>
+                  <div style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>Sonraki Ayarlama</div>
+                  <div style={{ fontSize: '1.2rem', color: '#17a2b8' }}>
+                    {dashboard.adaptive_difficulty.next_adjustment}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Quick Actions */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0' }}>🚀 Sınav Seçenekleri</h2>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1rem' }}>
+                <a href="/exam" style={{
+                  display: "block",
+                  padding: "1.5rem",
+                  backgroundColor: "#28a745",
+                  color: "white",
+                  textDecoration: "none",
+                  borderRadius: "8px",
+                  textAlign: "center",
+                  transition: "background-color 0.2s",
+                }}>
+                  <div style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>📝</div>
+                  <div style={{ fontWeight: "bold", marginBottom: "0.5rem" }}>Deneme Sınavı</div>
+                  <div style={{ fontSize: "0.9rem", opacity: 0.9 }}>Mevcut sorularla deneme sınavı çözün</div>
+                </a>
+
+                <a href="/exams/bundles" style={{
+                  display: "block",
+                  padding: "1.5rem",
+                  backgroundColor: "#007bff",
+                  color: "white",
+                  textDecoration: "none",
+                  borderRadius: "8px",
+                  textAlign: "center",
+                  transition: "background-color 0.2s",
+                }}>
+                  <div style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>🎯</div>
+                  <div style={{ fontWeight: "bold", marginBottom: "0.5rem" }}>LGS Sınav Paketleri</div>
+                  <div style={{ fontSize: "0.9rem", opacity: 0.9 }}>AI destekli adaptive sorularla</div>
+                </a>
+
+                <button onClick={() => setActiveTab('recommendations')} style={{
+                  padding: "1.5rem",
+                  backgroundColor: "#17a2b8",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "8px",
+                  cursor: "pointer",
+                  fontSize: "1rem"
+                }}>
+                  <div style={{ fontSize: "2rem", marginBottom: "0.5rem" }}>🎥</div>
+                  <div style={{ fontWeight: "bold", marginBottom: "0.5rem" }}>Video Önerileri</div>
+                  <div style={{ fontSize: "0.9rem", opacity: 0.9 }}>Kişisel öğrenme videoları</div>
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Performance Tab */}
+        {activeTab === 'performance' && (
+          <div>
+            {/* Subject Mastery */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                📚 Ders Hakimiyeti
+              </h2>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1rem' }}>
+                {Object.entries(dashboard.subject_mastery).map(([subject, score]) => (
+                  <div key={subject} style={{
+                    padding: '1rem',
+                    backgroundColor: '#f8f9fa',
+                    borderRadius: '6px',
+                    borderLeft: `4px solid ${score > 0.7 ? '#28a745' : score > 0.4 ? '#ffc107' : '#dc3545'}`
+                  }}>
+                    <div style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>{subject}</div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                      <div style={{ 
+                        fontSize: '1.5rem', 
+                        fontWeight: 'bold',
+                        color: score > 0.7 ? '#28a745' : score > 0.4 ? '#ffc107' : '#dc3545'
+                      }}>
+                        {(score * 100).toFixed(1)}%
+                      </div>
+                      <div style={{
+                        flexGrow: 1,
+                        height: '8px',
+                        backgroundColor: '#e9ecef',
+                        borderRadius: '4px',
+                        overflow: 'hidden'
+                      }}>
+                        <div style={{
+                          height: '100%',
+                          width: `${score * 100}%`,
+                          backgroundColor: score > 0.7 ? '#28a745' : score > 0.4 ? '#ffc107' : '#dc3545',
+                          transition: 'width 0.3s ease'
+                        }} />
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Weak Topics */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                ⚠️ Geliştirilmesi Gereken Konular
+              </h2>
+              {dashboard.weak_topics.length > 0 ? (
+                <div style={{ display: 'grid', gap: '1rem' }}>
+                  {dashboard.weak_topics.map((topic) => (
+                    <div key={topic.topicId} style={{
+                      padding: '1rem',
+                      backgroundColor: '#fff3cd',
+                      border: '1px solid #ffeaa7',
+                      borderRadius: '6px'
+                    }}>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.5rem' }}>
+                        <div style={{ fontWeight: 'bold' }}>{topic.topicName}</div>
+                        <div style={{ 
+                          fontSize: '1.2rem', 
+                          fontWeight: 'bold',
+                          color: '#dc3545'
+                        }}>
+                          {(topic.masteryScore * 100).toFixed(1)}%
+                        </div>
+                      </div>
+                      {topic.recommendations && topic.recommendations.length > 0 && (
+                        <div>
+                          <div style={{ fontWeight: 'bold', fontSize: '0.9rem', marginBottom: '0.25rem' }}>Öneriler:</div>
+                          <ul style={{ margin: '0', paddingLeft: '1.5rem', fontSize: '0.9rem' }}>
+                            {topic.recommendations.map((rec, idx) => (
+                              <li key={idx} style={{ color: '#856404' }}>{rec}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div style={{ textAlign: 'center', padding: '2rem', backgroundColor: '#d4edda', borderRadius: '6px', color: '#155724' }}>
+                  <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>🎉</div>
+                  <div style={{ fontSize: '1.2rem' }}>Harika! Zayıf konu tespit edilmedi.</div>
+                  <div>Tüm konularda iyi performans gösteriyorsun.</div>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* Recommendations Tab */}
+        {activeTab === 'recommendations' && (
+          <div>
+            {/* Study Suggestions */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                💡 Çalışma Önerileri
+              </h2>
+              <ul style={{ marginLeft: '1.5rem' }}>
+                {dashboard.recommendations.study_suggestions.map((suggestion, index) => (
+                  <li key={index} style={{ marginBottom: '0.5rem', color: '#495057' }}>{suggestion}</li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Video Recommendations */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                🎥 Video Önerileri
+              </h2>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1rem' }}>
+                {dashboard.recommendations.video_recommendations.map((video, index) => (
+                  <div key={index} style={{
+                    padding: '1rem',
+                    backgroundColor: '#f8f9fa',
+                    borderRadius: '6px',
+                    border: '1px solid #dee2e6'
+                  }}>
+                    <div style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>{video.title}</div>
+                    <div style={{ fontSize: '0.9rem', color: '#666', marginBottom: '0.5rem' }}>
+                      {video.subject} • {video.duration}
+                    </div>
+                    <a href={video.url} target="_blank" rel="noopener noreferrer" style={{
+                      padding: '0.5rem 1rem',
+                      backgroundColor: '#007bff',
+                      color: 'white',
+                      textDecoration: 'none',
+                      borderRadius: '4px',
+                      fontSize: '0.9rem',
+                      display: 'inline-block'
+                    }}>
+                      🎬 İzle
+                    </a>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Practice Areas */}
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                📝 Pratik Yapılacak Alanlar
+              </h2>
+              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
+                {dashboard.recommendations.practice_areas.map((area, index) => (
+                  <span key={index} style={{
+                    padding: '0.5rem 1rem',
+                    backgroundColor: '#e9ecef',
+                    borderRadius: '20px',
+                    fontSize: '0.9rem',
+                    border: '1px solid #ced4da'
+                  }}>
+                    {area}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Achievements Tab */}
+        {activeTab === 'achievements' && (
+          <div>
+            <div style={cardStyle}>
+              <h2 style={{ marginTop: '0', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                🏆 Başarılarım
+              </h2>
+              {dashboard.achievements.length > 0 ? (
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1rem' }}>
+                  {dashboard.achievements.map((achievement) => (
+                    <div key={achievement.id} style={{
+                      padding: '1.5rem',
+                      backgroundColor: '#fff3cd',
+                      border: '2px solid #ffc107',
+                      borderRadius: '8px',
+                      textAlign: 'center'
+                    }}>
+                      <div style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>{achievement.icon}</div>
+                      <div style={{ fontWeight: 'bold', fontSize: '1.1rem', marginBottom: '0.5rem' }}>
+                        {achievement.title}
+                      </div>
+                      <div style={{ color: '#856404', marginBottom: '0.5rem' }}>
+                        {achievement.description}
+                      </div>
+                      <div style={{ fontSize: '0.9rem', color: '#999' }}>
+                        {new Date(achievement.earned_date).toLocaleDateString('tr-TR')}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div style={{ textAlign: 'center', padding: '2rem', backgroundColor: '#f8f9fa', borderRadius: '6px' }}>
+                  <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>🎯</div>
+                  <div style={{ fontSize: '1.2rem' }}>Henüz başarı kazanmadın.</div>
+                  <div style={{ color: '#666' }}>Sorular çözerek başarı rozeti kazanabilirsin!</div>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+      </main>
+    );
+  }
+}
