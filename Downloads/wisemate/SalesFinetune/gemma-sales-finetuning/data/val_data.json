@@ -1,0 +1,383 @@
+{
+  "data": [
+    {
+      "text": "<start_of_turn>user\nHow do I use the consultant approach for significant objections?<end_of_turn>\n<start_of_turn>model\nAs someone who's helped dozens of companies work through this exact issue, I can tell you that [objection] is a common concern. The companies that succeed in solving this challenge typically approach it this way... [strategic advice]. This positions you as an expert advisor rather than a vendor.<end_of_turn>",
+      "id": 143,
+      "data_type": "enhanced_skill",
+      "category": "advanced_objection_techniques",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat key practice is introduced to aid the investigation of social structure and improve theorizing generally?<end_of_turn>\n<start_of_turn>model\nThe practice of examining levels of aggregation and theoretical abstraction is introduced.<end_of_turn>",
+      "id": "Q7",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I stay top-of-mind without being annoying when sharing industry insights?<end_of_turn>\n<start_of_turn>model\nSaw this article about [relevant industry trend] and remembered our conversation about [related topic]. Thought you might find it interesting. No response needed\u2014just wanted to share. This provides value without expecting anything in return.<end_of_turn>",
+      "id": 98,
+      "data_type": "enhanced_skill",
+      "category": "follow_up_persistence",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I naturally transition from small talk about growth challenges to business discussion?<end_of_turn>\n<start_of_turn>model\nSpeaking of growth challenges, that actually connects to why I wanted to meet with you today... This creates a smooth bridge using their own words and interests to naturally move into your business discussion without feeling forced or abrupt.<end_of_turn>",
+      "id": 61,
+      "data_type": "enhanced_skill",
+      "category": "conversation_starters",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I use the boomerang technique when they say 'Your company is too small'?<end_of_turn>\n<start_of_turn>model\nThat's exactly why we'd be perfect for you. Our size means you get direct access to our senior team and personalized attention that bigger companies can't provide. Isn't having dedicated support important for a client like you? This turns their objection into your competitive advantage.<end_of_turn>",
+      "id": 113,
+      "data_type": "enhanced_skill",
+      "category": "objection_handling_frameworks",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat's the best response when prospects say 'We're also looking at [specific competitor]'?<end_of_turn>\n<start_of_turn>model\nWelcome the comparison: 'That's smart - [Competitor] is worth evaluating. They do [acknowledge their strength] very well. Most of our clients who switched from them did so because [specific differentiator]. What's most important to you in making this decision?' Then position strategically: 'Both solutions will [basic capability]. The key difference is [your advantage]. For companies like yours, this typically means [specific benefit]. How important is [that benefit] to your success?' Make it about fit, not superiority.<end_of_turn>",
+      "id": 182,
+      "data_type": "critical_skill",
+      "category": "competitive_battle_cards",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I leverage social proof effectively in closing situations?<end_of_turn>\n<start_of_turn>model\nUse specific, relevant social proof: 'Three companies in your exact situation made this decision in the past month: [Company A] saw 23% improvement, [Company B] solved their compliance issues, [Company C] reduced costs by $400K. Here's what [most similar company] said about their results after 6 months...' Then connect to their situation: 'Based on your requirements, you should see similar outcomes. What would achieving those results mean for your organization?' Make the proof specific, recent, and relevant to their situation.<end_of_turn>",
+      "id": 198,
+      "data_type": "critical_skill",
+      "category": "advanced_closing_psychology",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat's my strategy when competing against the status quo or 'do nothing'?<end_of_turn>\n<start_of_turn>model\nMake status quo expensive: 'Staying with the current approach isn't free - it has hidden costs. Let's quantify what 'doing nothing' actually costs: [list inefficiencies, missed opportunities, competitive risks]. Over 12 months, that's $X in real costs plus $Y in missed opportunities. The question isn't whether you can afford to invest in a solution - it's whether you can afford not to.' Then create urgency: 'Every month you delay, competitors gain ground. What's the competitive risk of maintaining status quo for another year?'<end_of_turn>",
+      "id": 185,
+      "data_type": "critical_skill",
+      "category": "competitive_battle_cards",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nIn addressing the interplay of agency and structure, how did Giddens describe their connection?<end_of_turn>\n<start_of_turn>model\nGiddens (1984) argues that the connection between agency and structure is a relational duality, rather than a dichotomous dualism. He states that structure is both the outcome of and context for human action.<end_of_turn>",
+      "id": "Q10",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I use the R.I.O. method (Repeat, Isolate, Overcome) for price objections?<end_of_turn>\n<start_of_turn>model\nWhen they say 'It costs too much,' first Repeat: 'So what you're saying is that you feel the price is too high, is that correct?' Then Isolate: 'If price wasn't an issue, everything else about our solution works for you?' Finally Overcome: 'Let me show you how other clients achieved ROI that made the investment worthwhile...' This systematic approach ensures you fully understand and address their core concern.<end_of_turn>",
+      "id": 105,
+      "data_type": "enhanced_skill",
+      "category": "objection_handling_frameworks",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I handle an openly hostile prospect who attacks my company, product, and credibility during a meeting?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 201,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I create emotional investment without being manipulative?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 217,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I close a complex deal when faced with an immovable deadline that seems unrealistic?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 237,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nMulti-turn conversation: Helping prospect find budget through reallocation<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 241,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nA prospect claims they make all the decisions. How do I validate this?<end_of_turn>\n<start_of_turn>model\nThat's great. For something that affects multiple departments, do you typically get input from other stakeholders? What would make this an easy yes for you? This gently probes for other influencers while understanding their decision criteria.<end_of_turn>",
+      "id": 68,
+      "data_type": "enhanced_skill",
+      "category": "qualification_scenarios",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I create compelling ROI narratives for five different stakeholders with conflicting priorities?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 225,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I maintain authenticity while adapting my communication style?<end_of_turn>\n<start_of_turn>model\nAdapt delivery, not personality: You can be naturally relationship-focused but still lead with data for analytical prospects. You can be naturally fast-paced but still slow down for deliberate decision-makers. Stay true to your values and expertise while flexing your communication approach. Think of it as translation, not transformation. You're presenting the same authentic message in the language they best receive it. Practice makes this feel natural rather than forced.<end_of_turn>",
+      "id": 195,
+      "data_type": "critical_skill",
+      "category": "communication_style_adaptation",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nBesides aggregation, what other type of theory development does a systemic view encourage?<end_of_turn>\n<start_of_turn>model\nA systemic view highlights the benefit of focusing on developing midrange theories that connect to and inform general theories.<end_of_turn>",
+      "id": "Q16",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat's the best approach when a prospect needs more relationship development before closing?<end_of_turn>\n<start_of_turn>model\nShift to relationship-building mode: 'I realize we might be moving quickly through this process. Rather than focus on our solution, I'd love to understand more about your business challenges and goals. What are the biggest opportunities you're focused on this year?' Then provide industry insights: 'I've seen companies in your space tackle similar challenges in three ways...' Offer value without selling: Send relevant articles, invite to industry events, introduce to useful contacts. Let the relationship strengthen naturally before returning to sales conversations.<end_of_turn>",
+      "id": 178,
+      "data_type": "critical_skill",
+      "category": "strategic_timing_indicators",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat is the key contribution of the article \"Effectual selling in service ecosystems\"?<end_of_turn>\n<start_of_turn>model\nThis conceptual article introduces the notion of effectual selling to the sales literature by drawing upon effectuation theory and service dominant logic. It conceptualizes means by which salespeople manage uncertainty and value co-creation within ecosystems, often emphasizing the micro and meso level of aggregation.<end_of_turn>",
+      "id": "Q25",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I provide social proof when my best reference customers are unavailable or under NDA?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 248,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow can accounting for different levels of analysis aid in understanding boundary conditions?<end_of_turn>\n<start_of_turn>model\nBy more richly and broadly accounting for various factors (e.g., salesperson, salesperson-buyer relationship, firm, industry, country, time) and their interplay, researchers can gain a greater understanding of when and how relationships emerge, thus revealing boundary conditions.<end_of_turn>",
+      "id": "Q20",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I respond when a prospect says 'We don't have the budget'?<end_of_turn>\n<start_of_turn>model\nIf a lack of budget were truly the issue, you likely wouldn't be in conversation with me at all. What you really mean is that you don't have the money right now. When do you expect your budget to open back up? If this is a problem worth solving, I'd like to follow up with you then. This reframes the objection and secures future engagement.<end_of_turn>",
+      "id": 115,
+      "data_type": "enhanced_skill",
+      "category": "specific_objection_responses",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I assess timeline when a customer says 'We need to move quickly'?<end_of_turn>\n<start_of_turn>model\nWhat's driving the urgency? Is there a specific deadline or event? What happens if this isn't resolved by [date]? This uncovers the real timeline pressure and helps you understand consequences of delay.<end_of_turn>",
+      "id": 69,
+      "data_type": "enhanced_skill",
+      "category": "qualification_scenarios",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I recognize when I'm pushing too hard for a close?<end_of_turn>\n<start_of_turn>model\nWarning signs you're pushing too hard: 1) They become less responsive to communications, 2) Start giving shorter, more formal answers, 3) Avoid scheduling follow-up meetings, 4) Bring up new objections after previously agreeing, 5) Request 'more time to think' repeatedly, 6) Body language becomes defensive (crossed arms, leaning back), 7) Phone calls become shorter. When this happens, step back: 'I sense I might be moving too fast. Help me understand what information you need to feel comfortable with your decision-making process.'<end_of_turn>",
+      "id": 177,
+      "data_type": "critical_skill",
+      "category": "strategic_timing_indicators",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow should value be quantified for commercial sector customers?<end_of_turn>\n<start_of_turn>model\nValue should be quantified in terms of their revenue, operating margin (profit), cash flow, and asset utilization. These are referred to as the \"Four Pillars of Finance\".<end_of_turn>",
+      "id": "Q46",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat's an effective opening for healthcare prospects concerned about patient satisfaction?<end_of_turn>\n<start_of_turn>model\nPatient satisfaction scores are becoming increasingly important. What's your biggest challenge in improving patient experience? This positions you as understanding their industry pressures and invites them to share specific challenges you can address.<end_of_turn>",
+      "id": 56,
+      "data_type": "enhanced_skill",
+      "category": "conversation_starters",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat concept did Pierre Bourdieu appropriate to describe the source of social structure that guides practices?<end_of_turn>\n<start_of_turn>model\nBourdieu (1977) appropriated the concept of fields (settings in which agents and their social positions are located) to argue that social structure comes from a wide range of nested and overlapping domains.<end_of_turn>",
+      "id": "Q11",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat does the customer ultimately value, and how should this value be presented?<end_of_turn>\n<start_of_turn>model\nWhat the customer ultimately values is the outcome to their business (or person) brought about by the solution. For the outcome to have the greatest impact, it should be measurable.<end_of_turn>",
+      "id": "Q31",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow should I handle 'I don't see how your solution will help me'?<end_of_turn>\n<start_of_turn>model\nI've worked with similar people/businesses, and they had [X problem]. Our solutions solve this, which saves them significant [money/time]. Do you experience [X problem] as well? This connects their situation to proven success stories and gets them to acknowledge similar problems.<end_of_turn>",
+      "id": 121,
+      "data_type": "enhanced_skill",
+      "category": "specific_objection_responses",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I re-engage a highly qualified prospect who suddenly went completely dark after showing strong interest?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 202,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhen is leverage considered \"positive\"?<end_of_turn>\n<start_of_turn>model\nIt is positive leverage when people move voluntarily because of the ViO (Value, Impact, and Outcome) that the seller provides.<end_of_turn>",
+      "id": "Q34",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I detect and address hidden emotional objections?<end_of_turn>\n<start_of_turn>model\nWhen they say 'We'll get back to you' but seem disengaged, respond: 'I sense there might be something else on your mind about this. Would you be comfortable sharing what's really concerning you? I'd rather address any real concerns now than have you politely disengage and both of us waste time.' This directly addresses the emotional disconnect.<end_of_turn>",
+      "id": 142,
+      "data_type": "enhanced_skill",
+      "category": "advanced_objection_techniques",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I salvage a deal when my prospect company gets acquired mid-sales process and new owners want to 'review all vendor relationships'?<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 220,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat three lenses frame the work of salespeople according to the integrative conceptual framework presented in \"Toward a new perspective on salesperson success and motivation\"?<end_of_turn>\n<start_of_turn>model\nThe article proposes that the work of salespeople is framed through three lenses: the advisor, the entrepreneur, and the personalizer.<end_of_turn>",
+      "id": "Q26",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I apply objection judo to 'We need to think about it'?<end_of_turn>\n<start_of_turn>model\nThat's exactly what you should do - this is an important decision. What specific aspects do you want to think through? I might be able to provide information that helps your thinking process. This uses their resistance energy to move the conversation forward constructively.<end_of_turn>",
+      "id": 112,
+      "data_type": "enhanced_skill",
+      "category": "objection_handling_frameworks",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat potential contribution can sales researchers make to broader theory building (midrange and general theory)?<end_of_turn>\n<start_of_turn>model\nSales researchers should be encouraged to contribute to midrange theories (e.g., the formation of new business models) and general theory (e.g., market shaping, value cocreation) since their expertise can undoubtedly inform these discussions.<end_of_turn>",
+      "id": "Q19",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat's the psychology behind using scarcity effectively without seeming manipulative?<end_of_turn>\n<start_of_turn>model\nCreate genuine scarcity based on real constraints: 'Our implementation team only takes on 3 new enterprise clients per quarter to ensure success. We have one spot left for Q4 start dates.' Or resource-based: 'To deliver the level of service you need, we limit clients per account manager. Sarah has capacity for one more client this quarter.' Or seasonal: 'The pricing includes 2024 features. 2025 pricing reflects our new AI capabilities.' Make the scarcity real and logical, not artificially created pressure.<end_of_turn>",
+      "id": 197,
+      "data_type": "critical_skill",
+      "category": "advanced_closing_psychology",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I proactively position against a major competitor before they're mentioned?<end_of_turn>\n<start_of_turn>model\nInoculation strategy: Early in the sales process, say: 'In evaluating solutions, you'll probably look at [Competitor X]. They're a solid company with a different philosophy than ours. They focus on [their strength], which works well for [specific use case]. Our approach prioritizes [your differentiator] because we've found that [customer type] gets better results when [your method]. What matters most to you - [their approach] or [your approach]?' This frames the comparison favorably while acknowledging their legitimacy.<end_of_turn>",
+      "id": 181,
+      "data_type": "critical_skill",
+      "category": "competitive_battle_cards",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I properly execute the Columbo close?<end_of_turn>\n<start_of_turn>model\nAfter wrapping up the conversation and heading toward the door, turn back casually: 'There's just one more thing \u2013 what would keep you from moving forward with this?' Use a friendly, low-stakes tone so it feels natural rather than contrived. This often uncovers the real objection they've been holding back.<end_of_turn>",
+      "id": 160,
+      "data_type": "enhanced_skill",
+      "category": "closing_techniques_advanced",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I respond to 'I'm happy with the way things are'?<end_of_turn>\n<start_of_turn>model\nHow is your current solution solving for [X pain point]? This forces them to explain the most obvious problem with their current situation. Then explain how your solution specifically solves those problems they just admitted to having.<end_of_turn>",
+      "id": 119,
+      "data_type": "enhanced_skill",
+      "category": "specific_objection_responses",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat's an effective question-based follow-up approach?<end_of_turn>\n<start_of_turn>model\nQuick question from our meeting yesterday: You mentioned [specific challenge]. How are you handling that currently? I have an idea that might help. This shows you were listening and positions you as a problem-solver.<end_of_turn>",
+      "id": 97,
+      "data_type": "enhanced_skill",
+      "category": "follow_up_persistence",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I use the Columbo technique to uncover hidden objections?<end_of_turn>\n<start_of_turn>model\nAfter presenting and seeming to wrap up, turn back and say: 'Oh, just one more thing before I go... In your experience, what typically prevents companies like yours from moving forward with solutions like this? Is there anything about our approach that concerns you that we haven't discussed?' This catches them off-guard and reveals real concerns.<end_of_turn>",
+      "id": 109,
+      "data_type": "enhanced_skill",
+      "category": "objection_handling_frameworks",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I systematically identify and address all potential buyer risks?<end_of_turn>\n<start_of_turn>model\nUse the RICE framework - Risk, Impact, Cost, Ease: 1) Risk identification: 'What concerns do you have about making this decision?' 2) Impact assessment: 'What happens if those concerns materialize?' 3) Cost evaluation: 'What would those outcomes cost you?' 4) Ease mitigation: 'How can we minimize or eliminate each risk?' Address each category: Financial risk (ROI guarantees), Technical risk (pilot programs), People risk (change management), Timeline risk (phased implementation), Vendor risk (references, stability proof).<end_of_turn>",
+      "id": 186,
+      "data_type": "critical_skill",
+      "category": "risk_assessment_and_mitigation",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nMulti-turn conversation: Building trust with burned prospect who had bad vendor experience<end_of_turn>\n<start_of_turn>model\n<end_of_turn>",
+      "id": 223,
+      "data_type": "enhanced_skill",
+      "category": "training_data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow are midrange theories distinguished from micro theories and general theories?<end_of_turn>\n<start_of_turn>model\nMidrange theories fall between micro theories (which focus on individuals and small groups and their interactions) and general theory (which explains a broad subject, like market formation). Midrange theory aims to explain \"a subset of phenomena relevant to a particular context\".<end_of_turn>",
+      "id": "Q17",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I use emotional intelligence to read objection subtext?<end_of_turn>\n<start_of_turn>model\nListen for emotional indicators: 'We've been burned before' indicates fear and trust issues requiring reassurance. 'This is interesting...' with trailing off often means polite rejection needing re-engagement. 'I need to run this by my team' may indicate lack of authority requiring stakeholder involvement. Match your response to the emotional subtext, not just the words.<end_of_turn>",
+      "id": 147,
+      "data_type": "enhanced_skill",
+      "category": "advanced_objection_techniques",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nWhat should I do when a prospect seems in no hurry to make a decision?<end_of_turn>\n<start_of_turn>model\nWhat's the current impact of not having a solution? If you wait six months, what might change about your situation? This explores the cost of inaction and potential future complications that could create urgency.<end_of_turn>",
+      "id": 70,
+      "data_type": "enhanced_skill",
+      "category": "qualification_scenarios",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nHow do I handle situations where my product has fewer features than competitors?<end_of_turn>\n<start_of_turn>model\nReframe to outcome focus: 'You're right, we have fewer features. Here's why that's actually better for you: Our 12 core features handle 95% of what companies like yours actually use daily. Competitor X has 47 features, but studies show companies typically use only 23% of available functionality. You pay for complexity you don't need, plus longer training times and more user confusion. Which matters more - feature count or business results?' Position simplicity as strategic advantage.<end_of_turn>",
+      "id": 174,
+      "data_type": "critical_skill",
+      "category": "value_translation_framework",
+      "difficulty": "medium"
+    },
+    {
+      "text": "<start_of_turn>user\nOn the Leverage Slope, what drives a seller's leverage, and what heavily influences it?<end_of_turn>\n<start_of_turn>model\nA seller's leverage is driven by unique value and heavily influenced by incumbency.<end_of_turn>",
+      "id": "Q39",
+      "data_type": "simple_qa",
+      "category": "general",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "total_samples": 50,
+    "data_types": {
+      "enhanced_skill": 27,
+      "simple_qa": 13,
+      "critical_skill": 10
+    },
+    "categories": {
+      "advanced_objection_techniques": 3,
+      "general": 13,
+      "follow_up_persistence": 2,
+      "conversation_starters": 2,
+      "objection_handling_frameworks": 4,
+      "competitive_battle_cards": 3,
+      "advanced_closing_psychology": 2,
+      "training_data": 9,
+      "qualification_scenarios": 3,
+      "communication_style_adaptation": 1,
+      "strategic_timing_indicators": 2,
+      "specific_objection_responses": 3,
+      "closing_techniques_advanced": 1,
+      "risk_assessment_and_mitigation": 1,
+      "value_translation_framework": 1
+    },
+    "difficulties": {
+      "medium": 50
+    },
+    "format": "gemma_comprehensive_sales"
+  }
+}

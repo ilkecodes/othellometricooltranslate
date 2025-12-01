@@ -1,0 +1,16 @@
+{
+  "architectures": ["CausalLMHeadModel"],
+  "model_type": "gpt2",
+  "peft_type": "LORA",
+  "task_type": "CAUSAL_LM",
+  "lora_alpha": 16,
+  "lora_dropout": 0.1,
+  "r": 8,
+  "target_modules": [
+    "o_proj",
+    "k_proj",
+    "v_proj",
+    "q_proj"
+  ],
+  "inference_mode": true
+}
