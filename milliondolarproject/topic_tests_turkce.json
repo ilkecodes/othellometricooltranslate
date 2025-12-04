@@ -1,0 +1,298 @@
+{
+  "subject": "Türkçe",
+  "total_tests": 3,
+  "total_questions": 9,
+  "answer_key_found": true,
+  "answer_key_size": 12,
+  "tests": [
+    {
+      "test_number": 1,
+      "topic": "Test 1",
+      "kazanim": null,
+      "question_count": 4,
+      "questions": [
+        {
+          "question_number": 1,
+          "stem": "Fiilimsiler, fiilden türeyen ancak fiilin bütün özelliklerini göstermeyen sözcüklerdir. Bu sözcükler fiiller gibi olumsuz yapılabilir ama çekimlenemez. Buna göre aşağıdaki dizelerden hangisinde fiilimsi yoktur?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tekerlekler yollara bir şeyler anlatıyor, - Uzun yollar bu sesten silkinerek yatıyor..."
+            },
+            {
+              "key": "B",
+              "text": "Bağrında duyulmadık gizli emeller saklar, - En uzak ümitleri fısıldar ruha sesi."
+            },
+            {
+              "key": "C",
+              "text": "Şu kalbimin taşkın atışından duyulur, - Seni ne kadar sevdiğim, memleketim!"
+            },
+            {
+              "key": "D",
+              "text": "Bahçeler boyunca erik, elma, kiraz. - Su içinde yosun, su üstünde saz..."
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "D",
+          "test_number": 1,
+          "topic": "Test 1",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        },
+        {
+          "question_number": 2,
+          "stem": "Daha deniz görmemiş bir çoban çocuğuyum - Bu dağların en eski aşinasıdır soyum. Bu dizelerdeki fiilimsinin türce özdeşi aşağıdakilerden hangisinde vardır?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Caddeden sokaklara doğru sesler elendi, - Pencereler kapandı, kapılar sürmelendi."
+            },
+            {
+              "key": "B",
+              "text": "Mezarda ölü gibi yalnız kaldım odamda: - Yanan alnım duvarda, sönen gözlerim camda."
+            },
+            {
+              "key": "C",
+              "text": "Son yolcunun gömüldü yolda son adımları, - Bekçi sert bir vuruşla kırdı kaldırımları."
+            },
+            {
+              "key": "D",
+              "text": "Bu yıkıklar, çıkıklar kalmayacak ortada, - Biz dilsiz zannetsek de dağlar onu duymada."
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "B",
+          "test_number": 1,
+          "topic": "Test 1",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        },
+        {
+          "question_number": 3,
+          "stem": "Fiilimsilerle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fiilimsiler yardımıyla uzun cümleler kurulabilir."
+            },
+            {
+              "key": "B",
+              "text": "Fiilimsiler cümle içinde isim, sıfat ve zarf görevlerinde kullanılır."
+            },
+            {
+              "key": "C",
+              "text": "Fiilimsiler her zaman cümlenin başında bulunur."
+            },
+            {
+              "key": "D",
+              "text": "Fiilimsi ekleri, fiil kök veya gövdelerine gelir."
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "C",
+          "test_number": 1,
+          "topic": "Test 1",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        },
+        {
+          "question_number": 4,
+          "stem": "Aşağıdaki cümlelerden hangisinde altı çizili ek diğerlerinden farklı bir görevde kullanılmıştır?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Keloğlan, nükteli konuşmalarıyla etrafındakileri her zaman güldürürmüş."
+            },
+            {
+              "key": "B",
+              "text": "Ördek yavruları biraz büyüyünce ortalıkta dolaşmaya başlamış."
+            },
+            {
+              "key": "C",
+              "text": "Gereksiz konular üzerinde çok fazla durmayın, derdi dedem."
+            },
+            {
+              "key": "D",
+              "text": "Sazlıkta yarım daire şeklinde ilerleyen avcılar, büyük bir balık yakalamayı umuyorlardı."
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "D",
+          "test_number": 1,
+          "topic": "Test 1",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        }
+      ]
+    },
+    {
+      "test_number": 8,
+      "topic": "Test 8",
+      "kazanim": null,
+      "question_count": 3,
+      "questions": [
+        {
+          "question_number": 5,
+          "stem": "Çocuk sessizce geri döndü. O ana kadar balonlardan ayırmadığı gözleri dolu dolu olmuş, yürümeye bile mecali kalmamıştı. Birkaç adım attıktan sonra elinde olmadan onlara baktığında gördüklerine inanamadı. Balonlar, her nasılsa adamın elinden kurtulmuş ve yol kenarındaki büyük bir akasya ağacının dallarına takılmıştı. Bu parçadaki altı çizili sözcüklerden hangisi fiilimsi değildir?",
+          "options": [
+            {
+              "key": "A",
+              "text": "ayırmadığı"
+            },
+            {
+              "key": "B",
+              "text": "yürümeye"
+            },
+            {
+              "key": "C",
+              "text": "baktığında"
+            },
+            {
+              "key": "D",
+              "text": "kurtulmuş"
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "C",
+          "test_number": 8,
+          "topic": "Test 8",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        },
+        {
+          "question_number": 6,
+          "stem": "Sabah dümdüz ve sessiz olan deniz, öğleden sonra dalgalanıp coşar, bu yüzden sabahın erken saatlerini değerlendirmeye çalışın. Bu cümledeki fiilimsilerin türü aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sıfat-fiil - sıfat-fiil - zarf-fiil"
+            },
+            {
+              "key": "B",
+              "text": "İsim-fiil - zarf-fiil - sıfat-fiil"
+            },
+            {
+              "key": "C",
+              "text": "Zarf-fiil - isim-fiil - sıfat-fiil"
+            },
+            {
+              "key": "D",
+              "text": "Sıfat-fiil - zarf-fiil - isim-fiil"
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "A",
+          "test_number": 8,
+          "topic": "Test 8",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        },
+        {
+          "question_number": 7,
+          "stem": "Küçüklüğünüzde severek diktiğiniz bir fidanı yıllar sonra ağaç olarak görmek, hiç bıkmadan onunla ilgilenmek ve toprağı kuruyunca onu sulamak büyük bir güzellik. Bu cümlede numaralanmış sözcüklerden hangisi diğerlerinden farklı türde bir fiilimsidir?",
+          "options": [
+            {
+              "key": "A",
+              "text": "I."
+            },
+            {
+              "key": "B",
+              "text": "II."
+            },
+            {
+              "key": "C",
+              "text": "III."
+            },
+            {
+              "key": "D",
+              "text": "IV."
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "D",
+          "test_number": 8,
+          "topic": "Test 8",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        }
+      ]
+    },
+    {
+      "test_number": 2,
+      "topic": "Test 2",
+      "kazanim": null,
+      "question_count": 2,
+      "questions": [
+        {
+          "question_number": 8,
+          "stem": "Aşağıdakilerden hangisinde zarf-fiil cümleye zaman anlamı katmıştır?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Havalar soğuyunca hepimiz köyümüze döneriz."
+            },
+            {
+              "key": "B",
+              "text": "Büşra koşarak güvercinlerin arasına daldı."
+            },
+            {
+              "key": "C",
+              "text": "Köpekten korkan çocuk ağlaya ağlaya yanıma geldi."
+            },
+            {
+              "key": "D",
+              "text": "Akşama kadar dinlenmeden çalışmıştı."
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "B",
+          "test_number": 2,
+          "topic": "Test 2",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        },
+        {
+          "question_number": 11,
+          "stem": "Evinde, çok güzel hazırlanmış akşam sofrası onu bekliyordu.",
+          "options": [
+            {
+              "key": "A",
+              "text": "çok güzel hazırlanmış akşam sofrası"
+            },
+            {
+              "key": "B",
+              "text": "güzel hazırlanmış akşam sofrası"
+            },
+            {
+              "key": "C",
+              "text": "hazırlanmış akşam sofrası"
+            },
+            {
+              "key": "D",
+              "text": "çok güzel hazırlanmış"
+            }
+          ],
+          "has_image": false,
+          "correct_answer": "A",
+          "test_number": 2,
+          "topic": "Test 2",
+          "kazanim": null,
+          "subject": "Türkçe",
+          "source": "Kazanım Kavrama Testi"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_pdf": "/Users/ilkeileri/Downloads/Kazanım Kavrama Testleri/2017-2018 8.Sınıf TÜRKÇE Kazanım Testleri.pdf",
+    "type": "topic_test"
+  }
+}
